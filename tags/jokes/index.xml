@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jokes on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/jokes/</link>
+    <link>https://hsmalley.github.io/tags/jokes/</link>
     <description>Recent content in Jokes on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Oct 2011 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/jokes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/jokes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fun with Powershell</title>
-      <link>https://hsmalley.keybase.pub/post/fun-with-powershell/</link>
+      <link>https://hsmalley.github.io/post/fun-with-powershell/</link>
       <pubDate>Sat, 15 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/fun-with-powershell/</guid>
+      <guid>https://hsmalley.github.io/post/fun-with-powershell/</guid>
       <description>Stuck at work today? Let’s have fun with powershell.
 Open on your powershell and create a quick text-to-speech funtion:
 function say-this { param ( [Parameter(Mandatory=$true)] $Text ) $object = New-Object -ComObject SAPI.SpVoice $object.Speak($text) | Out-Null }

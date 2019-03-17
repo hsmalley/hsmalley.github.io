@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Powershell on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/powershell/</link>
+    <link>https://hsmalley.github.io/tags/powershell/</link>
     <description>Recent content in Powershell on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 27 Sep 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Powershell: Copy Files to Computers from AD &amp; Log it with Excel.</title>
-      <link>https://hsmalley.keybase.pub/post/powershell-copy-files-to-computers-from-ad-log-it-with-excel/</link>
+      <link>https://hsmalley.github.io/post/powershell-copy-files-to-computers-from-ad-log-it-with-excel/</link>
       <pubDate>Thu, 27 Sep 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/powershell-copy-files-to-computers-from-ad-log-it-with-excel/</guid>
+      <guid>https://hsmalley.github.io/post/powershell-copy-files-to-computers-from-ad-log-it-with-excel/</guid>
       <description>I needed to deploy some DLLs to patch a program. This will copy files to a computer and log it in excel. The logging is the only weak link in this script because it uses the credentials of what ever user is running the script. I even included a backout function in the event you need to revert your changes.
 http://poshcode.org/3667
 .gist table { margin-bottom: 0; }
@@ -25,10 +25,10 @@ http://poshcode.org/3667
     
     <item>
       <title>Fun with Powershell</title>
-      <link>https://hsmalley.keybase.pub/post/fun-with-powershell/</link>
+      <link>https://hsmalley.github.io/post/fun-with-powershell/</link>
       <pubDate>Sat, 15 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/fun-with-powershell/</guid>
+      <guid>https://hsmalley.github.io/post/fun-with-powershell/</guid>
       <description>Stuck at work today? Let’s have fun with powershell.
 Open on your powershell and create a quick text-to-speech funtion:
 function say-this { param ( [Parameter(Mandatory=$true)] $Text ) $object = New-Object -ComObject SAPI.SpVoice $object.Speak($text) | Out-Null }
@@ -39,10 +39,10 @@ UPDATE: Running it remotely doesn’t work Happy Scripting!</description>
     
     <item>
       <title>Using PowerShell to remotely install software.</title>
-      <link>https://hsmalley.keybase.pub/post/using-powershell-to-remotely-install-software/</link>
+      <link>https://hsmalley.github.io/post/using-powershell-to-remotely-install-software/</link>
       <pubDate>Fri, 11 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/using-powershell-to-remotely-install-software/</guid>
+      <guid>https://hsmalley.github.io/post/using-powershell-to-remotely-install-software/</guid>
       <description>Holy crap this is been hard! Finding a way to do this has taken some serious searching and reading. So enjoy! http://pastebin.com/LpkJnABj
 While looking for a way to install software remotely I fond many different
 methods that worked, kinda. There were some methods that came very close to doing what I wanted it to. However it just didn’t fit. I needed a way to connect to a workstation via domain admin credentials and update or install some software one it.</description>

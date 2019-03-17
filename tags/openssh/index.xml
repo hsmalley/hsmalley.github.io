@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Openssh on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/openssh/</link>
+    <link>https://hsmalley.github.io/tags/openssh/</link>
     <description>Recent content in Openssh on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Feb 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/openssh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/openssh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Odd Bits: Converting OpenSSH public keys</title>
-      <link>https://hsmalley.keybase.pub/post/odd-bits-converting-openssh-public-keys/</link>
+      <link>https://hsmalley.github.io/post/odd-bits-converting-openssh-public-keys/</link>
       <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/odd-bits-converting-openssh-public-keys/</guid>
+      <guid>https://hsmalley.github.io/post/odd-bits-converting-openssh-public-keys/</guid>
       <description>This is an interesting read.
 Odd Bits: Converting OpenSSH public keys.
 Converting OpenSSH public keys &amp;gt; I’ve posted a followup to this article that discusses ssh-agent.

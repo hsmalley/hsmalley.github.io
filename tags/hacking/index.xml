@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hacking on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/hacking/</link>
+    <link>https://hsmalley.github.io/tags/hacking/</link>
     <description>Recent content in Hacking on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Jan 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Pac-Man Hacked Onto a Touch-Screen Voting Machine Without Breaking &#34;Tamper-Evident&#34; Seals</title>
-      <link>https://hsmalley.keybase.pub/post/pac-man-hacked-onto-a-touch-screen-voting-machine-without-breaking-tamper-evident-seals/</link>
+      <link>https://hsmalley.github.io/post/pac-man-hacked-onto-a-touch-screen-voting-machine-without-breaking-tamper-evident-seals/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/pac-man-hacked-onto-a-touch-screen-voting-machine-without-breaking-tamper-evident-seals/</guid>
+      <guid>https://hsmalley.github.io/post/pac-man-hacked-onto-a-touch-screen-voting-machine-without-breaking-tamper-evident-seals/</guid>
       <description>There are just some things you want to be simply, plain, unexciting, and not “cheap”. Like backups, ammo, toilet paper, condoms, and voting machines.
 Pac-Man Hacked Onto a Touch-Screen Voting Machine Without Breaking “Tamper-Evident” Seals.</description>
     </item>

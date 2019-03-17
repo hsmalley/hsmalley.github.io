@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/uncategorized/</link>
+    <link>https://hsmalley.github.io/tags/uncategorized/</link>
     <description>Recent content in Uncategorized on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Jan 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>It&#39;s (a)live!</title>
-      <link>https://hsmalley.keybase.pub/post/hello-world-2/</link>
+      <link>https://hsmalley.github.io/post/hello-world-2/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/hello-world-2/</guid>
+      <guid>https://hsmalley.github.io/post/hello-world-2/</guid>
       <description>So The Hijax is live. I finally have a good looking &amp;amp; functional site. I’ve been working on getting this site up for months. I was way to ambitious when I set out to create this. I had not created a site since 1999 and 13 years later I just decided to make one. To paraphrase; One simply does not create a website. I quickly found out that I knew a lot about setting up the server but nothing about the site.</description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Win7 on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/win7/</link>
+    <link>https://hsmalley.github.io/tags/win7/</link>
     <description>Recent content in Win7 on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Dec 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/win7/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/win7/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Deploying Windows</title>
-      <link>https://hsmalley.keybase.pub/post/deploying-windows/</link>
+      <link>https://hsmalley.github.io/post/deploying-windows/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/deploying-windows/</guid>
+      <guid>https://hsmalley.github.io/post/deploying-windows/</guid>
       <description>Windows 7! Its here! I’ve been working and playing with windows 7 for a while now. I’m in love with it! Granted I’ll always have my love of Linux. But windows 7 just does what I need it to, when I need it to. The deployment process of it is really interesting to me. I’ve been working with windows deployment and imaging for 2 years now. I dabbled with it before but now I would consider my self an expert at deploying windows xp.</description>
     </item>
     

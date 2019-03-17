@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fun on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/fun/</link>
+    <link>https://hsmalley.github.io/tags/fun/</link>
     <description>Recent content in Fun on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 07 Mar 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/fun/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/fun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Because no one ever reads the documentation</title>
-      <link>https://hsmalley.keybase.pub/post/because-no-one-ever-reads-the-documentation/</link>
+      <link>https://hsmalley.github.io/post/because-no-one-ever-reads-the-documentation/</link>
       <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/because-no-one-ever-reads-the-documentation/</guid>
+      <guid>https://hsmalley.github.io/post/because-no-one-ever-reads-the-documentation/</guid>
       <description>[![You&#39;re Welcome or not.](https://i1.wp.com/www.thehijax.com/wp-content/uploads/2012/03/Help.png?resize=344%2C601 &#34;Help&#34;)](http://www.thehijax.com/?attachment_id=295)Because no one ever reads the documentation. </description>
     </item>
     
     <item>
       <title>In Soviet Russia chocolate coins eat you!</title>
-      <link>https://hsmalley.keybase.pub/post/in-soviet-russia-chocolate-coins-eat-you/</link>
+      <link>https://hsmalley.github.io/post/in-soviet-russia-chocolate-coins-eat-you/</link>
       <pubDate>Fri, 10 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/in-soviet-russia-chocolate-coins-eat-you/</guid>
+      <guid>https://hsmalley.github.io/post/in-soviet-russia-chocolate-coins-eat-you/</guid>
       <description>So it’s my birthday lunch at work today and I get some chocolate coins left over from the Chinese new year. On the left, Soviets. On the right, Liberty.</description>
     </item>
     
     <item>
       <title>Fun with Powershell</title>
-      <link>https://hsmalley.keybase.pub/post/fun-with-powershell/</link>
+      <link>https://hsmalley.github.io/post/fun-with-powershell/</link>
       <pubDate>Sat, 15 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/fun-with-powershell/</guid>
+      <guid>https://hsmalley.github.io/post/fun-with-powershell/</guid>
       <description>Stuck at work today? Let’s have fun with powershell.
 Open on your powershell and create a quick text-to-speech funtion:
 function say-this { param ( [Parameter(Mandatory=$true)] $Text ) $object = New-Object -ComObject SAPI.SpVoice $object.Speak($text) | Out-Null }

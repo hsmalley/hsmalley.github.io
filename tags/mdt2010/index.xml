@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mdt2010 on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/mdt2010/</link>
+    <link>https://hsmalley.github.io/tags/mdt2010/</link>
     <description>Recent content in Mdt2010 on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Mar 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/mdt2010/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/mdt2010/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>What&#39;s the build-id?</title>
-      <link>https://hsmalley.keybase.pub/post/whats-the-build-id/</link>
+      <link>https://hsmalley.github.io/post/whats-the-build-id/</link>
       <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/whats-the-build-id/</guid>
+      <guid>https://hsmalley.github.io/post/whats-the-build-id/</guid>
       <description>So I’m trying to deploy a custom wim for windows 7 and I keep running into a weird error: Error: Unable to find SETUP , needed to install the image
 This is what I managed to find and it works really well.
 http://www.pburch.com/blog/2010/03/05/a-tale-of-build-numbers-and-deployment/
@@ -26,19 +26,19 @@ I&amp;# 146;d just like you to know that I&amp;# 146;ve been pulling my hair out
     
     <item>
       <title>Windows Deployment Server</title>
-      <link>https://hsmalley.keybase.pub/post/windows-deployment-server/</link>
+      <link>https://hsmalley.github.io/post/windows-deployment-server/</link>
       <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/windows-deployment-server/</guid>
+      <guid>https://hsmalley.github.io/post/windows-deployment-server/</guid>
       <description>So I’ve learned the in and outs of Windows Deployment over the last 6 months. I’ve studied forums, blogs, etc. I would like to think of my self as a sort of expert in windows deployment technology. I’ve managed to Create a very stable and well performing windows xp image. Now I’m working on a Windows 7 image. However due to money and the ever decreasing budget my company has made the choice to limit our hardware refresh.</description>
     </item>
     
     <item>
       <title>Deploying Windows</title>
-      <link>https://hsmalley.keybase.pub/post/deploying-windows/</link>
+      <link>https://hsmalley.github.io/post/deploying-windows/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/deploying-windows/</guid>
+      <guid>https://hsmalley.github.io/post/deploying-windows/</guid>
       <description>Windows 7! Its here! I’ve been working and playing with windows 7 for a while now. I’m in love with it! Granted I’ll always have my love of Linux. But windows 7 just does what I need it to, when I need it to. The deployment process of it is really interesting to me. I’ve been working with windows deployment and imaging for 2 years now. I dabbled with it before but now I would consider my self an expert at deploying windows xp.</description>
     </item>
     

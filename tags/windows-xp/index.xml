@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows Xp on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/windows-xp/</link>
+    <link>https://hsmalley.github.io/tags/windows-xp/</link>
     <description>Recent content in Windows Xp on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Mar 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/windows-xp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/windows-xp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Windows Deployment Server</title>
-      <link>https://hsmalley.keybase.pub/post/windows-deployment-server/</link>
+      <link>https://hsmalley.github.io/post/windows-deployment-server/</link>
       <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/windows-deployment-server/</guid>
+      <guid>https://hsmalley.github.io/post/windows-deployment-server/</guid>
       <description>So I’ve learned the in and outs of Windows Deployment over the last 6 months. I’ve studied forums, blogs, etc. I would like to think of my self as a sort of expert in windows deployment technology. I’ve managed to Create a very stable and well performing windows xp image. Now I’m working on a Windows 7 image. However due to money and the ever decreasing budget my company has made the choice to limit our hardware refresh.</description>
     </item>
     
     <item>
       <title>OEM#.inf</title>
-      <link>https://hsmalley.keybase.pub/post/oem-inf/</link>
+      <link>https://hsmalley.github.io/post/oem-inf/</link>
       <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/oem-inf/</guid>
+      <guid>https://hsmalley.github.io/post/oem-inf/</guid>
       <description>I’m the lead for updating our corporate standard computer image here. We are using XP and looking to move into 7. However the years that I’ve been updating the image and making it work work on our platforms have caused the image to get some really odd driver errors. I was stressing over why I was getting all of these Driver Prompts for various files. I knew the files were there and for some reason windows just couldn’t see them.</description>
     </item>
     

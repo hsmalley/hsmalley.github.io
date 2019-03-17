@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet Explorer on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/internet-explorer/</link>
+    <link>https://hsmalley.github.io/tags/internet-explorer/</link>
     <description>Recent content in Internet Explorer on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Jan 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/internet-explorer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/internet-explorer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IE HTTP 500 ERROR</title>
-      <link>https://hsmalley.keybase.pub/post/ie-http-500-error/</link>
+      <link>https://hsmalley.github.io/post/ie-http-500-error/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/ie-http-500-error/</guid>
+      <guid>https://hsmalley.github.io/post/ie-http-500-error/</guid>
       <description>I’ve been going crazy trying to fix a problem with uploading a file over a https secured ftp site for one of my uses. I contacted their help desk and it looks like KB2585542 broke a few things. I removed names and URLs on the rest of the post.
 Per our conversation: Recent Microsoft patches (Microsoft KB2585542) on windows 7 has broken the IE upload facility for our secureftp environment. On Microsoft TechNet, many users are discussing their respective websites broken.</description>
     </item>

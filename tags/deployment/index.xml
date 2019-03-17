@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deployment on Have an average day :|</title>
-    <link>https://hsmalley.keybase.pub/tags/deployment/</link>
+    <link>https://hsmalley.github.io/tags/deployment/</link>
     <description>Recent content in Deployment on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Mar 2010 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hsmalley.keybase.pub/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hsmalley.github.io/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>On Virtualization and Image Building</title>
-      <link>https://hsmalley.keybase.pub/post/on-virtualization-image-building/</link>
+      <link>https://hsmalley.github.io/post/on-virtualization-image-building/</link>
       <pubDate>Fri, 26 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/on-virtualization-image-building/</guid>
+      <guid>https://hsmalley.github.io/post/on-virtualization-image-building/</guid>
       <description>So I’m trying to test out my Images as I’m building them. I’ve found that VM’s are a pretty good resource for testing. I’ve dabbled in Virtualbox, Free VMWare stuff, Hyper-V, and Windows Virtual PC aka XPMode. They all have their pro’s &amp;amp; cons and I can recommend using each one…. well maybe not M$ stuff. I also believe that using a VM can increase the speed of your tests and make you more productive.</description>
     </item>
     
     <item>
       <title>What&#39;s the build-id?</title>
-      <link>https://hsmalley.keybase.pub/post/whats-the-build-id/</link>
+      <link>https://hsmalley.github.io/post/whats-the-build-id/</link>
       <pubDate>Wed, 24 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/whats-the-build-id/</guid>
+      <guid>https://hsmalley.github.io/post/whats-the-build-id/</guid>
       <description>So I’m trying to deploy a custom wim for windows 7 and I keep running into a weird error: Error: Unable to find SETUP , needed to install the image
 This is what I managed to find and it works really well.
 http://www.pburch.com/blog/2010/03/05/a-tale-of-build-numbers-and-deployment/
@@ -35,28 +35,28 @@ I&amp;# 146;d just like you to know that I&amp;# 146;ve been pulling my hair out
     
     <item>
       <title>Windows Deployment Server</title>
-      <link>https://hsmalley.keybase.pub/post/windows-deployment-server/</link>
+      <link>https://hsmalley.github.io/post/windows-deployment-server/</link>
       <pubDate>Wed, 17 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/windows-deployment-server/</guid>
+      <guid>https://hsmalley.github.io/post/windows-deployment-server/</guid>
       <description>So I’ve learned the in and outs of Windows Deployment over the last 6 months. I’ve studied forums, blogs, etc. I would like to think of my self as a sort of expert in windows deployment technology. I’ve managed to Create a very stable and well performing windows xp image. Now I’m working on a Windows 7 image. However due to money and the ever decreasing budget my company has made the choice to limit our hardware refresh.</description>
     </item>
     
     <item>
       <title>OEM#.inf</title>
-      <link>https://hsmalley.keybase.pub/post/oem-inf/</link>
+      <link>https://hsmalley.github.io/post/oem-inf/</link>
       <pubDate>Mon, 15 Mar 2010 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/oem-inf/</guid>
+      <guid>https://hsmalley.github.io/post/oem-inf/</guid>
       <description>I’m the lead for updating our corporate standard computer image here. We are using XP and looking to move into 7. However the years that I’ve been updating the image and making it work work on our platforms have caused the image to get some really odd driver errors. I was stressing over why I was getting all of these Driver Prompts for various files. I knew the files were there and for some reason windows just couldn’t see them.</description>
     </item>
     
     <item>
       <title>Deploying Windows</title>
-      <link>https://hsmalley.keybase.pub/post/deploying-windows/</link>
+      <link>https://hsmalley.github.io/post/deploying-windows/</link>
       <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
       
-      <guid>https://hsmalley.keybase.pub/post/deploying-windows/</guid>
+      <guid>https://hsmalley.github.io/post/deploying-windows/</guid>
       <description>Windows 7! Its here! I’ve been working and playing with windows 7 for a while now. I’m in love with it! Granted I’ll always have my love of Linux. But windows 7 just does what I need it to, when I need it to. The deployment process of it is really interesting to me. I’ve been working with windows deployment and imaging for 2 years now. I dabbled with it before but now I would consider my self an expert at deploying windows xp.</description>
     </item>
     
