@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howto on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/howto/</link>
+    <description>Recent content in Howto on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/howto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to mail enable an Active Directory Group on Exchange 2010</title>
+      <link>https://hsmalley.keybase.pub/post/how-to-mail-enable-an-active-directory-group-on-exchange-2010/</link>
+      <pubDate>Wed, 30 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/how-to-mail-enable-an-active-directory-group-on-exchange-2010/</guid>
+      <description>I needed to take a security group and convert it turn it into a distribution group. This is actually pretty simple.
+First edit the group and change it to a distribution group. Make sure it’s a universal group, only universal groups can be mail enabled. Give it an email address, make sure the membership is correct and move on to your exchange console.
+ Go to distribution Groups Right Click New distribution Group Existing Account Done  Now you have mail enabled your group.</description>
+    </item>
+    
+    <item>
+      <title>System Sweeper PXE Boot.</title>
+      <link>https://hsmalley.keybase.pub/post/system-sweeper-pxe-boot/</link>
+      <pubDate>Tue, 07 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/system-sweeper-pxe-boot/</guid>
+      <description>As you may know, Microsoft released a standalone system sweeper for malware removal, http://connect.microsoft.com/systemsweeper. This allows you to create a CD/DVD, UFD, or ISO. While this works well I wanted to boot this via PXE. I hate having to find media, set it up, etc. I’d rather just use WDS to boot a WIM and be done with it. So I created some media and extracted the files needed for the system scanner and created my own System Sweeper WIM to boot via PXE.</description>
+    </item>
+    
+    <item>
+      <title>MediaWiki</title>
+      <link>https://hsmalley.keybase.pub/post/mediawiki/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/mediawiki/</guid>
+      <description>Well I got MediaWiki Setup to help get our documentation here at work up to snuff with the rest of the world. We are using ton of folders with a bunch of word docs, pdfs, txt, etc. to keep our information. I’ve been meaning to do this for a while but I haven’t been able to get it done. So I stat down and installed and and got LDAP authentications setup.</description>
+    </item>
+    
+  </channel>
+</rss>

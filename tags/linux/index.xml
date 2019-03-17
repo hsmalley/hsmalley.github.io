@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/linux/</link>
+    <description>Recent content in Linux on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Mar 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>7 of the best anti-virus apps for Linux</title>
+      <link>https://hsmalley.keybase.pub/post/7-of-the-best-anti-virus-apps-for-linux/</link>
+      <pubDate>Tue, 26 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/7-of-the-best-anti-virus-apps-for-linux/</guid>
+      <description>While ClamAV wasn’t the over all winner of this, and that is kind of surprising It didn’t come in last though. Given that they just used defaults in testing it scored 8&amp;frasl;10. I’m pretty confident it could score 10&amp;frasl;10 with some tweaking. I’ve always used Clam for quick cleanups of file shares and providing security on the Ubuntu boxes I deploy. Avast has always been my go to security software on Mac and Windows (when MSE &amp;amp; Malwarebytes aren’t an option).</description>
+    </item>
+    
+    <item>
+      <title>Poking fun at Linux Gaming</title>
+      <link>https://hsmalley.keybase.pub/post/poking-fun-at-linux-gaming/</link>
+      <pubDate>Fri, 04 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/poking-fun-at-linux-gaming/</guid>
+      <description>So I see this post on Reddit and thought it was pretty funny. I didn’t laugh till I saw the top comment though.
+ AbaddonSF:
+This must be the Ubuntu version, Slack or gentoo, would be a log, and some copper ore.
+Hypersapien:
+A log? Pfft. You want all the work done for you? Try an acorn.
+You’ll need iron ore and coal as well to make the steel tools to cut the tree down when it grows and shape the wood.</description>
+    </item>
+    
+    <item>
+      <title>Why was Doom ported to Linux? - YouTube</title>
+      <link>https://hsmalley.keybase.pub/post/why-was-doom-ported-to-linux-youtube/</link>
+      <pubDate>Tue, 20 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/why-was-doom-ported-to-linux-youtube/</guid>
+      <description>Ok, I know I haven’t been able to update daily, but I have a lot of content saved up. I’ll update when I have a minute. Untill then enjoy this post…. because it’s awesome.
+Why was Doom ported to Linux? – YouTube.</description>
+    </item>
+    
+    <item>
+      <title>Linux USB IDs</title>
+      <link>https://hsmalley.keybase.pub/post/linux-usb-ids/</link>
+      <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/linux-usb-ids/</guid>
+      <description>Culled from a comment on Reddit. This is pretty handy.
+http://www.linux-usb.org/usb.ids</description>
+    </item>
+    
+    <item>
+      <title>New KDE tablet to liberate Linux enthusiasts from walled garden</title>
+      <link>https://hsmalley.keybase.pub/post/new-kde-tablet-to-liberate-linux-enthusiasts-from-walled-garden/</link>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/new-kde-tablet-to-liberate-linux-enthusiasts-from-walled-garden/</guid>
+      <description>This is pretty damn awesome. I would love to take this a part. – New KDE tablet to liberate Linux enthusiasts from walled garden.</description>
+    </item>
+    
+    <item>
+      <title>FIND THAT SMELL!</title>
+      <link>https://hsmalley.keybase.pub/post/find-that-smell/</link>
+      <pubDate>Sat, 09 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/find-that-smell/</guid>
+      <description>Ok kiddies its time for another game! Xan woke up from his nap and played SHAKE THAT DIAPER!!!! So for round two we get to play FIND THAT SMELL!!!
+Sometimes I wish I could just write a shell script to take care of that. I&amp;amp;# 146;m pretty sure I could do it in perl&amp;amp;# 133; /facepalm</description>
+    </item>
+    
+  </channel>
+</rss>

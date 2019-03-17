@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storage on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/storage/</link>
+    <description>Recent content in Storage on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/storage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrating Servers with Syncthing</title>
+      <link>https://hsmalley.keybase.pub/post/migrating-servers-with-syncthing/</link>
+      <pubDate>Sun, 31 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/migrating-servers-with-syncthing/</guid>
+      <description>I’m in the process of making time to migrate my blog (and some other things) to a better server and giving it some much-needed love to repair some of the broken links on here. So I thought I would take a moment and share some thoughts about Syncthing and perhaps a use for it that are not clear at first.
+First, Syncthing is amazing. It’s come A LONG way over the past year and it’s become my primary data sync solution.</description>
+    </item>
+    
+    <item>
+      <title>Intel 520 &#39;Cherryville&#39; Series 240GB SSD Review in RAID 0 - Next Stop, Cherryville - Legit Reviews</title>
+      <link>https://hsmalley.keybase.pub/post/intel-520-cherryville-series-240gb-ssd-review-in-raid-0-next-stop-cherryville-legit-reviews/</link>
+      <pubDate>Wed, 08 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/intel-520-cherryville-series-240gb-ssd-review-in-raid-0-next-stop-cherryville-legit-reviews/</guid>
+      <description>To that extent, Intel has informed us that they are now the first and only 2.5″ SandForce drive manufacturer to have their drives ship with OEM computers which is a pretty big deal and an easy way to get a lot of drives out to consumers.
+ via Intel 520 ‘Cherryville’ Series 240GB SSD Review in RAID 0 – Next Stop, Cherryville – Legit Reviews.
+I love it when performance parts go OEM.</description>
+    </item>
+    
+  </channel>
+</rss>

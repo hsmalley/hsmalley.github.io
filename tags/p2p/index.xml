@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P2p on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/p2p/</link>
+    <description>Recent content in P2p on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/p2p/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PirateBox Takes File-Sharing Off The Radar and Offline, For Next To Nothing | TorrentFreak</title>
+      <link>https://hsmalley.keybase.pub/post/piratebox-takes-file-sharing-off-the-radar-and-offline-for-next-to-nothing-torrentfreak/</link>
+      <pubDate>Tue, 13 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/piratebox-takes-file-sharing-off-the-radar-and-offline-for-next-to-nothing-torrentfreak/</guid>
+      <description>PirateBox Takes File-Sharing Off The Radar and Offline, For Next To Nothing | TorrentFreak.
+This looks like a fun project!</description>
+    </item>
+    
+    <item>
+      <title>TorrIndex</title>
+      <link>https://hsmalley.keybase.pub/post/torrindex-is-the-first-magnet-only-torrent-index/</link>
+      <pubDate>Mon, 18 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/torrindex-is-the-first-magnet-only-torrent-index/</guid>
+      <description>TorrIndex is the First Magnet-Only Torrent Index [BitTorrent]</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yelp on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/yelp/</link>
+    <description>Recent content in Yelp on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/yelp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Looks like Yelp is blocking me ...</title>
+      <link>https://hsmalley.keybase.pub/post/looks-like-yelp-is-blocking-me-because-im-running-a-tor-exitrelay-node/</link>
+      <pubDate>Fri, 09 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/looks-like-yelp-is-blocking-me-because-im-running-a-tor-exitrelay-node/</guid>
+      <description>Looks like Yelp is blocking me because I’m running a tor exit/relay node?</description>
+    </item>
+    
+  </channel>
+</rss>

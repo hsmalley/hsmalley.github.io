@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ultravnc on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/ultravnc/</link>
+    <description>Recent content in Ultravnc on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Mar 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/ultravnc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Adding UltraVNC to WinPE in MDT2012</title>
+      <link>https://hsmalley.keybase.pub/post/adding-ultravnc-to-winpe-in-mdt2012/</link>
+      <pubDate>Thu, 28 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/adding-ultravnc-to-winpe-in-mdt2012/</guid>
+      <description>So I’ve been trying to update WinPE images to run UltraVNC for the last day. I’m hit a wall where I can’t make it run automagically in the task sequence. I’ve documented some of it on Serverfault. If I figure it out I’ll but everything on the wiki and update this post. However if you have an idea please let me know!
+-H</description>
+    </item>
+    
+  </channel>
+</rss>

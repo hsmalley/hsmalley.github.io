@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wiki on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/wiki/</link>
+    <description>Recent content in Wiki on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/wiki/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Personal wiki</title>
+      <link>https://hsmalley.keybase.pub/post/personal-wiki/</link>
+      <pubDate>Tue, 29 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/personal-wiki/</guid>
+      <description>I can’t seem to find a good personal wiki. I guess I’m just spoiled by mediawiki.
+Posted from WordPress for Android</description>
+    </item>
+    
+    <item>
+      <title>MediaWiki</title>
+      <link>https://hsmalley.keybase.pub/post/mediawiki/</link>
+      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/mediawiki/</guid>
+      <description>Well I got MediaWiki Setup to help get our documentation here at work up to snuff with the rest of the world. We are using ton of folders with a bunch of word docs, pdfs, txt, etc. to keep our information. I’ve been meaning to do this for a while but I haven’t been able to get it done. So I stat down and installed and and got LDAP authentications setup.</description>
+    </item>
+    
+  </channel>
+</rss>

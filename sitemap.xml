@@ -1,0 +1,4083 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/blog_import/</loc>
+    <lastmod>2019-03-16T00:29:52-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/</loc>
+    <lastmod>2019-01-01T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/co-parenting-lessons-in-kung-fu-panda/</loc>
+    <lastmod>2016-04-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/failure-is-always-an-option/</loc>
+    <lastmod>2016-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/on-the-sisyphean-task-of-regulating-encryption/</loc>
+    <lastmod>2016-03-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/updates-for-2016/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/migrating-servers-with-syncthing/</loc>
+    <lastmod>2016-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/they-didnt-think-he-had-a-bomb/</loc>
+    <lastmod>2015-09-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/happy-8th-birthday-juliette/</loc>
+    <lastmod>2015-07-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/its-the-simple-things/</loc>
+    <lastmod>2015-06-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/marriage-equality-is-here/</loc>
+    <lastmod>2015-06-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/happy-9th-birthday-avriel/</loc>
+    <lastmod>2015-06-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/last-day-school-2014-2015/</loc>
+    <lastmod>2015-06-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/juliette-goodbye-2nd-hello-3rd/</loc>
+    <lastmod>2015-06-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/avriel-goodbye-3rd-hello-4th/</loc>
+    <lastmod>2015-06-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/xan-goodbye-k-hello-1st/</loc>
+    <lastmod>2015-05-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/happy-mothers-day/</loc>
+    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/animal-kingdom/</loc>
+    <lastmod>2015-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/reconnected/</loc>
+    <lastmod>2015-02-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/thanksgiving/</loc>
+    <lastmod>2014-11-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/please-help-me/</loc>
+    <lastmod>2014-08-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/dropbox-detection-and-removal/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/openvpn-on-dd-wrt/</loc>
+    <lastmod>2014-04-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/hero-kids/</loc>
+    <lastmod>2014-01-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/tiling-window-extension-for-gnome-shell/</loc>
+    <lastmod>2014-01-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/why-yes-that-is-borderlands-2-on-a-cr-48-chromebook/</loc>
+    <lastmod>2013-11-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/a-snake-powered-roku-remote/</loc>
+    <lastmod>2013-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/mailpile-is-webmail-worth-supporting/</loc>
+    <lastmod>2013-08-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/searching-for-pressure-cooker-bombs-and-backpacks-makes-you-a-suspect/</loc>
+    <lastmod>2013-08-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/so-i-adopted-some-rats/</loc>
+    <lastmod>2013-04-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/0ad-is-coming-together-nicely/</loc>
+    <lastmod>2013-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/3d-printed-guns/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/adding-ultravnc-to-winpe-in-mdt2012/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/7-of-the-best-anti-virus-apps-for-linux/</loc>
+    <lastmod>2013-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/so-dongle-jokes-are-not-allowed-anymore/</loc>
+    <lastmod>2013-03-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/find-guids-quickly/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/eve-online-oh-you-mean-excel/</loc>
+    <lastmod>2013-03-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-secrets-of-breast-milk/</loc>
+    <lastmod>2013-03-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/updates-and-a-wiki/</loc>
+    <lastmod>2013-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/acrobat7eol/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/poking-fun-at-linux-gaming/</loc>
+    <lastmod>2013-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/this-sums-up-my-feelings-today/</loc>
+    <lastmod>2012-12-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/pop-danthology-2012-mashup-of-50-pop-songs/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/dell-releases-powerful-well-supported-linux-ultrabook-ars-technica/</loc>
+    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/update-router-died/</loc>
+    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/field-router-died/</loc>
+    <lastmod>2012-11-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/sweet-but-bitey/</loc>
+    <lastmod>2012-11-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/this-is-a-great-read-hacking-my-vagina/</loc>
+    <lastmod>2012-11-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/thanksgiving-2012/</loc>
+    <lastmod>2012-11-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/4-more-inches-till-i-can-fit-into-my-kilts/</loc>
+    <lastmod>2012-11-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/cloudflare-enabled/</loc>
+    <lastmod>2012-11-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/sited-moved-updated/</loc>
+    <lastmod>2012-11-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/pancakes-to-pancake/</loc>
+    <lastmod>2012-11-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/xans-birthday/</loc>
+    <lastmod>2012-10-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/i-am-driven-by-two-main-philosophies/</loc>
+    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/why-admins-should-know-how-to-code-data-center-infoworld/</loc>
+    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/preacher-gives-interesting-gay-rights-speech-youtube/</loc>
+    <lastmod>2012-10-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/uftp-encrypted-udp-based-ftp-with-multicast/</loc>
+    <lastmod>2012-10-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/android-thermostat-a-diy-android-powered-thermostat/</loc>
+    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/interview-how-to-recruit-a-linux-guru-server-fault/</loc>
+    <lastmod>2012-10-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/a-diamond-bigger-than-earth-reuters/</loc>
+    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/how-to-buy-a-lamborghini-part-2-business-mindset-youtube/</loc>
+    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/it-pro-tip-verify-everything-e-g-if-your-mother-says-she-loves-you-verify-it/</loc>
+    <lastmod>2012-10-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-golden-turd-in-the-internets-litter-box-seven-psychocats/</loc>
+    <lastmod>2012-10-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-reasons-why-bitcoin-securities-cant-be-regulated-by-the-sec-pe-trilema-un-blog-de-mircea-popescu/</loc>
+    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/so-artsy-girl-got-scared-by-a-puppy-and-can-streaking-across-the-cul-de-sac-like-a-little-pink-bullet-so-she-learned-not-to-run-from-dogs-_/</loc>
+    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/so-sassy-girl-just-learned-the-lesson-that-jumping-into-a-glass-door-wont-take-you-to-narnia-_/</loc>
+    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-rise-of-alternative-porn/</loc>
+    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/he-does-make-a-good-point/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/i-wish-i-knew-more-about-this-guy-this-is-a-really-amazing-performance/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/nerds-have/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/its-all-fun-and-games-till-you-look-back-and-see-a-blue-shell-coming-your-way/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/stairs-and-i-have-a-hostile-relationship/</loc>
+    <lastmod>2012-10-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/every-conversation-that-ive-over-heard-today-can-be-summed-up-with-this/</loc>
+    <lastmod>2012-10-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/i-might-me-a-little-late-to-the-game-but-ive-discovered-an-interest-in-programing-im-on-my-way-to-being-a-coder-now-to-refresh-my-java-script-python-a/</loc>
+    <lastmod>2012-10-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/sixteen-doors-oct-1/</loc>
+    <lastmod>2012-10-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/klingon-style-star-trek-parody-of-psy-gangnam-style-youtube/</loc>
+    <lastmod>2012-09-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/whats-really-eating-the-family-budget-it-aint-smartphones-derek-thompson-the-atlantic/</loc>
+    <lastmod>2012-09-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/11-offensive-security-tools-for-wreaking-havoc-hackertarget-com/</loc>
+    <lastmod>2012-09-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/powershell-copy-files-to-computers-from-ad-log-it-with-excel/</loc>
+    <lastmod>2012-09-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/oh-yes-linux-gaming-is-happening/</loc>
+    <lastmod>2012-08-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/save-on-these-deals-wait-huh/</loc>
+    <lastmod>2012-07-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/vodka-mom-toni-medrano-burns-herself-to-death-after-suffocating-newborn-son-as-they-slept-mail-online/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/liveleak-com-clam-eating-salt-lol/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/i-just-learned-im-a-closet-homosexual/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/republican-horrified-to-discover-that-christianity-is-not-the-only-religion/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/sometimes-you-just-open-the-door-and-youre-like-okay-thats-enough-internet-today/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/squiggle-a-free-open-source-lan-messenger/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/paleo-problems/</loc>
+    <lastmod>2012-06-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/updated-wordpress-commenting/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/wait-thats-not-the-growl-im-looking-for/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/your-brain-scan-looks-different-on-mac-and-pc/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/bath-crayons/</loc>
+    <lastmod>2012-06-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/nice-day/</loc>
+    <lastmod>2012-06-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/aww-what-a-cute-dog-cat/</loc>
+    <lastmod>2012-06-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/george-elerick-jesus-in-drag-straight-christian-comes-out-for-new-book/</loc>
+    <lastmod>2012-06-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/people-like-me/</loc>
+    <lastmod>2012-06-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/this-guy-makes-a-humble-qa-post-about-his-final-days-and-people-throw-money-and-vagina-at-him/</loc>
+    <lastmod>2012-06-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/gadget-crash/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/gay-marriage-opponents-are-working-on-a-ban-in-washington-state/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/man-protects-his-kids-from-a-bank-robber-youtube/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/well-thats-awkward/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/fxp122-cm9-rc0/</loc>
+    <lastmod>2012-06-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/stayed-up-too-late-again/</loc>
+    <lastmod>2012-06-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/why-im-using-chrome-again/</loc>
+    <lastmod>2012-06-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/gotta-stop-staying-up-so-late/</loc>
+    <lastmod>2012-06-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/free-style-canoing/</loc>
+    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/naptime-youtube/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/a-busy-morning-now-with-malware/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/booting-windows-defender-online-from-pxe/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/freeshipping-mk802-mini-pcmini-android4-0-dongle-android-iptv-google-tvsmart-android-boxallwinner-a10-512m-ddr3-in-hdd-player-from-consumer-electronic/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/how-to-mail-enable-an-active-directory-group-on-exchange-2010/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/jc-penny-taking-a-stand-on-civil-rights/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/chilli-tequila/</loc>
+    <lastmod>2012-05-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/happy-birthday/</loc>
+    <lastmod>2012-05-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/personal-wiki/</loc>
+    <lastmod>2012-05-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/holy-doug-adams-its-towel-day/</loc>
+    <lastmod>2012-05-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/theres-something-to-be-said-about-a-corner-office-that-lets-you-stare-down-from-above-the-power-lines/</loc>
+    <lastmod>2012-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/i-hate-working-off-of-3-hours-of-sleep-been-doing-that-all-week-i-need-a-break-h/</loc>
+    <lastmod>2012-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/this-has-been-one-hell-of-a-day-i-think-i-got-at-least-two-blog-posts-worth-of-stuff-to-write-about/</loc>
+    <lastmod>2012-05-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/system-administrators-code-of-ethics-usenix/</loc>
+    <lastmod>2012-04-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/tacocopter-one-click-taco-delivery-in-the-sf-bay-area/</loc>
+    <lastmod>2012-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/cool-tools-cuppow/</loc>
+    <lastmod>2012-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/why-was-doom-ported-to-linux-youtube/</loc>
+    <lastmod>2012-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/yea-who-needs-a-couch/</loc>
+    <lastmod>2012-03-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/faith-based-daycares-on-the-rise-in-indiana-friendly-atheist/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/judge-orders-failed-copyright-troll-to-forfeit-all-copyrights/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/new-internet-explorer-10-memory-protection-features-not-just-for-internet-explorer/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/stop-innovating-please-kaleidescape-loses-dvd-ripping-case/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-internet-finally-kills-off-printed-encyclopaedia-britannicas/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/virtual-reality-that-doesnt-suck-my-time-inside-half-life-2/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/we-need-a-star-trek-series-done-by-and-for-generation-x-slightly-emo-dark-teenage-coming-of-age-and-not-so-starfleet-centric-oh-wait-caprica-got-cance/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/bbc-news-emails-from-dead-mans-account-spook-loved-ones/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/bbc-news-red-meat-increases-death-cancer-and-heart-risk-says-study/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/been-a-while-since-i-had-a-good-laugh-at-a-starwars-meme-httpredd-itqubox/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/bradley-mannings-treatment-was-cruel-and-inhuman-un-torture-chief-rules/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/its-patch-tuesday-today/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/piratebox-takes-file-sharing-off-the-radar-and-offline-for-next-to-nothing-torrentfreak/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/poe-snmp-environmental-and-temperature-monitoring-sensors-for-computer-rooms/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/raspberry-pi-retailers-clarify-shipping-costs-on-35-linux-computer/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/sadly-it-seems-that-someone-was-abusing-my-tor-exit-node-irc-ssh-aka-thisiswhywecanthavenicethings/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/wish-i-had-s-working-camera-as-im-neck-deep-in-av-geek-bliss/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/big-brothers/</loc>
+    <lastmod>2012-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/its-official-im-running-a-stable-tor-node/</loc>
+    <lastmod>2012-03-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/vanishfuego-wants-you-to-return-to-world-of-warcraft/</loc>
+    <lastmod>2012-03-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/darkeditionhd-rom-for-x10/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/looks-like-yelp-is-blocking-me-because-im-running-a-tor-exitrelay-node/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/tether-webapp-shares-your-iphones-data-connection-with-your-mac-or-windows-pc-no-jailbreaking-required/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-mateba-6-unica-autorevolver-reviews-photos-and-videos-at-matebafan/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/valve-on-steam-box-rumors/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/because-no-one-ever-reads-the-documentation/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/got-my-5-year-pin/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/linux-usb-ids/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/now-this-is-a-nice-router/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/this-was-my-night/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/president-obama-on-a-christian-nation/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/some-quick-reviews/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/this-is-a-classy-gun/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/southern-discomfort-youtube/</loc>
+    <lastmod>2012-03-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/is-it-true-that-americans-get-a-measly-2-weeks-annual-leave-if-true-how-does-this-affect-the-nation-askreddit/</loc>
+    <lastmod>2012-03-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/sleeping-prank-wars-couples-edtion/</loc>
+    <lastmod>2012-03-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/filelocker/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/new-rom/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/soft-kitty/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-wall-of-network-cheat-sheets/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/who-needs-a-snuggie-when-you-have-daddys-shirt/</loc>
+    <lastmod>2012-02-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/windows-8-looks-like-windows-phone-8/</loc>
+    <lastmod>2012-02-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/windows-8/</loc>
+    <lastmod>2012-02-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/guess-what-im-doing-today/</loc>
+    <lastmod>2012-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/nicely-done-cable/</loc>
+    <lastmod>2012-02-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/and-whoever-wrote-the-bond-style-songs-for-special-agent-oso-needs-to-be-taken-out-by-a-grease-dumpster-and-murdered-in-three-special-steps/</loc>
+    <lastmod>2012-02-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/republican-chokes-up-at-gay-marriage-debate-in-washington-youtube/</loc>
+    <lastmod>2012-02-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/in-soviet-russia-chocolate-coins-eat-you/</loc>
+    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-enormous-secret-weapons-depot-hidden-underneath-manhattan/</loc>
+    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/juan-of-the-dead-2011-official-trailer-cuban-zombies-youtube/</loc>
+    <lastmod>2012-02-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/mens-personal-stylist-clothing-subscription-bombfell/</loc>
+    <lastmod>2012-02-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/thatll-do-pig-thatll-do/</loc>
+    <lastmod>2012-02-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/i-love-creating-things-but-writing-to-documentation-is-always-a-pain/</loc>
+    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/intel-520-cherryville-series-240gb-ssd-review-in-raid-0-next-stop-cherryville-legit-reviews/</loc>
+    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-miraculous-nasa-breakthrough-that-could-save-millions-of-lives/</loc>
+    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-four-most-over-rated-things-in-life-are-champagne-lobster-anal-sex-and-picnics-christopher-hitchens/</loc>
+    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/google-to-strip-chrome-of-ssl-revocation-checking/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/lark-silent-alarm-clock-will-wake-you-up-without-disturbing-your-partner-and-help-you-sleep-better/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/law-would-put-homeland-security-in-charge-of-business-it-security-cio-blogs/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/raspberry-pis-35-linux-computer-on-track-to-launch-later-this-month/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/odd-bits-converting-openssh-public-keys/</loc>
+    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/5-things-you-should-know-before-trying-to-fix-your-computer-cracked-com/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/breakfast-fun-baked-eggs-in-avocados-family-kitchen/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/tuning-plan/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/10-things-your-it-guy-wants-you-to-know/</loc>
+    <lastmod>2012-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/be-a-grown-up-boy-scout-the-wilderness-survival-skills-everyone-should-know/</loc>
+    <lastmod>2012-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/double-fine-happy-action-theater-redefines-what-a-kinect-game-can-be/</loc>
+    <lastmod>2012-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/wikipediaspoken-articles/</loc>
+    <lastmod>2012-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/i-dont-know-how-he-does-it-but-my-sons-poop-makes-me-think-hes-bigger-on-the-inside-than-outside/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/into-the-fires-of-hell-i-go-d3-beta/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/mmm-dick-cake/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/my-google-birthday-logo/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/new-kde-tablet-to-liberate-linux-enthusiasts-from-walled-garden/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/review-republic-wireless-and-its-19month-cell-service/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-completely-unsexy-and-ever-updated-basic-guide-to-keeping-your-computer-safe/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/when-to-give-your-girlfriend-your-password/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/xappr-gun-brings-lazer-tag-to-the-smartphone-generation/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/florida-primary-tonight/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/ie-http-500-error/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/hello-world-2/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/jamie-olivers-food-revolution-70-of-americas-beef-is-treated-with-ammonia-youtube/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/pac-man-hacked-onto-a-touch-screen-voting-machine-without-breaking-tamper-evident-seals/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/turn-your-powershell-console-title-bar-into-a-rssweather-ticker-learn-powershell-achieve-more/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/how-to-eat-a-chicken-wing-with-one-hand-youtube/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/fun-with-powershell/</loc>
+    <lastmod>2011-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/system-sweeper-pxe-boot/</loc>
+    <lastmod>2011-06-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/literallyunbelievable-ok-women-of-color/</loc>
+    <lastmod>2011-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/what-if-i-want-windows-picture-and-fax-viewer/</loc>
+    <lastmod>2011-05-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/powershell-remotely-add-security-group-to-local/</loc>
+    <lastmod>2011-05-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/stolen-camera-finder-find-your-photos-find-your/</loc>
+    <lastmod>2011-04-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/jules-loves-her-easter-candy/</loc>
+    <lastmod>2011-04-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/24-quick-actions-you-can-do-today-that-can-change-your/</loc>
+    <lastmod>2011-04-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/error-the-file-adobepdf-dll-is-needed-cs3-on-64-bit/</loc>
+    <lastmod>2011-04-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/indie-game-developer-meme/</loc>
+    <lastmod>2011-04-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/ohmibod-a-best-man-from-down-under-was-dinged/</loc>
+    <lastmod>2011-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/dell-business-client-operating-system-deployment-the/</loc>
+    <lastmod>2011-03-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/via-teamsandwichdotcom/</loc>
+    <lastmod>2011-03-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/via-teamsandwichdotcom-2/</loc>
+    <lastmod>2011-03-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/using-powershell-to-remotely-install-software/</loc>
+    <lastmod>2011-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/slow/</loc>
+    <lastmod>2011-02-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/wd-how-to-troubleshoot-a-visual-c-runtime-error-in/</loc>
+    <lastmod>2011-02-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/huddled-masses-blog-archive-logging-robocopy-errors/</loc>
+    <lastmod>2011-02-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/fsm-i-love-seemed-stockings-3/</loc>
+    <lastmod>2011-01-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/via-commitcrimedotcom/</loc>
+    <lastmod>2011-01-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/via-commitcrimedotcom-2/</loc>
+    <lastmod>2011-01-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/dear-tumblr/</loc>
+    <lastmod>2011-01-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/memory-upgrade/</loc>
+    <lastmod>2011-01-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/wifite-mass-wep-wpa-cracker-for-backtrack4/</loc>
+    <lastmod>2010-09-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/copy-taskbar-icons-windows-7-sysprep-v2/</loc>
+    <lastmod>2010-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/scripting-typo/</loc>
+    <lastmod>2010-09-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/opt-out-of-nai-member-ad-networks/</loc>
+    <lastmod>2010-09-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/route-of-administration/</loc>
+    <lastmod>2010-09-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/a-chilean-miner/</loc>
+    <lastmod>2010-09-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/wpkg-open-source-software-deployment-and-distribution/</loc>
+    <lastmod>2010-09-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/inception-explained-for-mac-users/</loc>
+    <lastmod>2010-08-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/smart-girl/</loc>
+    <lastmod>2010-08-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/when-sysadmins-ruled-the-earth-by-cory-doctorow/</loc>
+    <lastmod>2010-08-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/list-of-error-codes-and-error-messages-for-windows/</loc>
+    <lastmod>2010-08-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/blog-recovery-utility-for-usmt-3-and-4/</loc>
+    <lastmod>2010-07-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/cake-and-cunnilingus-day/</loc>
+    <lastmod>2010-07-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/gdata-an-online-md5-hash-database/</loc>
+    <lastmod>2010-07-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/usmt-failures-due-to-bad-profile-list-entries-the/</loc>
+    <lastmod>2010-07-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/gabba-the-hutt/</loc>
+    <lastmod>2010-06-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/start-menu-add-search-connectors-to-start-menu-search/</loc>
+    <lastmod>2010-06-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/cyanide-happiness-1797-explosm-net/</loc>
+    <lastmod>2010-06-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/microsoft-remote-desktop-connection-manager/</loc>
+    <lastmod>2010-06-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/shitmykidsruined-my-dignity-this-is-the/</loc>
+    <lastmod>2010-06-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/bulk-convert-doc-to-docx-eric-whites-blog-site/</loc>
+    <lastmod>2010-05-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/computer-safety-fap-control/</loc>
+    <lastmod>2010-05-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/ethan-didnt-have-to-die-cnn-com/</loc>
+    <lastmod>2010-05-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/droopy-creates-instant-servers-for-large-file-trading/</loc>
+    <lastmod>2010-05-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/recover-data-like-a-forensics-expert-using-an-ubuntu/</loc>
+    <lastmod>2010-04-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/your-passwordcard/</loc>
+    <lastmod>2010-04-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/we-thought-of-a-possible-exception-to-rule-34-only-to/</loc>
+    <lastmod>2010-04-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/how-to-back-up-and-play-your-wii-games-from-an-external/</loc>
+    <lastmod>2010-04-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/boot-kernel-org-bko/</loc>
+    <lastmod>2010-04-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/damn-it-feels-good-to-be-a-gangster/</loc>
+    <lastmod>2010-04-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/sumo-paint-2-0/</loc>
+    <lastmod>2010-04-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/coding-horror-top-25-most-dangerous-programming/</loc>
+    <lastmod>2010-04-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/so-true-via-i-imgur-com/</loc>
+    <lastmod>2010-03-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/html-codes-table-of-ascii-characters-and-symbols/</loc>
+    <lastmod>2010-03-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/wdslinux-syslinux-wiki/</loc>
+    <lastmod>2010-03-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/on-virtualization-image-building/</loc>
+    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/volume-activation-deployment-guide/</loc>
+    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/a-tale-of-build-numbers-and-deployment-tales-from-the/</loc>
+    <lastmod>2010-03-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/whats-the-build-id/</loc>
+    <lastmod>2010-03-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/atheist-gnostic-theist-agnostic/</loc>
+    <lastmod>2010-03-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/windows-deployment-server/</loc>
+    <lastmod>2010-03-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/oem-inf/</loc>
+    <lastmod>2010-03-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/gamespy-why-your-loved-ones-hate-videogames-page-1/</loc>
+    <lastmod>2010-03-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/weird-meat-a-food-and-travel-blog/</loc>
+    <lastmod>2010-03-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/otrs-open-source-trouble-ticket-system-service/</loc>
+    <lastmod>2010-03-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-seven-deadly-sins-of-linux-security-acm-queue/</loc>
+    <lastmod>2010-03-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/eboostr/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/might-be-nsfw-but-its-a-wonderful-bit-of-art/</loc>
+    <lastmod>2010-02-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/liberalism-atheism-male-sexual-exclusivity-linked-to/</loc>
+    <lastmod>2010-02-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/technet-magazine-article-microsoft-deployment-toolkit/</loc>
+    <lastmod>2010-02-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/on-blogging/</loc>
+    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/boost-your-windows-pc-performance-eboostr-com/</loc>
+    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/adobe-adobe-reader-download-all-versions/</loc>
+    <lastmod>2010-02-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/video-create-a-self-running-powerpoint-presentation/</loc>
+    <lastmod>2010-02-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/disable-recent-documents-history-at-registry-guide-for/</loc>
+    <lastmod>2010-02-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/extracting-the-adobe-reader-9-x-msi-installer-for/</loc>
+    <lastmod>2010-02-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/life-theodore-roosevelt-riding-a-moose-hosted-by/</loc>
+    <lastmod>2010-02-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/how-to-change-windows-xp-version-between-retail-oem/</loc>
+    <lastmod>2010-02-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/germany-1940-israel-2009/</loc>
+    <lastmod>2010-02-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/so-yes-although-this-rant-went-a-little-off/</loc>
+    <lastmod>2010-02-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/star-trek-the-sexed-generation-via-acornfilms/</loc>
+    <lastmod>2010-02-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/and-this-is-why-going-to-bed-on-time-is-so/</loc>
+    <lastmod>2010-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/make-a-toddler-dress-from-a-t-shirt/</loc>
+    <lastmod>2010-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/oh-dont-give-me-no-more-of-that-old-janx-spirit/</loc>
+    <lastmod>2010-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/mounting-a-hard-disk-image-including-partitions-using/</loc>
+    <lastmod>2010-01-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/icsi-netalyzr/</loc>
+    <lastmod>2010-01-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/openshot-video-editor/</loc>
+    <lastmod>2010-01-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/20-linux-server-hardening-security-tips/</loc>
+    <lastmod>2010-01-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/kids-their-enjoyment-is-directly-proportional-to/</loc>
+    <lastmod>2010-01-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/desitin/</loc>
+    <lastmod>2010-01-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/microsoft-security-advisory-979682-vulnerability-in/</loc>
+    <lastmod>2010-01-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/instead-of-simply-recommending-that-you-sodomize/</loc>
+    <lastmod>2010-01-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/technet-events-windows-7-virtualization-and-azure/</loc>
+    <lastmod>2010-01-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/torrindex-is-the-first-magnet-only-torrent-index/</loc>
+    <lastmod>2010-01-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/dsttr-jpg-640x870/</loc>
+    <lastmod>2010-01-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/my-response-to-being-asked-why-i-would-donate/</loc>
+    <lastmod>2010-01-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-new-colossus-wikipedia-the-free-encyclopedia/</loc>
+    <lastmod>2010-01-16T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/20-most-anticipated-games-of-2010-gamelife/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/i-started-a-new-journal-today-this-is-the-first/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/chicken-of-the-vnc-get-chicken-of-the-vnc-at-2/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/my-kids-favorite-show-but-with-people-rather-that/</loc>
+    <lastmod>2010-01-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/wtf-how-via-i-imgur-com/</loc>
+    <lastmod>2010-01-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/find-that-smell/</loc>
+    <lastmod>2010-01-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/ask-the-core-team-how-to-run-a-sysprep-and-capture/</loc>
+    <lastmod>2010-01-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/having-sex-twice-a-week-reduces-chance-of-heart-attack/</loc>
+    <lastmod>2010-01-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/school-to-prison-pipeline-american-civil-liberties/</loc>
+    <lastmod>2010-01-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-deployment-guys-windows-7-godmode-and-other/</loc>
+    <lastmod>2010-01-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/xception-speed-up-your-browsing-with-dd-wrt/</loc>
+    <lastmod>2010-01-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/freeze-warnings-covered-nearly-all-of-florida-with/</loc>
+    <lastmod>2010-01-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/windows-7-has-lots-of-godmodes-avirans-place/</loc>
+    <lastmod>2010-01-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/mediawiki-2/</loc>
+    <lastmod>2010-01-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/watching-johnny-test-with-my-daughter/</loc>
+    <lastmod>2010-01-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/wikipedia-cheatsheet-wikipedia-the-free-encyclopedia/</loc>
+    <lastmod>2010-01-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/how-dns-support-for-active-directory-works-active/</loc>
+    <lastmod>2010-01-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/download-details-windows-xp-service-pack-3-deployment/</loc>
+    <lastmod>2010-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/winpe-3-0-boot-environment-scripts/</loc>
+    <lastmod>2010-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/genuine-microsoft-software/</loc>
+    <lastmod>2010-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/crysis-warhead/</loc>
+    <lastmod>2010-01-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/this-is-gonna-cause-more-confusion-than-a-mouse-in-2/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/web-2-0-suicide-machine-meet-your-real-neighbours/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/2010/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/deploying-windows/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/mediawiki/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/the-deployment-guys-single-wim-deployment-of-windows/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/post/about-hugh/</loc>
+    <lastmod>1985-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/0ad/</loc>
+    <lastmod>2013-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/2010/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/2012/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/2015/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/2016/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/3d-printing/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/acrobat-7/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/activite-directory/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/ad/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/adobe/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/adobe-reader-xi/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/adventure-time/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/android/</loc>
+    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/animal-kingdom/</loc>
+    <lastmod>2015-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/anti-malware/</loc>
+    <lastmod>2013-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/apps/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/awesome/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/awkward/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/aww-yish/</loc>
+    <lastmod>2012-09-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/baby/</loc>
+    <lastmod>2010-01-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/bagpipes/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/benchmarks/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/birthday/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/bitcoin/</loc>
+    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/bittorent/</loc>
+    <lastmod>2010-01-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/blog/</loc>
+    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/blogging/</loc>
+    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/blood/</loc>
+    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/bunny/</loc>
+    <lastmod>2011-04-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/cake/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/candy/</loc>
+    <lastmod>2011-04-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/canoe/</loc>
+    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/canoing/</loc>
+    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/civil-rights/</loc>
+    <lastmod>2012-10-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/clam/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/coins/</loc>
+    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/computer/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/control/</loc>
+    <lastmod>2010-05-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/convert/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/cooking/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/copy-rights/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/copyright-troll/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/crisis/</loc>
+    <lastmod>2010-01-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/d3/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/dad/</loc>
+    <lastmod>2010-04-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/data/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/data-center/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/data-transfer/</loc>
+    <lastmod>2012-10-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/death/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/dell/</loc>
+    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/deployment/</loc>
+    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/dhs/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/dick-cake/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/dinner/</loc>
+    <lastmod>2012-05-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/disney/</loc>
+    <lastmod>2015-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/distribution/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/diy/</loc>
+    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/dl/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/documentary/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/documentation/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/doom/</loc>
+    <lastmod>2012-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/drm/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/dropbox/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/easter/</loc>
+    <lastmod>2011-04-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/eboostr/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/eggs/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/email/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/end-of-life/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/eol/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/errors/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/exchange/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/exchange-2010/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/family/</loc>
+    <lastmod>2016-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/fap/</loc>
+    <lastmod>2010-05-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/filesharing/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/flash-drives/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/food/</loc>
+    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/freestyle/</loc>
+    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/friends/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/fun/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/funny/</loc>
+    <lastmod>2013-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/gaben/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/gadets/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/gadget/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/gaming/</loc>
+    <lastmod>2013-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/gay-bears/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/girlfriend/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/google/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/growl/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/growl-for-android/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/growl-for-windows/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/guid/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/guides/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/guids/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/guns/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/hacking/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/help-desk/</loc>
+    <lastmod>2011-04-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/holidays/</loc>
+    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/hollywood/</loc>
+    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/howto/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/ie/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/im/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/intel/</loc>
+    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/interesting/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/internet-explorer/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/ios/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/iphone/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/it/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/jcpenny/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/jetpack/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/jokes/</loc>
+    <lastmod>2011-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/journal/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/kde/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/kids/</loc>
+    <lastmod>2015-06-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/lan/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/ldap/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/learn-to-code/</loc>
+    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/lgbt/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/life/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/life-lessons/</loc>
+    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/linux/</loc>
+    <lastmod>2013-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/malware/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/mason-jars/</loc>
+    <lastmod>2012-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/mdt/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/mdt2010/</loc>
+    <lastmod>2010-03-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/mdt2012/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/mediawiki/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/meme/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/messenger/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/microsoft/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/minecraft/</loc>
+    <lastmod>2013-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/monitoring/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/mothers-day/</loc>
+    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/msiexec/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/multicast/</loc>
+    <lastmod>2012-10-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/music/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/music-video/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/nancy-grace/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/naptime/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/neil-degrasse-tyson/</loc>
+    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/nerds/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/new-years-eve/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/news/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/nyc/</loc>
+    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/nye/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/obama/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/oem/</loc>
+    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/oops/</loc>
+    <lastmod>2010-09-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/openssh/</loc>
+    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/p2p/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/passwords/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/patch-tuesday/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/performance/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/perl/</loc>
+    <lastmod>2010-01-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/personal/</loc>
+    <lastmod>2012-02-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/pets/</loc>
+    <lastmod>2013-04-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/phone/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/poop/</loc>
+    <lastmod>2010-01-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/pop-music/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/powershell/</loc>
+    <lastmod>2012-09-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/pranks/</loc>
+    <lastmod>2011-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/quote/</loc>
+    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/quotes/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/rats/</loc>
+    <lastmod>2013-04-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/readyboost/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/red-meat/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/reddit/</loc>
+    <lastmod>2012-06-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/registry/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/review/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/reviews/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/righthaven/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/salt/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/sam-harris/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/saved-for-later/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/school/</loc>
+    <lastmod>2015-06-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/scripting/</loc>
+    <lastmod>2010-09-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/security/</loc>
+    <lastmod>2013-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/self-esteem/</loc>
+    <lastmod>2016-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/sexy/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/sharing/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/sleep/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/snmp/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/space/</loc>
+    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/spring-break/</loc>
+    <lastmod>2015-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/ssd/</loc>
+    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/ssl/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/starwars/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/status/</loc>
+    <lastmod>2012-10-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/steam/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/storage/</loc>
+    <lastmod>2016-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/summer/</loc>
+    <lastmod>2015-06-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/summer-time/</loc>
+    <lastmod>2015-06-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/sysadmin/</loc>
+    <lastmod>2016-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/system-sweeper/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/tablets/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/tacocopter/</loc>
+    <lastmod>2012-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/tacos/</loc>
+    <lastmod>2012-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/</loc>
+    <lastmod>2013-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/tent/</loc>
+    <lastmod>2012-03-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/tether/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/thanksgiving/</loc>
+    <lastmod>2012-11-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/the-end-of-faith/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/thermostat/</loc>
+    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/tor/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/toys/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/trainers/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/ubuntu/</loc>
+    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/uftp/</loc>
+    <lastmod>2012-10-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/ultravnc/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/uncategorized/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/uninstall/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/updates/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/usb/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/users/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/virtualbox/</loc>
+    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/virtualization/</loc>
+    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/vmware/</loc>
+    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/vnc/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/vodka-mom/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/wait-for-it/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/wds/</loc>
+    <lastmod>2010-03-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/weird/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/</loc>
+    <lastmod>2019-03-16T00:29:52-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/wifi/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/wiki/</loc>
+    <lastmod>2012-05-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/wikileaks/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/wikipeida/</loc>
+    <lastmod>2012-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/win7/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/win8/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/windows/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/windows-7/</loc>
+    <lastmod>2011-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/windows-8/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/windows-defender/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/windows-xp/</loc>
+    <lastmod>2010-03-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/winpe/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/wordpress/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/work/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/writing/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/wtf/</loc>
+    <lastmod>2012-10-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/xps-13/</loc>
+    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/yak/</loc>
+    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/yelp/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.keybase.pub/tags/youtube/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

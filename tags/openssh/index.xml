@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Openssh on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/openssh/</link>
+    <description>Recent content in Openssh on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/openssh/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Odd Bits: Converting OpenSSH public keys</title>
+      <link>https://hsmalley.keybase.pub/post/odd-bits-converting-openssh-public-keys/</link>
+      <pubDate>Mon, 06 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/odd-bits-converting-openssh-public-keys/</guid>
+      <description>This is an interesting read.
+Odd Bits: Converting OpenSSH public keys.
+Converting OpenSSH public keys &amp;gt; I’ve posted a followup to this article that discusses ssh-agent.
+For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD7EZn/BzP26AWk/Ts2ymjpTXuXRiEWIWn HFTilOTcuJ/P1HfOwiy4RHC1rv59Yh/E6jbTx623+OGySJWh1IS3dAEaHhcGKnJaikrBn3c cdoNVkAAuL/YD7FMG1Z0SjtcZS6MoO8Lb9pkq6R+Ok6JQjwCEsB+OaVwP9RnVA+HSYeyCVE 0KakLCbBJcD1U2aHP4+IH4OaXhZacpb9Ueja6NNfGrv558xTgfZ+fLdJ7cpg6wU8UZnVM1B JiUW5KFasc+2IuZR0+g/oJXaYwvW2T6XsMgipetCEtQoMAJ4zmugzHSQuFRYHw/7S6PUI2U 03glFmULvEV+qIxsVFT1ng3pj lars@tiamat.house
+To this:
+&amp;mdash;&amp;ndash;BEGIN RSA PUBLIC KEY&amp;mdash;&amp;ndash; MIIBCgKCAQEA+xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7+fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A +xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz+PiB+Dml4WWnKW/VHo2ujTXxq7+efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk+l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P +0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &amp;mdash;&amp;ndash;END RSA PUBLIC KEY&amp;mdash;&amp;ndash;</description>
+    </item>
+    
+  </channel>
+</rss>

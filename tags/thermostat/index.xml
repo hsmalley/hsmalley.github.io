@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thermostat on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/thermostat/</link>
+    <description>Recent content in Thermostat on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/thermostat/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android Thermostat - A DIY Android Powered Thermostat</title>
+      <link>https://hsmalley.keybase.pub/post/android-thermostat-a-diy-android-powered-thermostat/</link>
+      <pubDate>Mon, 15 Oct 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/android-thermostat-a-diy-android-powered-thermostat/</guid>
+      <description>I AM GOING TO BUILDING THIS!
+http://androidthermostat.com/
+
+ Android Thermostat is an open source thermostat project ideal for programmers and electronics hobbyists. As the name suggests the application runs on Android phone that is connected to some basic electronic components for controlling your home HVAC system.It costs around $140 to build and can be assembled in an afternoon.
+It has several advantages over a traditional thermostat including the ability to easily create multiple schedules that are as simple or complex as you like, remote control access, monitoring of usage and easy updates over the internet.</description>
+    </item>
+    
+  </channel>
+</rss>

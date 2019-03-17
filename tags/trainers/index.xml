@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trainers on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/trainers/</link>
+    <description>Recent content in Trainers on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/trainers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Internet Explorer 10 memory protection features not just for Internet Explorer</title>
+      <link>https://hsmalley.keybase.pub/post/new-internet-explorer-10-memory-protection-features-not-just-for-internet-explorer/</link>
+      <pubDate>Wed, 14 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/new-internet-explorer-10-memory-protection-features-not-just-for-internet-explorer/</guid>
+      <description>New Internet Explorer 10 memory protection features not just for Internet Explorer.
+This is pretty awesome, but it makes me wonder if games will employ this… and how much harder will it be to write trainers for them?</description>
+    </item>
+    
+  </channel>
+</rss>

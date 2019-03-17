@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows on Have an average day :|</title>
+    <link>https://hsmalley.keybase.pub/tags/windows/</link>
+    <description>Recent content in Windows on Have an average day :|</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hsmalley.keybase.pub/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Booting Windows Defender Online from PXE</title>
+      <link>https://hsmalley.keybase.pub/post/booting-windows-defender-online-from-pxe/</link>
+      <pubDate>Thu, 31 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.keybase.pub/post/booting-windows-defender-online-from-pxe/</guid>
+      <description>A while back I wrote a post about booting Microsoft System Sweeper Beta from PXE. Booting WDO (Windows Defender Online) is pretty simple. The post I wrote on system sweeper will tell you what you need to do to do it. However I’ve wanted to expand that post for a long time now and just haven’t found the time to do it. I’m going to give you the run down on how to do it today though.</description>
+    </item>
+    
+  </channel>
+</rss>
