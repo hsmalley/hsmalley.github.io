@@ -1,9 +1,37 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hsmalley.github.io/tags/blog/</loc>
+    <lastmod>2019-03-16T00:29:52-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/blog_import/</loc>
+    <lastmod>2019-03-16T00:29:52-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/personal/</loc>
+    <lastmod>2019-03-16T00:29:52-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/</loc>
+    <lastmod>2019-03-16T00:29:52-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/</loc>
     <lastmod>2019-03-16T00:29:52-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -31,8 +59,29 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/family/</loc>
+    <lastmod>2016-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/self-esteem/</loc>
+    <lastmod>2016-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/on-the-sisyphean-task-of-regulating-encryption/</loc>
     <lastmod>2016-03-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/2015/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -45,7 +94,28 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/2016/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/migrating-servers-with-syncthing/</loc>
+    <lastmod>2016-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/storage/</loc>
+    <lastmod>2016-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/sysadmin/</loc>
     <lastmod>2016-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -80,6 +150,20 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/summer/</loc>
+    <lastmod>2015-06-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/summer-time/</loc>
+    <lastmod>2015-06-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/happy-9th-birthday-avriel/</loc>
     <lastmod>2015-06-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -87,7 +171,21 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/kids/</loc>
+    <lastmod>2015-06-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/last-day-school-2014-2015/</loc>
+    <lastmod>2015-06-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/school/</loc>
     <lastmod>2015-06-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -122,7 +220,42 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/holidays/</loc>
+    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/mothers-day/</loc>
+    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/animal-kingdom/</loc>
+    <lastmod>2015-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/animal-kingdom/</loc>
+    <lastmod>2015-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/disney/</loc>
+    <lastmod>2015-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/spring-break/</loc>
     <lastmod>2015-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -145,6 +278,13 @@
   <url>
     <loc>https://hsmalley.github.io/post/please-help-me/</loc>
     <lastmod>2014-08-19T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/dropbox/</loc>
+    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -206,6 +346,20 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/pets/</loc>
+    <lastmod>2013-04-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/rats/</loc>
+    <lastmod>2013-04-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/so-i-adopted-some-rats/</loc>
     <lastmod>2013-04-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -213,7 +367,21 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/0ad/</loc>
+    <lastmod>2013-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/0ad-is-coming-together-nicely/</loc>
+    <lastmod>2013-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/gaming/</loc>
     <lastmod>2013-04-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -227,7 +395,63 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/3d-printing/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/documentary/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/guns/</loc>
+    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/adding-ultravnc-to-winpe-in-mdt2012/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/mdt/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/mdt2012/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/ultravnc/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/vnc/</loc>
+    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/winpe/</loc>
     <lastmod>2013-03-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -241,6 +465,27 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/anti-malware/</loc>
+    <lastmod>2013-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/linux/</loc>
+    <lastmod>2013-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/security/</loc>
+    <lastmod>2013-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/so-dongle-jokes-are-not-allowed-anymore/</loc>
     <lastmod>2013-03-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -248,7 +493,49 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/adobe-reader-xi/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/find-guids-quickly/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/guid/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/guids/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/msiexec/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/registry/</loc>
+    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/uninstall/</loc>
     <lastmod>2013-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -276,8 +563,57 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/acrobat-7/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/acrobat7eol/</loc>
     <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/adobe/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/drm/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/end-of-life/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/eol/</loc>
+    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/funny/</loc>
+    <lastmod>2013-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/minecraft/</loc>
+    <lastmod>2013-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -297,8 +633,50 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/2012/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/awesome/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/music/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/music-video/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/pop-danthology-2012-mashup-of-50-pop-songs/</loc>
     <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/pop-music/</loc>
+    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/dell/</loc>
+    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -311,7 +689,21 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/ubuntu/</loc>
+    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/update-router-died/</loc>
+    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/xps-13/</loc>
     <lastmod>2012-11-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -334,6 +726,13 @@
   <url>
     <loc>https://hsmalley.github.io/post/this-is-a-great-read-hacking-my-vagina/</loc>
     <lastmod>2012-11-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/thanksgiving/</loc>
+    <lastmod>2012-11-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -388,8 +787,36 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/learn-to-code/</loc>
+    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/neil-degrasse-tyson/</loc>
+    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/quote/</loc>
+    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/why-admins-should-know-how-to-code-data-center-infoworld/</loc>
     <lastmod>2012-10-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/civil-rights/</loc>
+    <lastmod>2012-10-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -402,6 +829,27 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/data-transfer/</loc>
+    <lastmod>2012-10-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/multicast/</loc>
+    <lastmod>2012-10-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/uftp/</loc>
+    <lastmod>2012-10-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/uftp-encrypted-udp-based-ftp-with-multicast/</loc>
     <lastmod>2012-10-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -409,7 +857,28 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/android/</loc>
+    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/android-thermostat-a-diy-android-powered-thermostat/</loc>
+    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/diy/</loc>
+    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/thermostat/</loc>
     <lastmod>2012-10-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -437,7 +906,21 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/space/</loc>
+    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/it-pro-tip-verify-everything-e-g-if-your-mother-says-she-loves-you-verify-it/</loc>
+    <lastmod>2012-10-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/status/</loc>
     <lastmod>2012-10-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -451,7 +934,28 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/wtf/</loc>
+    <lastmod>2012-10-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/the-reasons-why-bitcoin-securities-cant-be-regulated-by-the-sec-pe-trilema-un-blog-de-mircea-popescu/</loc>
+    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/bitcoin/</loc>
+    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/life-lessons/</loc>
     <lastmod>2012-10-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -493,7 +997,35 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/nerds/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/nerds-have/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/quotes/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/sam-harris/</loc>
+    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/the-end-of-faith/</loc>
     <lastmod>2012-10-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -535,6 +1067,13 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/aww-yish/</loc>
+    <lastmod>2012-09-28T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/klingon-style-star-trek-parody-of-psy-gangnam-style-youtube/</loc>
     <lastmod>2012-09-28T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -550,6 +1089,13 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/11-offensive-security-tools-for-wreaking-havoc-hackertarget-com/</loc>
+    <lastmod>2012-09-27T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/powershell/</loc>
     <lastmod>2012-09-27T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -584,6 +1130,13 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/clam/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/liveleak-com-clam-eating-salt-lol/</loc>
     <lastmod>2012-07-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -591,7 +1144,70 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/nancy-grace/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/news/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/salt/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/vodka-mom/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/weird/</loc>
+    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/i-just-learned-im-a-closet-homosexual/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/im/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/lan/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/lgbt/</loc>
+    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/messenger/</loc>
     <lastmod>2012-07-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -626,6 +1242,48 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/apps/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/gay-bears/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/growl/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/growl-for-android/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/growl-for-windows/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/jetpack/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/updated-wordpress-commenting/</loc>
     <lastmod>2012-06-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -634,6 +1292,13 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/wait-thats-not-the-growl-im-looking-for/</loc>
+    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/wordpress/</loc>
     <lastmod>2012-06-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -682,8 +1347,29 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/reddit/</loc>
+    <lastmod>2012-06-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/this-guy-makes-a-humble-qa-post-about-his-final-days-and-people-throw-money-and-vagina-at-him/</loc>
     <lastmod>2012-06-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/awkward/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/bagpipes/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -704,6 +1390,13 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/man-protects-his-kids-from-a-bank-robber-youtube/</loc>
+    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/wait-for-it/</loc>
     <lastmod>2012-06-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -745,8 +1438,36 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/canoe/</loc>
+    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/canoing/</loc>
+    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/free-style-canoing/</loc>
     <lastmod>2012-06-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/freestyle/</loc>
+    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/naptime/</loc>
+    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -780,7 +1501,98 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/malware/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/microsoft/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/system-sweeper/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/windows/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/windows-defender/</loc>
+    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/activite-directory/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/ad/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/convert/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/distribution/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/dl/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/exchange/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/exchange-2010/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/how-to-mail-enable-an-active-directory-group-on-exchange-2010/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/howto/</loc>
     <lastmod>2012-05-30T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -794,7 +1606,21 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/jcpenny/</loc>
+    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/chilli-tequila/</loc>
+    <lastmod>2012-05-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/dinner/</loc>
     <lastmod>2012-05-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -809,6 +1635,13 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/personal-wiki/</loc>
+    <lastmod>2012-05-29T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/wiki/</loc>
     <lastmod>2012-05-29T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -850,7 +1683,21 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/tacocopter/</loc>
+    <lastmod>2012-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/tacocopter-one-click-taco-delivery-in-the-sf-bay-area/</loc>
+    <lastmod>2012-03-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/tacos/</loc>
     <lastmod>2012-03-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -864,8 +1711,29 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/mason-jars/</loc>
+    <lastmod>2012-03-22T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/doom/</loc>
+    <lastmod>2012-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/why-was-doom-ported-to-linux-youtube/</loc>
     <lastmod>2012-03-20T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/tent/</loc>
+    <lastmod>2012-03-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -878,7 +1746,28 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/copy-rights/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/copyright-troll/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/faith-based-daycares-on-the-rise-in-indiana-friendly-atheist/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/ie/</loc>
     <lastmod>2012-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -899,6 +1788,13 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/righthaven/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/stop-innovating-please-kaleidescape-loses-dvd-ripping-case/</loc>
     <lastmod>2012-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -907,6 +1803,13 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/the-internet-finally-kills-off-printed-encyclopaedia-britannicas/</loc>
+    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/trainers/</loc>
     <lastmod>2012-03-14T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -955,7 +1858,56 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/data-center/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/death/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/email/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/its-patch-tuesday-today/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/meme/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/monitoring/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/p2p/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/patch-tuesday/</loc>
     <lastmod>2012-03-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -983,7 +1935,42 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/red-meat/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/sadly-it-seems-that-someone-was-abusing-my-tor-exit-node-irc-ssh-aka-thisiswhywecanthavenicethings/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/snmp/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/starwars/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/tor/</loc>
+    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/wikileaks/</loc>
     <lastmod>2012-03-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1025,7 +2012,49 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/data/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/gaben/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/iphone/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/looks-like-yelp-is-blocking-me-because-im-running-a-tor-exitrelay-node/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/sharing/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/steam/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/tether/</loc>
     <lastmod>2012-03-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1053,7 +2082,42 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/wifi/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/yelp/</loc>
+    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/because-no-one-ever-reads-the-documentation/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/documentation/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/flash-drives/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/fun/</loc>
     <lastmod>2012-03-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1081,6 +2145,20 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/usb/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/work/</loc>
+    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/this-was-my-night/</loc>
     <lastmod>2012-03-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1088,7 +2166,42 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/adventure-time/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/obama/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/phone/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/president-obama-on-a-christian-nation/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/reviews/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/sexy/</loc>
     <lastmod>2012-03-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1103,6 +2216,20 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/this-is-a-classy-gun/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/win8/</loc>
+    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/windows-8/</loc>
     <lastmod>2012-03-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1137,7 +2264,28 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/filesharing/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/interesting/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/new-rom/</loc>
+    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/saved-for-later/</loc>
     <lastmod>2012-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1207,7 +2355,35 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/coins/</loc>
+    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/food/</loc>
+    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/hollywood/</loc>
+    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/in-soviet-russia-chocolate-coins-eat-you/</loc>
+    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/nyc/</loc>
     <lastmod>2012-02-10T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1249,6 +2425,13 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/intel/</loc>
+    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/intel-520-cherryville-series-240gb-ssd-review-in-raid-0-next-stop-cherryville-legit-reviews/</loc>
     <lastmod>2012-02-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1256,7 +2439,14 @@
   </url>
   
   <url>
-    <loc>https://hsmalley.github.io/post/the-miraculous-nasa-breakthrough-that-could-save-millions-of-lives/</loc>
+    <loc>https://hsmalley.github.io/tags/oem/</loc>
+    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/ssd/</loc>
     <lastmod>2012-02-08T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1270,7 +2460,49 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/post/the-miraculous-nasa-breakthrough-that-could-save-millions-of-lives/</loc>
+    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/dhs/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/gadets/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/gadget/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/google-to-strip-chrome-of-ssl-revocation-checking/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/ios/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/it/</loc>
     <lastmod>2012-02-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1298,7 +2530,28 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/sleep/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/ssl/</loc>
+    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/odd-bits-converting-openssh-public-keys/</loc>
+    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/openssh/</loc>
     <lastmod>2012-02-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1319,7 +2572,21 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/eggs/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/tuning-plan/</loc>
+    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/users/</loc>
     <lastmod>2012-02-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1354,6 +2621,69 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/wikipeida/</loc>
+    <lastmod>2012-02-02T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/birthday/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/cake/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/d3/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/dick-cake/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/friends/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/girlfriend/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/google/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/guides/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/i-dont-know-how-he-does-it-but-my-sons-poop-makes-me-think-hes-bigger-on-the-inside-than-outside/</loc>
     <lastmod>2012-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1362,6 +2692,13 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/into-the-fires-of-hell-i-go-d3-beta/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/kde/</loc>
     <lastmod>2012-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1389,6 +2726,13 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/passwords/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/review-republic-wireless-and-its-19month-cell-service/</loc>
     <lastmod>2012-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1396,7 +2740,21 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/tablets/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/the-completely-unsexy-and-ever-updated-basic-guide-to-keeping-your-computer-safe/</loc>
+    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/toys/</loc>
     <lastmod>2012-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1417,6 +2775,20 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/cooking/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/errors/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/florida-primary-tonight/</loc>
     <lastmod>2012-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1424,7 +2796,28 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/hacking/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/post/how-to-eat-a-chicken-wing-with-one-hand-youtube/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/ie-http-500-error/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/internet-explorer/</loc>
     <lastmod>2012-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1459,7 +2852,21 @@
   </url>
   
   <url>
-    <loc>https://hsmalley.github.io/post/how-to-eat-a-chicken-wing-with-one-hand-youtube/</loc>
+    <loc>https://hsmalley.github.io/tags/uncategorized/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/updates/</loc>
+    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/youtube/</loc>
     <lastmod>2012-01-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1467,6 +2874,27 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/fun-with-powershell/</loc>
+    <lastmod>2011-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/jokes/</loc>
+    <lastmod>2011-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/pranks/</loc>
+    <lastmod>2011-10-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/windows-7/</loc>
     <lastmod>2011-10-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1508,6 +2936,27 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/bunny/</loc>
+    <lastmod>2011-04-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/candy/</loc>
+    <lastmod>2011-04-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/easter/</loc>
+    <lastmod>2011-04-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/jules-loves-her-easter-candy/</loc>
     <lastmod>2011-04-23T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1523,6 +2972,13 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/error-the-file-adobepdf-dll-is-needed-cs3-on-64-bit/</loc>
+    <lastmod>2011-04-07T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/help-desk/</loc>
     <lastmod>2011-04-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1636,6 +3092,20 @@
   <url>
     <loc>https://hsmalley.github.io/post/copy-taskbar-icons-windows-7-sysprep-v2/</loc>
     <lastmod>2010-09-21T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/oops/</loc>
+    <lastmod>2010-09-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/scripting/</loc>
+    <lastmod>2010-09-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -1781,6 +3251,20 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/control/</loc>
+    <lastmod>2010-05-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/fap/</loc>
+    <lastmod>2010-05-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/ethan-didnt-have-to-die-cnn-com/</loc>
     <lastmod>2010-05-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1830,6 +3314,13 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/dad/</loc>
+    <lastmod>2010-04-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/damn-it-feels-good-to-be-a-gangster/</loc>
     <lastmod>2010-04-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1872,7 +3363,35 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/deployment/</loc>
+    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/on-virtualization-image-building/</loc>
+    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/virtualbox/</loc>
+    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/virtualization/</loc>
+    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/vmware/</loc>
     <lastmod>2010-03-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1893,6 +3412,20 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/mdt2010/</loc>
+    <lastmod>2010-03-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/wds/</loc>
+    <lastmod>2010-03-24T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/whats-the-build-id/</loc>
     <lastmod>2010-03-24T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1908,6 +3441,13 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/windows-deployment-server/</loc>
+    <lastmod>2010-03-17T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/windows-xp/</loc>
     <lastmod>2010-03-17T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1949,7 +3489,49 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/benchmarks/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/computer/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/eboostr/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/eboostr/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/performance/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/readyboost/</loc>
+    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/review/</loc>
     <lastmod>2010-03-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1977,6 +3559,20 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/blogging/</loc>
+    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/blood/</loc>
+    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/on-blogging/</loc>
     <lastmod>2010-02-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1985,6 +3581,13 @@
   
   <url>
     <loc>https://hsmalley.github.io/post/boost-your-windows-pc-performance-eboostr-com/</loc>
+    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/yak/</loc>
     <lastmod>2010-02-26T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2124,6 +3727,13 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/bittorent/</loc>
+    <lastmod>2010-01-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/instead-of-simply-recommending-that-you-sodomize/</loc>
     <lastmod>2010-01-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2180,7 +3790,28 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/journal/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/life/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/chicken-of-the-vnc-get-chicken-of-the-vnc-at-2/</loc>
+    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/writing/</loc>
     <lastmod>2010-01-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2201,7 +3832,28 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/baby/</loc>
+    <lastmod>2010-01-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/find-that-smell/</loc>
+    <lastmod>2010-01-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/perl/</loc>
+    <lastmod>2010-01-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/poop/</loc>
     <lastmod>2010-01-09T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2292,6 +3944,13 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/post/genuine-microsoft-software/</loc>
+    <lastmod>2010-01-04T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/winpe-3-0-boot-environment-scripts/</loc>
     <lastmod>2010-01-04T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2299,8 +3958,8 @@
   </url>
   
   <url>
-    <loc>https://hsmalley.github.io/post/genuine-microsoft-software/</loc>
-    <lastmod>2010-01-04T00:00:00+00:00</lastmod>
+    <loc>https://hsmalley.github.io/tags/crisis/</loc>
+    <lastmod>2010-01-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -2327,6 +3986,13 @@
   </url>
   
   <url>
+    <loc>https://hsmalley.github.io/tags/2010/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://hsmalley.github.io/post/2010/</loc>
     <lastmod>2009-12-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -2341,7 +4007,14 @@
   </url>
   
   <url>
-    <loc>https://hsmalley.github.io/post/mediawiki/</loc>
+    <loc>https://hsmalley.github.io/tags/new-years-eve/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hsmalley.github.io/tags/nye/</loc>
     <lastmod>2009-12-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -2355,52 +4028,17 @@
   </url>
   
   <url>
-    <loc>https://hsmalley.github.io/post/about-hugh/</loc>
-    <lastmod>1985-02-01T00:00:00+00:00</lastmod>
+    <loc>https://hsmalley.github.io/tags/win7/</loc>
+    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hsmalley.github.io/tags/0ad/</loc>
-    <lastmod>2013-04-03T00:00:00+00:00</lastmod>
+    <loc>https://hsmalley.github.io/post/about-hugh/</loc>
+    <lastmod>1985-02-01T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/2010/</loc>
-    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/2012/</loc>
-    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/2015/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/2016/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/3d-printing/</loc>
-    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
@@ -2410,1674 +4048,15 @@
   </url>
   
   <url>
-    <loc>https://hsmalley.github.io/tags/acrobat-7/</loc>
-    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/activite-directory/</loc>
-    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/ad/</loc>
-    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/adobe/</loc>
-    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/adobe-reader-xi/</loc>
-    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/adventure-time/</loc>
-    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/android/</loc>
-    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/animal-kingdom/</loc>
-    <lastmod>2015-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/anti-malware/</loc>
-    <lastmod>2013-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/apps/</loc>
-    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/awesome/</loc>
-    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/awkward/</loc>
-    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/aww-yish/</loc>
-    <lastmod>2012-09-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/baby/</loc>
-    <lastmod>2010-01-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/bagpipes/</loc>
-    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/benchmarks/</loc>
-    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/birthday/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/bitcoin/</loc>
-    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/bittorent/</loc>
-    <lastmod>2010-01-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/blog/</loc>
-    <lastmod>2019-03-16T00:29:52-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/blogging/</loc>
-    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/blood/</loc>
-    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/bunny/</loc>
-    <lastmod>2011-04-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/cake/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/candy/</loc>
-    <lastmod>2011-04-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/canoe/</loc>
-    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/canoing/</loc>
-    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://hsmalley.github.io/categories/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/civil-rights/</loc>
-    <lastmod>2012-10-19T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/clam/</loc>
-    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/coins/</loc>
-    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/computer/</loc>
-    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://hsmalley.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/control/</loc>
-    <lastmod>2010-05-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/convert/</loc>
-    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/cooking/</loc>
-    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/copy-rights/</loc>
-    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/copyright-troll/</loc>
-    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/crisis/</loc>
-    <lastmod>2010-01-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/d3/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/dad/</loc>
-    <lastmod>2010-04-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/data/</loc>
-    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/data-center/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/data-transfer/</loc>
-    <lastmod>2012-10-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/death/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/dell/</loc>
-    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/deployment/</loc>
-    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/dhs/</loc>
-    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/dick-cake/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/dinner/</loc>
-    <lastmod>2012-05-29T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/disney/</loc>
-    <lastmod>2015-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/distribution/</loc>
-    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/diy/</loc>
-    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/dl/</loc>
-    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/documentary/</loc>
-    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/documentation/</loc>
-    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/doom/</loc>
-    <lastmod>2012-03-20T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/drm/</loc>
-    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/dropbox/</loc>
-    <lastmod>2014-05-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/easter/</loc>
-    <lastmod>2011-04-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/eboostr/</loc>
-    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/eggs/</loc>
-    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/email/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/end-of-life/</loc>
-    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/eol/</loc>
-    <lastmod>2013-02-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/errors/</loc>
-    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/exchange/</loc>
-    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/exchange-2010/</loc>
-    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/family/</loc>
-    <lastmod>2016-03-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/fap/</loc>
-    <lastmod>2010-05-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/filesharing/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/flash-drives/</loc>
-    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/food/</loc>
-    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/freestyle/</loc>
-    <lastmod>2012-06-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/friends/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/fun/</loc>
-    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/funny/</loc>
-    <lastmod>2013-01-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/gaben/</loc>
-    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/gadets/</loc>
-    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/gadget/</loc>
-    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/gaming/</loc>
-    <lastmod>2013-04-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/gay-bears/</loc>
-    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/girlfriend/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/google/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/growl/</loc>
-    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/growl-for-android/</loc>
-    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/growl-for-windows/</loc>
-    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/guid/</loc>
-    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/guides/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/guids/</loc>
-    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/guns/</loc>
-    <lastmod>2013-04-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/hacking/</loc>
-    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/help-desk/</loc>
-    <lastmod>2011-04-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/holidays/</loc>
-    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/hollywood/</loc>
-    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/howto/</loc>
-    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/ie/</loc>
-    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/im/</loc>
-    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/intel/</loc>
-    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/interesting/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/internet-explorer/</loc>
-    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/ios/</loc>
-    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/iphone/</loc>
-    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/it/</loc>
-    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/jcpenny/</loc>
-    <lastmod>2012-05-30T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/jetpack/</loc>
-    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/jokes/</loc>
-    <lastmod>2011-10-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/journal/</loc>
-    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/kde/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/kids/</loc>
-    <lastmod>2015-06-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/lan/</loc>
-    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/ldap/</loc>
-    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/learn-to-code/</loc>
-    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/lgbt/</loc>
-    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/life/</loc>
-    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/life-lessons/</loc>
-    <lastmod>2012-10-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/linux/</loc>
-    <lastmod>2013-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/malware/</loc>
-    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/mason-jars/</loc>
-    <lastmod>2012-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/mdt/</loc>
-    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/mdt2010/</loc>
-    <lastmod>2010-03-24T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/mdt2012/</loc>
-    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/mediawiki/</loc>
-    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/meme/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/messenger/</loc>
-    <lastmod>2012-07-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/microsoft/</loc>
-    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/minecraft/</loc>
-    <lastmod>2013-01-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/monitoring/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/mothers-day/</loc>
-    <lastmod>2015-05-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/msiexec/</loc>
-    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/multicast/</loc>
-    <lastmod>2012-10-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/music/</loc>
-    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/music-video/</loc>
-    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/nancy-grace/</loc>
-    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/naptime/</loc>
-    <lastmod>2012-06-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/neil-degrasse-tyson/</loc>
-    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/nerds/</loc>
-    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/new-years-eve/</loc>
-    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/news/</loc>
-    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/nyc/</loc>
-    <lastmod>2012-02-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/nye/</loc>
-    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/obama/</loc>
-    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/oem/</loc>
-    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/oops/</loc>
-    <lastmod>2010-09-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/openssh/</loc>
-    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/p2p/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/passwords/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/patch-tuesday/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/performance/</loc>
-    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/perl/</loc>
-    <lastmod>2010-01-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/personal/</loc>
-    <lastmod>2019-03-16T00:29:52-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/pets/</loc>
-    <lastmod>2013-04-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/phone/</loc>
-    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/poop/</loc>
-    <lastmod>2010-01-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/pop-music/</loc>
-    <lastmod>2012-12-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/powershell/</loc>
-    <lastmod>2012-09-27T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/pranks/</loc>
-    <lastmod>2011-10-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/quote/</loc>
-    <lastmod>2012-10-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/quotes/</loc>
-    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/rats/</loc>
-    <lastmod>2013-04-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/readyboost/</loc>
-    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/red-meat/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/reddit/</loc>
-    <lastmod>2012-06-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/registry/</loc>
-    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/review/</loc>
-    <lastmod>2010-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/reviews/</loc>
-    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/righthaven/</loc>
-    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/salt/</loc>
-    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/sam-harris/</loc>
-    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/saved-for-later/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/school/</loc>
-    <lastmod>2015-06-04T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/scripting/</loc>
-    <lastmod>2010-09-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/security/</loc>
-    <lastmod>2013-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/self-esteem/</loc>
-    <lastmod>2016-03-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/sexy/</loc>
-    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/sharing/</loc>
-    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/sleep/</loc>
-    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/snmp/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/space/</loc>
-    <lastmod>2012-10-11T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/spring-break/</loc>
-    <lastmod>2015-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/ssd/</loc>
-    <lastmod>2012-02-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/ssl/</loc>
-    <lastmod>2012-02-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/starwars/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/status/</loc>
-    <lastmod>2012-10-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/steam/</loc>
-    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/storage/</loc>
-    <lastmod>2016-01-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/summer/</loc>
-    <lastmod>2015-06-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/summer-time/</loc>
-    <lastmod>2015-06-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/sysadmin/</loc>
-    <lastmod>2016-01-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/system-sweeper/</loc>
-    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/tablets/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/tacocopter/</loc>
-    <lastmod>2012-03-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/tacos/</loc>
-    <lastmod>2012-03-23T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/</loc>
-    <lastmod>2013-04-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/tent/</loc>
-    <lastmod>2012-03-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/tether/</loc>
-    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/thanksgiving/</loc>
-    <lastmod>2012-11-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/the-end-of-faith/</loc>
-    <lastmod>2012-10-05T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/thermostat/</loc>
-    <lastmod>2012-10-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/tor/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/toys/</loc>
-    <lastmod>2012-02-01T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/trainers/</loc>
-    <lastmod>2012-03-14T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/ubuntu/</loc>
-    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/uftp/</loc>
-    <lastmod>2012-10-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/ultravnc/</loc>
-    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/uncategorized/</loc>
-    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/uninstall/</loc>
-    <lastmod>2013-03-22T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/updates/</loc>
-    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/usb/</loc>
-    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/users/</loc>
-    <lastmod>2012-02-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/virtualbox/</loc>
-    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/virtualization/</loc>
-    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/vmware/</loc>
-    <lastmod>2010-03-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/vnc/</loc>
-    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/vodka-mom/</loc>
-    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/wait-for-it/</loc>
-    <lastmod>2012-06-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/wds/</loc>
-    <lastmod>2010-03-24T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/weird/</loc>
-    <lastmod>2012-07-10T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/</loc>
-    <lastmod>2019-03-16T00:29:52-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/wifi/</loc>
-    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/wiki/</loc>
-    <lastmod>2012-05-29T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/wikileaks/</loc>
-    <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/wikipeida/</loc>
-    <lastmod>2012-02-02T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/win7/</loc>
-    <lastmod>2009-12-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/win8/</loc>
-    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/windows/</loc>
-    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/windows-7/</loc>
-    <lastmod>2011-10-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/windows-8/</loc>
-    <lastmod>2012-03-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/windows-defender/</loc>
-    <lastmod>2012-05-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/windows-xp/</loc>
-    <lastmod>2010-03-17T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/winpe/</loc>
-    <lastmod>2013-03-28T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/wordpress/</loc>
-    <lastmod>2012-06-18T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/work/</loc>
-    <lastmod>2012-03-07T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/writing/</loc>
-    <lastmod>2010-01-15T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/wtf/</loc>
-    <lastmod>2012-10-08T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/xps-13/</loc>
-    <lastmod>2012-11-29T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/yak/</loc>
-    <lastmod>2010-02-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/yelp/</loc>
-    <lastmod>2012-03-09T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hsmalley.github.io/tags/youtube/</loc>
-    <lastmod>2012-01-31T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
   </url>
   
 </urlset>

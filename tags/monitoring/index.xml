@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Monitoring on Have an average day :|</title>
+    <title>monitoring on Have an average day :|</title>
     <link>https://hsmalley.github.io/tags/monitoring/</link>
-    <description>Recent content in Monitoring on Have an average day :|</description>
+    <description>Recent content in monitoring on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Mar 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hsmalley.github.io/tags/monitoring/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 13 Mar 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://hsmalley.github.io/tags/monitoring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PoE &amp; SNMP environmental and temperature monitoring sensors for computer rooms</title>
       <link>https://hsmalley.github.io/post/poe-snmp-environmental-and-temperature-monitoring-sensors-for-computer-rooms/</link>

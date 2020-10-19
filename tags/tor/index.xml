@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tor on Have an average day :|</title>
+    <title>tor on Have an average day :|</title>
     <link>https://hsmalley.github.io/tags/tor/</link>
-    <description>Recent content in Tor on Have an average day :|</description>
+    <description>Recent content in tor on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Mar 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hsmalley.github.io/tags/tor/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 13 Mar 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://hsmalley.github.io/tags/tor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sadly it seems that someone was abusing my tor exit node (IRC &amp; SSH) aka #ThisIsWhyWeCantHaveNiceThings</title>
       <link>https://hsmalley.github.io/post/sadly-it-seems-that-someone-was-abusing-my-tor-exit-node-irc-ssh-aka-thisiswhywecanthavenicethings/</link>

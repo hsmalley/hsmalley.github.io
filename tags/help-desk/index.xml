@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Help Desk on Have an average day :|</title>
+    <title>help desk on Have an average day :|</title>
     <link>https://hsmalley.github.io/tags/help-desk/</link>
-    <description>Recent content in Help Desk on Have an average day :|</description>
+    <description>Recent content in help desk on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hsmalley.github.io/tags/help-desk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 07 Apr 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://hsmalley.github.io/tags/help-desk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Error &#34;The file AdobePDF.dll is needed&#34; | CS3 on 64-bit Windows</title>
       <link>https://hsmalley.github.io/post/error-the-file-adobepdf-dll-is-needed-cs3-on-64-bit/</link>

@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Activite Directory on Have an average day :|</title>
+    <title>activite directory on Have an average day :|</title>
     <link>https://hsmalley.github.io/tags/activite-directory/</link>
-    <description>Recent content in Activite Directory on Have an average day :|</description>
+    <description>Recent content in activite directory on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 May 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hsmalley.github.io/tags/activite-directory/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 30 May 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://hsmalley.github.io/tags/activite-directory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to mail enable an Active Directory Group on Exchange 2010</title>
       <link>https://hsmalley.github.io/post/how-to-mail-enable-an-active-directory-group-on-exchange-2010/</link>

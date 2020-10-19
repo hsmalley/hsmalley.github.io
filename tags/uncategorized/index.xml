@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uncategorized on Have an average day :|</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Uncategorized on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Jan 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hsmalley.github.io/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 31 Jan 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://hsmalley.github.io/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>It&#39;s (a)live!</title>
       <link>https://hsmalley.github.io/post/hello-world-2/</link>

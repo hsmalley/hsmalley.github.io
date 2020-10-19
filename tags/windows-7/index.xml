@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Windows 7 on Have an average day :|</title>
+    <title>windows 7 on Have an average day :|</title>
     <link>https://hsmalley.github.io/tags/windows-7/</link>
-    <description>Recent content in Windows 7 on Have an average day :|</description>
+    <description>Recent content in windows 7 on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Oct 2011 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hsmalley.github.io/tags/windows-7/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 15 Oct 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://hsmalley.github.io/tags/windows-7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fun with Powershell</title>
       <link>https://hsmalley.github.io/post/fun-with-powershell/</link>
@@ -34,8 +30,7 @@ UPDATE: Running it remotely doesn’t work Happy Scripting!</description>
       <description>So I’m trying to deploy a custom wim for windows 7 and I keep running into a weird error: Error: Unable to find SETUP , needed to install the image
 This is what I managed to find and it works really well.
 http://www.pburch.com/blog/2010/03/05/a-tale-of-build-numbers-and-deployment/
- A Tale of Build Numbers and Deployment March 5th, 2010 Posted in MDT, Microsoft, WDS, Windows 7, Work
-I&amp;# 146;d just like you to know that I&amp;# 146;ve been pulling my hair out all week.</description>
+ A Tale of Build Numbers and Deployment March 5th, 2010 Posted in MDT, Microsoft, WDS, Windows 7, WorkI tried the Google route, and found a bunch of unrelated stuff.</description>
     </item>
     
     <item>

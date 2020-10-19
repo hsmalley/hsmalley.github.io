@@ -4,12 +4,16 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Have an average day :|  | Odd Bits: Converting OpenSSH public keys</title>
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-
+    <title>Odd Bits: Converting OpenSSH public keys | Have an average day :|</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="generator" content="Hugo 0.54.0" />
+    <meta name="description" content="This is an interesting read.
+Odd Bits: Converting OpenSSH public keys.
+Converting OpenSSH public keys For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD7EZn/BzP26AWk/Ts2ymjpTXuXRiEWIWn HFTilOTcuJ/P1HfOwiy4RHC1rv59Yh/E6jbTx623&#43;OGySJWh1IS3dAEaHhcGKnJaikrBn3c cdoNVkAAuL/YD7FMG1Z0SjtcZS6MoO8Lb9pkq6R&#43;Ok6JQjwCEsB&#43;OaVwP9RnVA&#43;HSYeyCVE 0KakLCbBJcD1U2aHP4&#43;IH4OaXhZacpb9Ueja6NNfGrv558xTgfZ&#43;fLdJ7cpg6wU8UZnVM1B JiUW5KFasc&#43;2IuZR0&#43;g/oJXaYwvW2T6XsMgipetCEtQoMAJ4zmugzHSQuFRYHw/7S6PUI2U 03glFmULvEV&#43;qIxsVFT1ng3pj lars@tiamat.house
+To this:
+&mdash;&ndash;BEGIN RSA PUBLIC KEY&mdash;&ndash; MIIBCgKCAQEA&#43;xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7&#43;fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A &#43;xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz&#43;PiB&#43;Dml4WWnKW/VHo2ujTXxq7&#43;efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk&#43;l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P &#43;0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &mdash;&ndash;END RSA PUBLIC KEY&mdash;&ndash;
+If you have a recent version of OpenSSH (where recent means 5.">
+    <meta name="generator" content="Hugo 0.76.5" />
     
     
       <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -17,7 +21,7 @@
 
     
     
-      <link href="/dist/css/app.955516233bcafa4d2a1c13cea63c7b50.css" rel="stylesheet">
+      <link href="/dist/css/app.4fc0b62e4b82c997bb0041217cd6b979.css" rel="stylesheet">
     
 
     
@@ -26,36 +30,34 @@
       
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
-    
 
     
 
+    
+    
     <meta property="og:title" content="Odd Bits: Converting OpenSSH public keys" />
 <meta property="og:description" content="This is an interesting read.
 Odd Bits: Converting OpenSSH public keys.
-Converting OpenSSH public keys &gt; I’ve posted a followup to this article that discusses ssh-agent.
-For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:
+Converting OpenSSH public keys For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD7EZn/BzP26AWk/Ts2ymjpTXuXRiEWIWn HFTilOTcuJ/P1HfOwiy4RHC1rv59Yh/E6jbTx623&#43;OGySJWh1IS3dAEaHhcGKnJaikrBn3c cdoNVkAAuL/YD7FMG1Z0SjtcZS6MoO8Lb9pkq6R&#43;Ok6JQjwCEsB&#43;OaVwP9RnVA&#43;HSYeyCVE 0KakLCbBJcD1U2aHP4&#43;IH4OaXhZacpb9Ueja6NNfGrv558xTgfZ&#43;fLdJ7cpg6wU8UZnVM1B JiUW5KFasc&#43;2IuZR0&#43;g/oJXaYwvW2T6XsMgipetCEtQoMAJ4zmugzHSQuFRYHw/7S6PUI2U 03glFmULvEV&#43;qIxsVFT1ng3pj lars@tiamat.house
 To this:
-&mdash;&ndash;BEGIN RSA PUBLIC KEY&mdash;&ndash; MIIBCgKCAQEA&#43;xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7&#43;fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A &#43;xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz&#43;PiB&#43;Dml4WWnKW/VHo2ujTXxq7&#43;efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk&#43;l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P &#43;0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &mdash;&ndash;END RSA PUBLIC KEY&mdash;&ndash;" />
+&mdash;&ndash;BEGIN RSA PUBLIC KEY&mdash;&ndash; MIIBCgKCAQEA&#43;xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7&#43;fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A &#43;xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz&#43;PiB&#43;Dml4WWnKW/VHo2ujTXxq7&#43;efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk&#43;l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P &#43;0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &mdash;&ndash;END RSA PUBLIC KEY&mdash;&ndash;
+If you have a recent version of OpenSSH (where recent means 5." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://hsmalley.github.io/post/odd-bits-converting-openssh-public-keys/" />
-<meta property="article:published_time" content="2012-02-06T00:00:00&#43;00:00"/>
-<meta property="article:modified_time" content="2012-02-06T00:00:00&#43;00:00"/>
-
+<meta property="article:published_time" content="2012-02-06T00:00:00+00:00" />
+<meta property="article:modified_time" content="2012-02-06T00:00:00+00:00" />
 <meta itemprop="name" content="Odd Bits: Converting OpenSSH public keys">
 <meta itemprop="description" content="This is an interesting read.
 Odd Bits: Converting OpenSSH public keys.
-Converting OpenSSH public keys &gt; I’ve posted a followup to this article that discusses ssh-agent.
-For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:
+Converting OpenSSH public keys For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD7EZn/BzP26AWk/Ts2ymjpTXuXRiEWIWn HFTilOTcuJ/P1HfOwiy4RHC1rv59Yh/E6jbTx623&#43;OGySJWh1IS3dAEaHhcGKnJaikrBn3c cdoNVkAAuL/YD7FMG1Z0SjtcZS6MoO8Lb9pkq6R&#43;Ok6JQjwCEsB&#43;OaVwP9RnVA&#43;HSYeyCVE 0KakLCbBJcD1U2aHP4&#43;IH4OaXhZacpb9Ueja6NNfGrv558xTgfZ&#43;fLdJ7cpg6wU8UZnVM1B JiUW5KFasc&#43;2IuZR0&#43;g/oJXaYwvW2T6XsMgipetCEtQoMAJ4zmugzHSQuFRYHw/7S6PUI2U 03glFmULvEV&#43;qIxsVFT1ng3pj lars@tiamat.house
 To this:
-&mdash;&ndash;BEGIN RSA PUBLIC KEY&mdash;&ndash; MIIBCgKCAQEA&#43;xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7&#43;fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A &#43;xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz&#43;PiB&#43;Dml4WWnKW/VHo2ujTXxq7&#43;efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk&#43;l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P &#43;0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &mdash;&ndash;END RSA PUBLIC KEY&mdash;&ndash;">
-
-
-<meta itemprop="datePublished" content="2012-02-06T00:00:00&#43;00:00" />
-<meta itemprop="dateModified" content="2012-02-06T00:00:00&#43;00:00" />
-<meta itemprop="wordCount" content="845">
+&mdash;&ndash;BEGIN RSA PUBLIC KEY&mdash;&ndash; MIIBCgKCAQEA&#43;xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7&#43;fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A &#43;xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz&#43;PiB&#43;Dml4WWnKW/VHo2ujTXxq7&#43;efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk&#43;l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P &#43;0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &mdash;&ndash;END RSA PUBLIC KEY&mdash;&ndash;
+If you have a recent version of OpenSSH (where recent means 5.">
+<meta itemprop="datePublished" content="2012-02-06T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2012-02-06T00:00:00+00:00" />
+<meta itemprop="wordCount" content="834">
 
 
 
@@ -64,12 +66,13 @@ To this:
 <meta name="twitter:title" content="Odd Bits: Converting OpenSSH public keys"/>
 <meta name="twitter:description" content="This is an interesting read.
 Odd Bits: Converting OpenSSH public keys.
-Converting OpenSSH public keys &gt; I’ve posted a followup to this article that discusses ssh-agent.
-For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:
+Converting OpenSSH public keys For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD7EZn/BzP26AWk/Ts2ymjpTXuXRiEWIWn HFTilOTcuJ/P1HfOwiy4RHC1rv59Yh/E6jbTx623&#43;OGySJWh1IS3dAEaHhcGKnJaikrBn3c cdoNVkAAuL/YD7FMG1Z0SjtcZS6MoO8Lb9pkq6R&#43;Ok6JQjwCEsB&#43;OaVwP9RnVA&#43;HSYeyCVE 0KakLCbBJcD1U2aHP4&#43;IH4OaXhZacpb9Ueja6NNfGrv558xTgfZ&#43;fLdJ7cpg6wU8UZnVM1B JiUW5KFasc&#43;2IuZR0&#43;g/oJXaYwvW2T6XsMgipetCEtQoMAJ4zmugzHSQuFRYHw/7S6PUI2U 03glFmULvEV&#43;qIxsVFT1ng3pj lars@tiamat.house
 To this:
-&mdash;&ndash;BEGIN RSA PUBLIC KEY&mdash;&ndash; MIIBCgKCAQEA&#43;xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7&#43;fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A &#43;xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz&#43;PiB&#43;Dml4WWnKW/VHo2ujTXxq7&#43;efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk&#43;l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P &#43;0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &mdash;&ndash;END RSA PUBLIC KEY&mdash;&ndash;"/>
+&mdash;&ndash;BEGIN RSA PUBLIC KEY&mdash;&ndash; MIIBCgKCAQEA&#43;xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7&#43;fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A &#43;xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz&#43;PiB&#43;Dml4WWnKW/VHo2ujTXxq7&#43;efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk&#43;l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P &#43;0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &mdash;&ndash;END RSA PUBLIC KEY&mdash;&ndash;
+If you have a recent version of OpenSSH (where recent means 5."/>
 
+	
   </head>
 
   <body class="ma0 avenir bg-near-white">
@@ -82,8 +85,10 @@ To this:
     <div class="bg-black">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
-    <a href="https://hsmalley.github.io/" class="f3 fw2 hover-white no-underline white-90 dib">
-      Have an average day :|
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Have an average day :|
+      
     </a>
     <div class="flex-l items-center">
       
@@ -114,6 +119,7 @@ To this:
       
 
 
+
 <a href="https://facebook.com/hsmalley" target="_blank" class="link-transition facebook link dib z-999 pt3 pt0-l mr1" title="Facebook link" rel="noopener" aria-label="follow on Facebook——Opens in a new window">
   <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
 
@@ -174,6 +180,7 @@ To this:
 
 
 
+
 <a href="https://mastodon.social/@hsmalley" target="_blank" class="link-transition mastodon link dib z-999 pt3 pt0-l mr1" title="Mastodon link" rel="noopener" aria-label="follow on Mastodon——Opens in a new window">
   <svg height="32px"  style="enable-background:new 0 0 230 230;" version="1.1" viewBox="0 0 230 230" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <path d="M211.80683 139.0875c-3.1825 16.36625-28.4925 34.2775-57.5625 37.74875-15.16 1.80875-30.0825 3.47125-45.99875 2.74125-26.0275-1.1925-46.565-6.2125-46.565-6.2125 0 2.53375.15625 4.94625.46875 7.2025 3.38375 25.68625 25.47 27.225 46.3925 27.9425 21.115.7225 39.91625-5.20625 39.91625-5.20625l.86875 19.09s-14.77 7.93125-41.08125 9.39c-14.50875.7975-32.52375-.365-53.50625-5.91875C9.23183 213.82 1.40558 165.31125.20808 116.09125c-.36375-14.61375-.14-28.39375-.14-39.91875 0-50.33 32.97625-65.0825 32.97625-65.0825C49.67058 3.45375 78.20308.2425 107.86433 0h.72875c29.66125.2425 58.21125 3.45375 74.8375 11.09 0 0 32.97625 14.7525 32.97625 65.0825 0 0 .4125 37.13375-4.6 62.915" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
@@ -184,6 +191,8 @@ To this:
 <path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
 </svg>
 </span></a>
+
+
 
 
     </div>
@@ -199,126 +208,107 @@ To this:
       
   
   <article class="flex-l flex-wrap justify-between mw8 center ph3">
-
     <header class="mt4 w-100">
-      <p class="f6 b helvetica tracked">
+      <aside class="instapaper_ignoref b helvetica tracked">
           
         ARTICLES
-      </p>
-      <h1 class="f1 athelas mb1">Odd Bits: Converting OpenSSH public keys</h1>
+      </aside>
       
-      <time class="f6 mv4 dib tracked" datetime="2012-02-06T00:00:00Z">February 6, 2012</time>      
+
+
+
+
+  <div id="sharing" class="mt3">
+
+    
+    <a href="https://www.facebook.com/sharer.php?u=https://hsmalley.github.io/post/odd-bits-converting-openssh-public-keys/" class="facebook no-underline" aria-label="share on Facebook">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M28.765,50.32h6.744V33.998h4.499l0.596-5.624h-5.095  l0.007-2.816c0-1.466,0.14-2.253,2.244-2.253h2.812V17.68h-4.5c-5.405,0-7.307,2.729-7.307,7.317v3.377h-3.369v5.625h3.369V50.32z   M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;"/></svg>
+
+    </a>
+
+    
+    
+    <a href="https://twitter.com/share?url=https://hsmalley.github.io/post/odd-bits-converting-openssh-public-keys/&amp;text=Odd%20Bits:%20Converting%20OpenSSH%20public%20keys" class="twitter no-underline" aria-label="share on Twitter">
+      <svg height="32px"  style="enable-background:new 0 0 67 67;" version="1.1" viewBox="0 0 67 67" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><path d="M37.167,22.283c-2.619,0.953-4.274,3.411-4.086,6.101  l0.063,1.038l-1.048-0.127c-3.813-0.487-7.145-2.139-9.974-4.915l-1.383-1.377l-0.356,1.017c-0.754,2.267-0.272,4.661,1.299,6.271  c0.838,0.89,0.649,1.017-0.796,0.487c-0.503-0.169-0.943-0.296-0.985-0.233c-0.146,0.149,0.356,2.076,0.754,2.839  c0.545,1.06,1.655,2.097,2.871,2.712l1.027,0.487l-1.215,0.021c-1.173,0-1.215,0.021-1.089,0.467  c0.419,1.377,2.074,2.839,3.918,3.475l1.299,0.444l-1.131,0.678c-1.676,0.976-3.646,1.526-5.616,1.568  C19.775,43.256,19,43.341,19,43.405c0,0.211,2.557,1.397,4.044,1.864c4.463,1.377,9.765,0.783,13.746-1.568  c2.829-1.673,5.657-5,6.978-8.221c0.713-1.716,1.425-4.851,1.425-6.354c0-0.975,0.063-1.102,1.236-2.267  c0.692-0.678,1.341-1.419,1.467-1.631c0.21-0.403,0.188-0.403-0.88-0.043c-1.781,0.636-2.033,0.551-1.152-0.402  c0.649-0.678,1.425-1.907,1.425-2.267c0-0.063-0.314,0.042-0.671,0.233c-0.377,0.212-1.215,0.53-1.844,0.72l-1.131,0.361l-1.027-0.7  c-0.566-0.381-1.361-0.805-1.781-0.932C39.766,21.902,38.131,21.944,37.167,22.283z M33,64C16.432,64,3,50.569,3,34S16.432,4,33,4  s30,13.431,30,30S49.568,64,33,64z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/></svg>
+
+    </a>
+
+    
+    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://hsmalley.github.io/post/odd-bits-converting-openssh-public-keys/&amp;title=Odd%20Bits:%20Converting%20OpenSSH%20public%20keys" class="linkedin no-underline" aria-label="share on LinkedIn">
+      <svg  height="32px"  style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
+</svg>
+
+    </a>
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Odd Bits: Converting OpenSSH public keys</h1>
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2012-02-06T00:00:00Z">February 6, 2012</time>
+
       
       
     </header>
-
-    <section class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l">
-
-<p>This is an interesting read.</p>
-
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l"><p>This is an interesting read.</p>
 <p><a href="http://blog.oddbit.com/2011/05/converting-openssh-public-keys.html">Odd Bits: Converting OpenSSH public keys</a>.</p>
-
 <h3 id="converting-openssh-public-keys">Converting OpenSSH public keys</h3>
-
-<p><div class="post-header"></div>&gt; I’ve posted a <a href="http://blog.oddbit.com/2011/05/signing-data-with-ssh-agent.html">followup</a> to this article that discusses ssh-agent.</p>
-
+<!-- raw HTML omitted -->
 <p>For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:</p>
-
-<p>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD7EZn/BzP26AWk/Ts2ymjpTXuXRiEWIWn HFTilOTcuJ/P1HfOwiy4RHC1rv59Yh/E6jbTx623+OGySJWh1IS3dAEaHhcGKnJaikrBn3c cdoNVkAAuL/YD7FMG1Z0SjtcZS6MoO8Lb9pkq6R+Ok6JQjwCEsB+OaVwP9RnVA+HSYeyCVE 0KakLCbBJcD1U2aHP4+IH4OaXhZacpb9Ueja6NNfGrv558xTgfZ+fLdJ7cpg6wU8UZnVM1B JiUW5KFasc+2IuZR0+g/oJXaYwvW2T6XsMgipetCEtQoMAJ4zmugzHSQuFRYHw/7S6PUI2U 03glFmULvEV+qIxsVFT1ng3pj lars@tiamat.house</p>
-
+<p>ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD7EZn/BzP26AWk/Ts2ymjpTXuXRiEWIWn HFTilOTcuJ/P1HfOwiy4RHC1rv59Yh/E6jbTx623+OGySJWh1IS3dAEaHhcGKnJaikrBn3c cdoNVkAAuL/YD7FMG1Z0SjtcZS6MoO8Lb9pkq6R+Ok6JQjwCEsB+OaVwP9RnVA+HSYeyCVE 0KakLCbBJcD1U2aHP4+IH4OaXhZacpb9Ueja6NNfGrv558xTgfZ+fLdJ7cpg6wU8UZnVM1B JiUW5KFasc+2IuZR0+g/oJXaYwvW2T6XsMgipetCEtQoMAJ4zmugzHSQuFRYHw/7S6PUI2U 03glFmULvEV+qIxsVFT1ng3pj <a href="mailto:lars@tiamat.house">lars@tiamat.house</a></p>
 <p>To this:</p>
-
 <p>&mdash;&ndash;BEGIN RSA PUBLIC KEY&mdash;&ndash; MIIBCgKCAQEA+xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7+fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A +xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz+PiB+Dml4WWnKW/VHo2ujTXxq7+efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk+l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P +0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &mdash;&ndash;END RSA PUBLIC KEY&mdash;&ndash;</p>
-
 <p>If you have a recent version of OpenSSH (where recent means 5.6 or later), you can just do this:</p>
-
 <p>ssh-keygen -f key.pub -e -m pem</p>
-
 <p>If you don’t have that, read on.</p>
-
 <h1 id="openssh-public-key-format">OpenSSH Public Key Format</h1>
-
-<p>The OpenSSH public key format is fully documented <a href="http://tools.ietf.org/html/rfc4253# section-6.6">RFC 4253</a>. Briefly, an OpenSSH public key consists of three fields:</p>
-
+<p>The OpenSSH public key format is fully documented [RFC 4253](<a href="http://tools.ietf.org/html/rfc4253#">http://tools.ietf.org/html/rfc4253#</a> section-6.6). Briefly, an OpenSSH public key consists of three fields:</p>
 <ul>
 <li>The key type</li>
 <li>A chunk of PEM-encoded data</li>
 <li>A comment</li>
 </ul>
-
-<p>What, you may ask, is PEM encoding? <a href="http://en.wikipedia.org/wiki/Base64# Privacy-enhanced_mail">Privacy Enhanced Mail</a> (PEM) is a specific type of <a href="http://en.wikipedia.org/wiki/Base64">Base64</a> encoding…which is to say it is a way of representing binary data using only printable ASCII characters.</p>
-
-<p>For an <tt class="docutils literal"><span class="pre">ssh-rsa</span></tt> key, the PEM-encoded data is a series of (length, data) pairs. The length is encoded as four octets (in big-endian order). The values encoded are:</p>
-
+<p>What, you may ask, is PEM encoding? [Privacy Enhanced Mail](<a href="http://en.wikipedia.org/wiki/Base64#">http://en.wikipedia.org/wiki/Base64#</a> Privacy-enhanced_mail) (PEM) is a specific type of <a href="http://en.wikipedia.org/wiki/Base64">Base64</a> encoding…which is to say it is a way of representing binary data using only printable ASCII characters.</p>
+<p>For an <!-- raw HTML omitted --><!-- raw HTML omitted -->ssh-rsa<!-- raw HTML omitted --><!-- raw HTML omitted --> key, the PEM-encoded data is a series of (length, data) pairs. The length is encoded as four octets (in big-endian order). The values encoded are:</p>
 <ol>
-<li>algorithm name (one of (<tt class="docutils literal"><span class="pre">ssh-rsa</span></tt>, <tt class="docutils literal"><span class="pre">ssh-dsa</span></tt>)). This duplicates the key type in the first field of the public key.</li>
+<li>algorithm name (one of (<!-- raw HTML omitted --><!-- raw HTML omitted -->ssh-rsa<!-- raw HTML omitted --><!-- raw HTML omitted -->, <!-- raw HTML omitted --><!-- raw HTML omitted -->ssh-dsa<!-- raw HTML omitted --><!-- raw HTML omitted -->)). This duplicates the key type in the first field of the public key.</li>
 <li>RSA exponent</li>
 <li>RSA modulus</li>
 </ol>
-
 <p>For more information on how RSA works and what the exponent and modulus are used for, read the Wikipedia article on <a href="http://en.wikipedia.org/wiki/RSA">RSA</a>.</p>
-
 <p>We can read this in with the following Python code:</p>
-
-<p>import sys import base64 import struct # get the second field from the public key file. keydata = base64.b64decode( open(&lsquo;key.pub&rsquo;).read().split(None)[1]) parts = [] while keydata: # read the length of the data dlen = struct.unpack(&lsquo;&gt;I&rsquo;, keydata[:4])[0] # read in <length> bytes data, keydata = keydata[4:dlen+4], keydata[4+dlen:] parts.append(data)</p>
-
+<p>import sys import base64 import struct # get the second field from the public key file. keydata = base64.b64decode( open(&lsquo;key.pub&rsquo;).read().split(None)[1]) parts = [] while keydata: # read the length of the data dlen = struct.unpack('&gt;I', keydata[:4])[0] # read in <!-- raw HTML omitted --> bytes data, keydata = keydata[4:dlen+4], keydata[4+dlen:] parts.append(data)</p>
 <p>This leaves us with an array that, for an RSA key, will look like:</p>
-
-<p>[&lsquo;ssh-rsa&rsquo;, &lsquo;&hellip;bytes in exponent&hellip;&rsquo;, &lsquo;&hellip;bytes in modulus&hellip;&rsquo;]</p>
-
+<p>[&lsquo;ssh-rsa&rsquo;, &lsquo;&hellip;bytes in exponent&hellip;&rsquo;, &lsquo;&hellip;bytes in modulus&hellip;']</p>
 <p>We need to convert the character buffers currently holding <em>e</em> (the exponent) and <em>n</em> (the modulus) into numeric types. There may be better ways to do this, but this works:</p>
-
-<p>e_val = eval(&lsquo;0x&rsquo; + &ldquo;.join([&lsquo;%02X&rsquo; % struct.unpack(&lsquo;B&rsquo;, x)[0] for x in parts[1]])) n_val = eval(&lsquo;0x&rsquo; + &ldquo;.join([&lsquo;%02X&rsquo; % struct.unpack(&lsquo;B&rsquo;, x)[0] for x in parts[2]]))</p>
-
+<p>e_val = eval(&lsquo;0x&rsquo; + &lsquo;'.join(['%02X&rsquo; % struct.unpack(&lsquo;B&rsquo;, x)[0] for x in parts[1]])) n_val = eval(&lsquo;0x&rsquo; + &lsquo;'.join(['%02X&rsquo; % struct.unpack(&lsquo;B&rsquo;, x)[0] for x in parts[2]]))</p>
 <p>We now have the RSA public key. The next step is to produce the appropriate output format.</p>
-
 <h1 id="pkcs-1-public-key-format">PKCS# 1 Public Key Format</h1>
-
 <p>Our target format is a PEM-encoded PKCS# 1 public key.</p>
-
 <p>PKCS# 1 is “the first of a family of standards called Public-Key Cryptography Standards (PKCS), published by RSA Laboratories.” (<a href="http://en.wikipedia.org/wiki/PKCS1">Wikipedia</a>). You can identify a PKCS# 1 PEM-encoded public key by the markers used to delimit the base64 encoded data:</p>
-
 <p>&mdash;&ndash;BEGIN RSA PUBLIC KEY&mdash;&ndash; &hellip; &mdash;&ndash;END RSA PUBLIC KEY&mdash;&ndash;</p>
-
 <p>This is different from an x.509 public key, which looks like this:</p>
-
 <p>&mdash;&ndash;BEGIN PUBLIC KEY&mdash;&ndash; &hellip; &mdash;&ndash;END PUBLIC KEY&mdash;&ndash;</p>
-
 <p>The x.509 format may be used to store keys generated using algorithms other than RSA.</p>
-
 <p>The data in a PKCS# 1 key is encoded using DER, which is a set of rules for serializing ASN.1 data. For more information see:</p>
-
 <ul>
 <li>The WikiPedia entry for <a href="http://en.wikipedia.org/wiki/Distinguished_Encoding_Rules">Distinguished Encoding Rules</a></li>
 <li><a href="http://luca.ntop.org/Teaching/Appunti/asn1.html">A Layman’s Guide to a Subset of ASN.1, BER, and DER</a></li>
 </ul>
-
 <p>Basically, ASN.1 is a standard for describing abstract data types, and DER is a set of rules for transforming an ASN.1 data type into a series of octets.</p>
-
 <p>According to the <a href="ftp://ftp.rsasecurity.com/pub/pkcs/pkcs-1/pkcs-1v2-1.asn">ASN module for PKCS# 1</a>, a PKCS# 1 public key looks like this:</p>
-
 <p>RSAPublicKey ::= SEQUENCE { modulus INTEGER, &ndash; n publicExponent INTEGER &ndash; e }</p>
-
 <p>We can generate this from our key data using Python’s <a href="http://pyasn1.sourceforge.net/">PyASN1</a> module:</p>
-
 <p>from pyasn1.type import univ pkcs1_seq = univ.Sequence() pkcs1_seq.setComponentByPosition(0, univ.Integer(n_val)) pkcs1_seq.setComponentByPosition(1, univ.Integer(e_val))</p>
-
 <h1 id="generating-the-output">Generating the output</h1>
-
 <p>Now that we have the DER encoded key, generating the output is easy:</p>
-
 <p>from pyasn1.codec.der import encoder as der_encoder print &lsquo;&mdash;&ndash;BEGIN RSA PUBLIC KEY&mdash;&ndash;&rsquo; print base64.encodestring(der_encoder.encode(pkcs1_seq)) print &lsquo;&mdash;&ndash;END RSA PUBLIC KEY&mdash;&ndash;&rsquo;</p>
-
 <h1 id="appendix-openssh-private-key-format">Appendix: OpenSSH private key format</h1>
-
 <p>Whereas the OpenSSH public key format is effectively “proprietary” (that is, the format is used only by OpenSSH), the private key is already stored as a PKCS# 1 private key. This means that the private key can be manipulated using the OpenSSL command line tools.</p>
-
-<p>The clever folks among you may be wondering if, assuming we have the private key available, we could have skipped this whole exercise and simply extracted the public key in the correct format using the <tt class="docutils literal">openssl</tt> command. We can come very close…the following demonstrates how to extract the public key from the private key using <tt class="docutils literal">openssl</tt>:</p>
-
+<p>The clever folks among you may be wondering if, assuming we have the private key available, we could have skipped this whole exercise and simply extracted the public key in the correct format using the <!-- raw HTML omitted -->openssl<!-- raw HTML omitted --> command. We can come very close…the following demonstrates how to extract the public key from the private key using <!-- raw HTML omitted -->openssl<!-- raw HTML omitted -->:</p>
 <p>$ openssl rsa -in key -pubout &mdash;&ndash;BEGIN PUBLIC KEY&mdash;&ndash; MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+xGZ/wcz9ugFpP07Nspo 6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsuERwta7+fWIfxOo208ett/jhskiVodSEt 3QBGh4XBipyWopKwZ93HHaDVZAALi/2A+xTBtWdEo7XGUujKDvC2/aZKukfjpOiU I8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCwmwSXA9VNmhz+PiB+Dml4WWnKW/VHo2uj TXxq7+efMU4H2fny3Se3KYOsFPFGZ1TNQSYlFuShWrHPtiLmUdPoP6CV2mML1tk+ l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P+0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6 YwIDAQAB &mdash;&ndash;END PUBLIC KEY&mdash;&ndash;</p>
-
 <p>So close! But this is in x.509 format, and even though the OpenSSL library supports PKCS# 1 encoding, there is no mechanism to make the command line tools cough up this format.</p>
-
 <p>Additionally, I am trying for a solution that does not require the private key to be available, which means that in any case I will still have to parse the OpenSSH public key format.</p>
 <ul class="pa0">
   
@@ -331,10 +321,11 @@ To this:
    </li>
   
 </ul>
-<div class="mt6">
-        
+<div class="mt6 instapaper_ignoref">
+      
+      
       </div>
-    </section>
+    </div>
 
     <aside class="w-30-l mt6-l">
 
@@ -349,9 +340,10 @@ To this:
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://hsmalley.github.io/" >
-    &copy; 2019 Have an average day :|
+    &copy;  Have an average day :| 2020 
   </a>
     <div>
+
 
 
 <a href="https://facebook.com/hsmalley" target="_blank" class="link-transition facebook link dib z-999 pt3 pt0-l mr1" title="Facebook link" rel="noopener" aria-label="follow on Facebook——Opens in a new window">
@@ -414,6 +406,7 @@ To this:
 
 
 
+
 <a href="https://mastodon.social/@hsmalley" target="_blank" class="link-transition mastodon link dib z-999 pt3 pt0-l mr1" title="Mastodon link" rel="noopener" aria-label="follow on Mastodon——Opens in a new window">
   <svg height="32px"  style="enable-background:new 0 0 230 230;" version="1.1" viewBox="0 0 230 230" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <path d="M211.80683 139.0875c-3.1825 16.36625-28.4925 34.2775-57.5625 37.74875-15.16 1.80875-30.0825 3.47125-45.99875 2.74125-26.0275-1.1925-46.565-6.2125-46.565-6.2125 0 2.53375.15625 4.94625.46875 7.2025 3.38375 25.68625 25.47 27.225 46.3925 27.9425 21.115.7225 39.91625-5.20625 39.91625-5.20625l.86875 19.09s-14.77 7.93125-41.08125 9.39c-14.50875.7975-32.52375-.365-53.50625-5.91875C9.23183 213.82 1.40558 165.31125.20808 116.09125c-.36375-14.61375-.14-28.39375-.14-39.91875 0-50.33 32.97625-65.0825 32.97625-65.0825C49.67058 3.45375 78.20308.2425 107.86433 0h.72875c29.66125.2425 58.21125 3.45375 74.8375 11.09 0 0 32.97625 14.7525 32.97625 65.0825 0 0 .4125 37.13375-4.6 62.915" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
@@ -424,6 +417,8 @@ To this:
 <path d="M598 128h298v298h-86v-152l-418 418-60-60 418-418h-152v-86zM810 810v-298h86v298c0 46-40 86-86 86h-596c-48 0-86-40-86-86v-596c0-46 38-86 86-86h298v86h-298v596h596z" style="fill-rule:evenodd;clip-rule:evenodd;fill:;"/>
 </svg>
 </span></a>
+
+
 
 </div>
   </div>

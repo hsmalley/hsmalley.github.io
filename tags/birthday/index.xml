@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Birthday on Have an average day :|</title>
+    <title>birthday on Have an average day :|</title>
     <link>https://hsmalley.github.io/tags/birthday/</link>
-    <description>Recent content in Birthday on Have an average day :|</description>
+    <description>Recent content in birthday on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hsmalley.github.io/tags/birthday/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 01 Feb 2012 00:00:00 +0000</lastBuildDate><atom:link href="https://hsmalley.github.io/tags/birthday/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>MMM Dick Cake.</title>
       <link>https://hsmalley.github.io/post/mmm-dick-cake/</link>
@@ -26,7 +22,7 @@
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/my-google-birthday-logo/</guid>
-      <description>[![](https://i1.wp.com/www.thehijax.com/wp-content/uploads/2012/02/MyGoogeLogo.png?resize=598%2C352 &#34;MyGoogeLogo&#34;)](http://www.thehijax.com/?attachment_id=140)My Birthday Logo </description>
+      <description></description>
     </item>
     
   </channel>

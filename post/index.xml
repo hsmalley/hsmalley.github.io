@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Have an average day :|</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Articles on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 12:00:00 -0500</lastBuildDate>
-    
-	<atom:link href="https://hsmalley.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Jan 2019 12:00:00 -0500</lastBuildDate><atom:link href="https://hsmalley.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog Import!</title>
       <link>https://hsmalley.github.io/post/blog_import/</link>
@@ -80,10 +76,10 @@ First, Syncthing is amazing. It’s come A LONG way over the past year and it’
       
       <guid>https://hsmalley.github.io/post/they-didnt-think-he-had-a-bomb/</guid>
       <description>I said: it’s sad they thought that kid had a bomb.
-She said: they didn’t think he had a bomb.
-I said: yes, they thought he made a bomb and even called the police.
-She said: They just wanted to humiliate a little Muslim boy. They didn’t think he had a bomb.
-I said: Don’t be a conspiracy theorist. They might be a little prejudiced, but I’m sure they thought he had a bomb.</description>
+  She said: they didn’t think he had a bomb.
+  I said: yes, they thought he made a bomb and even called the police.
+  She said: They just wanted to humiliate a little Muslim boy. They didn’t think he had a bomb.
+  I said: Don’t be a conspiracy theorist. They might be a little prejudiced, but I’m sure they thought he had a bomb.</description>
     </item>
     
     <item>
@@ -92,7 +88,7 @@ I said: Don’t be a conspiracy theorist. They might be a little prejudiced, but
       <pubDate>Sat, 04 Jul 2015 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/happy-8th-birthday-juliette/</guid>
-      <description> </description>
+      <description></description>
     </item>
     
     <item>
@@ -157,8 +153,7 @@ http://www.npr.org/sections/thetwo-way/2015/06/26/417717613/supreme-court-rules-
       <pubDate>Tue, 26 May 2015 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/xan-goodbye-k-hello-1st/</guid>
-      <description>[Xan is moving on from kindergarten into first grade! He made a great performance but sadly most of the pictures were out of focus. It was also really nice that Mommy was to make it too. I know it made Xan very happy to see her there.
- </description>
+      <description>[Xan is moving on from kindergarten into first grade! He made a great performance but sadly most of the pictures were out of focus. It was also really nice that Mommy was to make it too. I know it made Xan very happy to see her there.</description>
     </item>
     
     <item>
@@ -215,7 +210,6 @@ Happy Thanksgiving Avriel, Juliette, and Xanatos.</description>
       
       <guid>https://hsmalley.github.io/post/dropbox-detection-and-removal/</guid>
       <description>If you’re having Dropbox problems I fee bad for you son. I got 99 problems but Dropbox ani’t one. Drop this into your login script and problem solved.
-.gist table { margin-bottom: 0; }
   </description>
     </item>
     
@@ -328,7 +322,7 @@ https://github.com/hsmalley/rokuremote</description>
       <pubDate>Tue, 26 Mar 2013 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/7-of-the-best-anti-virus-apps-for-linux/</guid>
-      <description>While ClamAV wasn’t the over all winner of this, and that is kind of surprising It didn’t come in last though. Given that they just used defaults in testing it scored 8&amp;frasl;10. I’m pretty confident it could score 10&amp;frasl;10 with some tweaking. I’ve always used Clam for quick cleanups of file shares and providing security on the Ubuntu boxes I deploy. Avast has always been my go to security software on Mac and Windows (when MSE &amp;amp; Malwarebytes aren’t an option).</description>
+      <description>While ClamAV wasn’t the over all winner of this, and that is kind of surprising It didn’t come in last though. Given that they just used defaults in testing it scored 8/10. I’m pretty confident it could score 10/10 with some tweaking. I’ve always used Clam for quick cleanups of file shares and providing security on the Ubuntu boxes I deploy. Avast has always been my go to security software on Mac and Windows (when MSE &amp;amp; Malwarebytes aren’t an option).</description>
     </item>
     
     <item>
@@ -408,7 +402,7 @@ You’ll need iron ore and coal as well to make the steel tools to cut the tree 
       <pubDate>Mon, 10 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/this-sums-up-my-feelings-today/</guid>
-      <description> </description>
+      <description></description>
     </item>
     
     <item>
@@ -417,8 +411,7 @@ You’ll need iron ore and coal as well to make the steel tools to cut the tree 
       <pubDate>Mon, 03 Dec 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/pop-danthology-2012-mashup-of-50-pop-songs/</guid>
-      <description>I saw a post Reddit about this. OP says it took 500 hours to put together. You can really see that effort put into this video. It’s truly an example of 2012 pop music. I’m not a fan my self but I’m wowed by this. I hope you are too.
- </description>
+      <description>I saw a post Reddit about this. OP says it took 500 hours to put together. You can really see that effort put into this video. It’s truly an example of 2012 pop music. I’m not a fan my self but I’m wowed by this. I hope you are too.</description>
     </item>
     
     <item>
@@ -523,7 +516,7 @@ Light, Fluffy and Tasty.</description>
       
       <guid>https://hsmalley.github.io/post/xans-birthday/</guid>
       <description>Just getting around to posting pictures from Xan’s birthday. Iruma made an excellent cake and as you can see Xan was really happy.
-  </description>
+ </description>
     </item>
     
     <item>
@@ -574,7 +567,6 @@ UFTP – Encrypted UDP based FTP with multicast.
       <guid>https://hsmalley.github.io/post/android-thermostat-a-diy-android-powered-thermostat/</guid>
       <description>I AM GOING TO BUILDING THIS!
 http://androidthermostat.com/
-
  Android Thermostat is an open source thermostat project ideal for programmers and electronics hobbyists. As the name suggests the application runs on Android phone that is connected to some basic electronic components for controlling your home HVAC system.It costs around $140 to build and can be assembled in an afternoon.
 It has several advantages over a traditional thermostat including the ability to easily create multiple schedules that are as simple or complex as you like, remote control access, monitoring of usage and easy updates over the internet.</description>
     </item>
@@ -714,7 +706,7 @@ Great read.</description>
       <pubDate>Tue, 02 Oct 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/every-conversation-that-ive-over-heard-today-can-be-summed-up-with-this/</guid>
-      <description>[![](https://i1.wp.com/www.thehijax.com/wp-content/uploads/2012/11/01TfT.gif?resize=511%2C331)](https://i1.wp.com/www.thehijax.com/wp-content/uploads/2012/11/01TfT.gif)Every conversation that I’ve over heard today can be summed up with this </description>
+      <description></description>
     </item>
     
     <item>
@@ -772,7 +764,6 @@ via 11 Offensive Security Tools for Wreaking Havoc | HackerTarget.com.</descript
       <guid>https://hsmalley.github.io/post/powershell-copy-files-to-computers-from-ad-log-it-with-excel/</guid>
       <description>I needed to deploy some DLLs to patch a program. This will copy files to a computer and log it in excel. The logging is the only weak link in this script because it uses the credentials of what ever user is running the script. I even included a backout function in the event you need to revert your changes.
 http://poshcode.org/3667
-.gist table { margin-bottom: 0; }
  </description>
     </item>
     
@@ -802,7 +793,7 @@ http://blogs.valvesoftware.com/linux/faster-zombies/
       <pubDate>Tue, 10 Jul 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/vodka-mom-toni-medrano-burns-herself-to-death-after-suffocating-newborn-son-as-they-slept-mail-online/</guid>
-      <description>Yet another reason I can’t stand Nancy Grace. How is this any different from cyber bullying? This is a tragic end to an already tragic story. ‘Vodka mom&amp;rsquo;: Toni Medrano burns herself to death after suffocating newborn son as they slept | Mail Online.</description>
+      <description>Yet another reason I can’t stand Nancy Grace. How is this any different from cyber bullying? This is a tragic end to an already tragic story. ‘Vodka mom&#39;: Toni Medrano burns herself to death after suffocating newborn son as they slept | Mail Online.</description>
     </item>
     
     <item>
@@ -920,8 +911,7 @@ So if I walk into a doctor’s office an they’re using Linux do I start huggin
       <pubDate>Fri, 08 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/aww-what-a-cute-dog-cat/</guid>
-      <description>Kind of NSFW… but really funny. – http://www.thehijax.com/wp-content/uploads/2012/11/Erekw.jpg viaReddit.
-[![When you see it.](https://i0.wp.com/www.thehijax.com/wp-content/uploads/2012/11/Erekw.jpg?resize=770%2C461 &#34;Aww, what a cute dog &amp; cat.&#34;)](http://www.reddit.com/r/sex/comments/uqgw1/i_frantically_called_my_boyfriend_asking_him_to/)Aww, what a cute dog &amp; cat. </description>
+      <description>Kind of NSFW… but really funny. – http://www.thehijax.com/wp-content/uploads/2012/11/Erekw.jpg viaReddit.</description>
     </item>
     
     <item>
@@ -931,7 +921,7 @@ So if I walk into a doctor’s office an they’re using Linux do I start huggin
       
       <guid>https://hsmalley.github.io/post/george-elerick-jesus-in-drag-straight-christian-comes-out-for-new-book/</guid>
       <description>This looks like a fantastic book.
-George Elerick: ‘Jesus in Drag&amp;rsquo;: Straight Christian ‘Comes Out’ for New Book.</description>
+George Elerick: ‘Jesus in Drag&#39;: Straight Christian ‘Comes Out’ for New Book.</description>
     </item>
     
     <item>
@@ -1099,8 +1089,7 @@ First edit the group and change it to a distribution group. Make sure it’s a u
       <pubDate>Wed, 30 May 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/jc-penny-taking-a-stand-on-civil-rights/</guid>
-      <description>Wow, this is really awesome. I’m glad to see civil rights progressing like this.
-JC Penny taking a stand on civil rights.http://joemygod.blogspot.com/2012/05/jcpenney-launches-fathers-day-ad.html</description>
+      <description>Wow, this is really awesome. I’m glad to see civil rights progressing like this.</description>
     </item>
     
     <item>
@@ -1437,8 +1426,7 @@ We’ve noticed that your Tor node THEHIJAX has been running long enough to be f
       
       <guid>https://hsmalley.github.io/post/tether-webapp-shares-your-iphones-data-connection-with-your-mac-or-windows-pc-no-jailbreaking-required/</guid>
       <description>This is pretty damn awesome. &amp;lt;3 HTML
-Tether Webapp Shares Your iPhone’s Data Connection with Your Mac or Windows PC, No Jailbreaking Required.
- </description>
+Tether Webapp Shares Your iPhone’s Data Connection with Your Mac or Windows PC, No Jailbreaking Required.</description>
     </item>
     
     <item>
@@ -1457,8 +1445,7 @@ This looks awesome. I would love one.</description>
       <pubDate>Fri, 09 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/valve-on-steam-box-rumors/</guid>
-      <description>So after reading Valve on “Steam Box” rumors: “long way from shipping any sort of hardware” This post (Meanwhile at Valve headquarters…) becomes even more relevent. I’m excited and my wallet is scared.
-![](https://i2.wp.com/www.thehijax.com/wp-content/uploads/2012/11/HATBU.jpg?resize=621%2C3278 &#34;SteamBox?&#34;)TAKE IT ALL! </description>
+      <description>So after reading Valve on “Steam Box” rumors: “long way from shipping any sort of hardware” This post (Meanwhile at Valve headquarters…) becomes even more relevent. I’m excited and my wallet is scared.</description>
     </item>
     
     <item>
@@ -1467,7 +1454,7 @@ This looks awesome. I would love one.</description>
       <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/because-no-one-ever-reads-the-documentation/</guid>
-      <description>[![You&#39;re Welcome or not.](https://i1.wp.com/www.thehijax.com/wp-content/uploads/2012/03/Help.png?resize=344%2C601 &#34;Help&#34;)](http://www.thehijax.com/?attachment_id=295)Because no one ever reads the documentation. </description>
+      <description></description>
     </item>
     
     <item>
@@ -1495,7 +1482,7 @@ http://www.linux-usb.org/usb.ids</description>
       <pubDate>Wed, 07 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/now-this-is-a-nice-router/</guid>
-      <description>[![I just accidentally my internet.](https://i2.wp.com/www.thehijax.com/wp-content/uploads/2012/11/31aoUovHniL._SL500_AA300_.jpg?resize=300%2C300 &#34;ASUS (RT-N16) Wireless-N 300 Maximum Performance single band Gaming Router: Fast Gigabit Ethernet, support USB-Hard Drive and Printer and Open source DDWRT&#34;)](http://www.amazon.com/o/ASIN/B00387G6R8)I just accidentally my internets. </description>
+      <description></description>
     </item>
     
     <item>
@@ -1513,7 +1500,7 @@ http://www.linux-usb.org/usb.ids</description>
       <pubDate>Tue, 06 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/president-obama-on-a-christian-nation/</guid>
-      <description>President Obama on a Christian nation.&amp;gt; &amp;amp;# 147;And even if we did have only Christians in our midst, if we expelled every non-Christian from the United States of America, whose Christianity would we teach in the schools? Would we go with James Dobson&amp;amp;# 146;s, or Al Sharpton&amp;amp;# 146;s? Which passages of Scripture should guide our public policy? Should we go with Leviticus, which suggests slavery is ok and that eating shellfish is abomination?</description>
+      <description>He makes a great point too. When it comes to religious matters he’s the only person in power that doesn’t scare me. Well outside of Ron Paul.</description>
     </item>
     
     <item>
@@ -1522,7 +1509,7 @@ http://www.linux-usb.org/usb.ids</description>
       <pubDate>Tue, 06 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/some-quick-reviews/</guid>
-      <description>### Here is a quick review of Windows 8 and the Xperia X10. Windows 8: Windows 8 is an interesting OS. I respect the effort to unify the desktop and mobile devices. I understand that I should give the user an experience that is the same no matter where they are. To me it seems the goal is to create a fast food version of a computer. I don’t like it.</description>
+      <description>### Here is a quick review of Windows 8 and the Xperia X10.  Windows 8: Windows 8 is an interesting OS. I respect the effort to unify the desktop and mobile devices. I understand that I should give the user an experience that is the same no matter where they are. To me it seems the goal is to create a fast food version of a computer. I don’t like it.</description>
     </item>
     
     <item>
@@ -1531,7 +1518,7 @@ http://www.linux-usb.org/usb.ids</description>
       <pubDate>Tue, 06 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/this-is-a-classy-gun/</guid>
-      <description>[![This is one classy gun.](https://i2.wp.com/www.thehijax.com/wp-content/uploads/2012/11/xlDJ9.jpg?resize=770%2C514 &#34;For my cake day...my favorite gun. &#34;)](http://redd.it/qjyr6)This is one classy gun.I saw this post and fell in love with the picture. Then I saw this picture and promptly laughed my ass off. I love Reddit. [![my second favorite gun . my first is my nova tactical.](https://i0.wp.com/www.thehijax.com/wp-content/uploads/2012/11/oWyQE.jpg?resize=770%2C832 &#34;my second favorite gun . my first is my nova tactical.&#34;)](http://www.reddit.com/r/guns/comments/qjyr6/for_my_cake_daymy_favorite_gun/c3y797u)my second favorite gun . my first is my nova tactical.</description>
+      <description>Then I saw this picture and promptly laughed my ass off. I love Reddit.</description>
     </item>
     
     <item>
@@ -1561,7 +1548,6 @@ Is it true that Americans get a measly 2 weeks annual leave? If true, how does t
       
       <guid>https://hsmalley.github.io/post/sleeping-prank-wars-couples-edtion/</guid>
       <description>WTF, They must have a very strong relationship for this kind of stuff.
-
 Crazy Couple Prank Eachother While Sleeping– Watch More Funny Videos</description>
     </item>
     
@@ -1667,7 +1653,7 @@ Filelocker was developed by IT Networks and Security at Purdue University for th
       
       <guid>https://hsmalley.github.io/post/republican-chokes-up-at-gay-marriage-debate-in-washington-youtube/</guid>
       <description>She nailed it.
-Republican Chokes Up At Gay Marriage Debate In Washington – YouTube.</description>
+[Republican Chokes Up At Gay Marriage Debate In Washington – YouTube](http://www.youtube.com/watch?feature=player_embedded&amp;amp;v=CbmbdWK6338# !).</description>
     </item>
     
     <item>
@@ -1741,15 +1727,6 @@ I love it when performance parts go OEM.</description>
     </item>
     
     <item>
-      <title>The Miraculous NASA Breakthrough That Could Save Millions of Lives</title>
-      <link>https://hsmalley.github.io/post/the-miraculous-nasa-breakthrough-that-could-save-millions-of-lives/</link>
-      <pubDate>Wed, 08 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://hsmalley.github.io/post/the-miraculous-nasa-breakthrough-that-could-save-millions-of-lives/</guid>
-      <description>The Miraculous NASA Breakthrough That Could Save Millions of Lives.</description>
-    </item>
-    
-    <item>
       <title>The four most over-rated things in life...</title>
       <link>https://hsmalley.github.io/post/the-four-most-over-rated-things-in-life-are-champagne-lobster-anal-sex-and-picnics-christopher-hitchens/</link>
       <pubDate>Wed, 08 Feb 2012 00:00:00 +0000</pubDate>
@@ -1758,6 +1735,15 @@ I love it when performance parts go OEM.</description>
       <description> The four most over-rated things in life are champagne, lobster, anal sex, and picnics.
 — Christopher Hitchens
  </description>
+    </item>
+    
+    <item>
+      <title>The Miraculous NASA Breakthrough That Could Save Millions of Lives</title>
+      <link>https://hsmalley.github.io/post/the-miraculous-nasa-breakthrough-that-could-save-millions-of-lives/</link>
+      <pubDate>Wed, 08 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.github.io/post/the-miraculous-nasa-breakthrough-that-could-save-millions-of-lives/</guid>
+      <description>The Miraculous NASA Breakthrough That Could Save Millions of Lives.</description>
     </item>
     
     <item>
@@ -1808,11 +1794,11 @@ I can’t wait for this. So many applications for such a low cost.</description>
       <guid>https://hsmalley.github.io/post/odd-bits-converting-openssh-public-keys/</guid>
       <description>This is an interesting read.
 Odd Bits: Converting OpenSSH public keys.
-Converting OpenSSH public keys &amp;gt; I’ve posted a followup to this article that discusses ssh-agent.
-For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:
+Converting OpenSSH public keys For reasons best left to another post, I wanted to convert an SSH public key into a PKCS# 1 PEM-encoded public key. That is, I wanted to go from this:
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQD7EZn/BzP26AWk/Ts2ymjpTXuXRiEWIWn HFTilOTcuJ/P1HfOwiy4RHC1rv59Yh/E6jbTx623+OGySJWh1IS3dAEaHhcGKnJaikrBn3c cdoNVkAAuL/YD7FMG1Z0SjtcZS6MoO8Lb9pkq6R+Ok6JQjwCEsB+OaVwP9RnVA+HSYeyCVE 0KakLCbBJcD1U2aHP4+IH4OaXhZacpb9Ueja6NNfGrv558xTgfZ+fLdJ7cpg6wU8UZnVM1B JiUW5KFasc+2IuZR0+g/oJXaYwvW2T6XsMgipetCEtQoMAJ4zmugzHSQuFRYHw/7S6PUI2U 03glFmULvEV+qIxsVFT1ng3pj lars@tiamat.house
 To this:
-&amp;mdash;&amp;ndash;BEGIN RSA PUBLIC KEY&amp;mdash;&amp;ndash; MIIBCgKCAQEA+xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7+fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A +xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz+PiB+Dml4WWnKW/VHo2ujTXxq7+efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk+l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P +0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &amp;mdash;&amp;ndash;END RSA PUBLIC KEY&amp;mdash;&amp;ndash;</description>
+&amp;mdash;&amp;ndash;BEGIN RSA PUBLIC KEY&amp;mdash;&amp;ndash; MIIBCgKCAQEA+xGZ/wcz9ugFpP07Nspo6U17l0YhFiFpxxU4pTk3Lifz9R3zsIsu ERwta7+fWIfxOo208ett/jhskiVodSEt3QBGh4XBipyWopKwZ93HHaDVZAALi/2A +xTBtWdEo7XGUujKDvC2/aZKukfjpOiUI8AhLAfjmlcD/UZ1QPh0mHsglRNCmpCw mwSXA9VNmhz+PiB+Dml4WWnKW/VHo2ujTXxq7+efMU4H2fny3Se3KYOsFPFGZ1TN QSYlFuShWrHPtiLmUdPoP6CV2mML1tk+l7DIIqXrQhLUKDACeM5roMx0kLhUWB8P +0uj1CNlNN4JRZlC7xFfqiMbFRU9Z4N6YwIDAQAB &amp;mdash;&amp;ndash;END RSA PUBLIC KEY&amp;mdash;&amp;ndash;
+If you have a recent version of OpenSSH (where recent means 5.</description>
     </item>
     
     <item>
@@ -1832,7 +1818,7 @@ To this:
       <guid>https://hsmalley.github.io/post/breakfast-fun-baked-eggs-in-avocados-family-kitchen/</guid>
       <description>via Breakfast Fun: Baked Eggs in Avocados | Family Kitchen.
  Baked Eggs in Avocados
-Cut an avocado in half and remove the pit. Slice the avocado in 1&amp;frasl;2-inch thick slices and use a round cookie cutter or knife to cut an even circle in the center. Rub a skillet with a light coating of oil and place the avocado slices on top. Crack an egg in the center of each avocado.</description>
+Cut an avocado in half and remove the pit. Slice the avocado in 1/2-inch thick slices and use a round cookie cutter or knife to cut an even circle in the center. Rub a skillet with a light coating of oil and place the avocado slices on top. Crack an egg in the center of each avocado.</description>
     </item>
     
     <item>
@@ -1853,7 +1839,7 @@ Cut an avocado in half and remove the pit. Slice the avocado in 1&amp;frasl;2-in
       <description>Very true. – 10 Things Your IT Guy Wants You to Know &amp;amp;# 151; Evil Routers.
   10 Things Your IT Guy Wants You to Know
 by Jeremy L. Gaddis on May 31, 2009
- If you come to me to ask technical questions, please don&amp;amp;# 146;t argue when you don&amp;amp;# 146;t like my answer. If you think you know more about what you&amp;amp;# 146;re asking than I do, then why even ask?</description>
+  If you come to me to ask technical questions, please don&amp;amp;# 146;t argue when you don&amp;amp;# 146;t like my answer. If you think you know more about what you&amp;amp;# 146;re asking than I do, then why even ask?</description>
     </item>
     
     <item>
@@ -1916,7 +1902,7 @@ by Jeremy L. Gaddis on May 31, 2009
       <pubDate>Wed, 01 Feb 2012 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/my-google-birthday-logo/</guid>
-      <description>[![](https://i1.wp.com/www.thehijax.com/wp-content/uploads/2012/02/MyGoogeLogo.png?resize=598%2C352 &#34;MyGoogeLogo&#34;)](http://www.thehijax.com/?attachment_id=140)My Birthday Logo </description>
+      <description></description>
     </item>
     
     <item>
@@ -1976,6 +1962,16 @@ Year’s of experience condensed into a single guide. It’s not going to rock y
     </item>
     
     <item>
+      <title>how to eat a chicken wing with one hand. - YouTube</title>
+      <link>https://hsmalley.github.io/post/how-to-eat-a-chicken-wing-with-one-hand-youtube/</link>
+      <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.github.io/post/how-to-eat-a-chicken-wing-with-one-hand-youtube/</guid>
+      <description>Holy crap. I want wings now. I’ve seen various ways of eating chicken wings but this is the best I’ve seen so far. I really need a a simple way of making them too.
+how to eat a chicken wing with one hand. – YouTube.</description>
+    </item>
+    
+    <item>
       <title>IE HTTP 500 ERROR</title>
       <link>https://hsmalley.github.io/post/ie-http-500-error/</link>
       <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
@@ -2022,16 +2018,6 @@ Pac-Man Hacked Onto a Touch-Screen Voting Machine Without Breaking “Tamper-Evi
       <guid>https://hsmalley.github.io/post/turn-your-powershell-console-title-bar-into-a-rssweather-ticker-learn-powershell-achieve-more/</guid>
       <description>This is really cool. I’m going to have to try this out.
 Turn Your PowerShell Console Title Bar Into A RSS/Weather Ticker | Learn Powershell | Achieve More.</description>
-    </item>
-    
-    <item>
-      <title>how to eat a chicken wing with one hand. - YouTube</title>
-      <link>https://hsmalley.github.io/post/how-to-eat-a-chicken-wing-with-one-hand-youtube/</link>
-      <pubDate>Tue, 31 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://hsmalley.github.io/post/how-to-eat-a-chicken-wing-with-one-hand-youtube/</guid>
-      <description>Holy crap. I want wings now. I’ve seen various ways of eating chicken wings but this is the best I’ve seen so far. I really need a a simple way of making them too.
-how to eat a chicken wing with one hand. – YouTube.</description>
     </item>
     
     <item>
@@ -2146,7 +2132,7 @@ SassyGirl: I’ll KILL THAT BUNNY!</description>
       <description>
 ohmibod:
  A best man from down under was dinged by a dong after a stripper took inspiration from The Adventures of Priscilla, Queen of the Desert, and shot dildos at the guests from her bidness. Yikes.
- (Source: [http://www.burnred.co.uk/blog/best-man-left-bleeding-after-being-hit-in-head-by-flying-dil.html](http://www.burnred.co.uk/blog/best-man-left-bleeding-after-being-hit-in-head-by-flying-dil.html)) </description>
+ </description>
     </item>
     
     <item>
@@ -2164,12 +2150,10 @@ ohmibod:
       <pubDate>Thu, 17 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/via-teamsandwichdotcom/</guid>
-      <description>
-teamsandwich:
+      <description>teamsandwich:
  Via http://www.teamsandwich.com
 ****Follow Now | Facebook Like It
- (via vagician-deactivated20101005-de)
-(Source: [http://www.teamsandwich.com](http://www.teamsandwich.com)) </description>
+ (via vagician-deactivated20101005-de)</description>
     </item>
     
     <item>
@@ -2178,12 +2162,10 @@ teamsandwich:
       <pubDate>Thu, 17 Mar 2011 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/via-teamsandwichdotcom-2/</guid>
-      <description>
-teamsandwich:
+      <description>teamsandwich:
  Via http://www.teamsandwich.com
 ****Follow Now | Facebook Like It
- (via theuniversecoverit)
-(Source: [http://www.teamsandwich.com](http://www.teamsandwich.com)) </description>
+ (via theuniversecoverit)</description>
     </item>
     
     <item>
@@ -2237,9 +2219,7 @@ Me: Well if it happens again let me know.</description>
       <pubDate>Fri, 28 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/fsm-i-love-seemed-stockings-3/</guid>
-      <description>
-FSM I love seemed stockings. &amp;lt;3
-(Source: [http://melissavuong.tumblr.com](http://melissavuong.tumblr.com)) </description>
+      <description>FSM I love seemed stockings. &amp;lt;3</description>
     </item>
     
     <item>
@@ -2251,7 +2231,7 @@ FSM I love seemed stockings. &amp;lt;3
       <description>
 commitcrimedotcom:
  Click here to get wasted.
- (Source: [http://www.commitcrime.com/](http://www.commitcrime.com/)) </description>
+ </description>
     </item>
     
     <item>
@@ -2263,7 +2243,7 @@ commitcrimedotcom:
       <description>
 commitcrimedotcom:
  Click here to get wasted.
- (Source: [http://www.commitcrime.com/](http://www.commitcrime.com/)) </description>
+ </description>
     </item>
     
     <item>
@@ -2608,9 +2588,7 @@ http://stackp.online.fr/?p=28</description>
       <pubDate>Wed, 31 Mar 2010 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/so-true-via-i-imgur-com/</guid>
-      <description>
-So true.. via i.imgur.com
-(Source: [http://i.imgur.com/263sv.jpg](http://i.imgur.com/263sv.jpg)) </description>
+      <description>So true.. via i.imgur.com</description>
     </item>
     
     <item>
@@ -2667,8 +2645,7 @@ So true.. via i.imgur.com
       <description>So I’m trying to deploy a custom wim for windows 7 and I keep running into a weird error: Error: Unable to find SETUP , needed to install the image
 This is what I managed to find and it works really well.
 http://www.pburch.com/blog/2010/03/05/a-tale-of-build-numbers-and-deployment/
- A Tale of Build Numbers and Deployment March 5th, 2010 Posted in MDT, Microsoft, WDS, Windows 7, Work
-I&amp;# 146;d just like you to know that I&amp;# 146;ve been pulling my hair out all week.</description>
+ A Tale of Build Numbers and Deployment March 5th, 2010 Posted in MDT, Microsoft, WDS, Windows 7, WorkI tried the Google route, and found a bunch of unrelated stuff.</description>
     </item>
     
     <item>
@@ -2749,9 +2726,7 @@ I&amp;# 146;d just like you to know that I&amp;# 146;ve been pulling my hair out
       <pubDate>Sat, 27 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/might-be-nsfw-but-its-a-wonderful-bit-of-art/</guid>
-      <description>
-Might be NSFW, but its a wonderful bit of art work&amp;amp;# 133; via i.imgur.com
-(Source: [http://i.imgur.com/Ci9Tr.jpg](http://i.imgur.com/Ci9Tr.jpg)) </description>
+      <description>Might be NSFW, but its a wonderful bit of art work&amp;amp;# 133; via i.imgur.com</description>
     </item>
     
     <item>
@@ -2779,10 +2754,9 @@ Might be NSFW, but its a wonderful bit of art work&amp;amp;# 133; via i.imgur.co
       <pubDate>Fri, 26 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/on-blogging/</guid>
-      <description> aardvark-g203: (From Bhuvan T./29/M/Bengaluru,India) How can i make my blog famous? (Type ‘pass’ to skip, or ‘more’ for extra options.)
-me: you need to do a blog on ninja, pirates, cute furry things, or rub your servers in yak blood.
-aardvark-g203: Great — I’ve sent that to Bhuvan. Thanks for the fast answer! (Type ‘Bhuvan:’ followed by a message to add something, or ‘more’ for options.)
- </description>
+      <description>aardvark-g203: (From Bhuvan T./29/M/Bengaluru,India) How can i make my blog famous? (Type ‘pass’ to skip, or ‘more’ for extra options.)
+  me: you need to do a blog on ninja, pirates, cute furry things, or rub your servers in yak blood.
+  aardvark-g203: Great — I’ve sent that to Bhuvan. Thanks for the fast answer! (Type ‘Bhuvan:’ followed by a message to add something, or ‘more’ for options.</description>
     </item>
     
     <item>
@@ -2830,7 +2804,7 @@ Disable Recent Documents History at Registry Guide for Windows</description>
       <guid>https://hsmalley.github.io/post/extracting-the-adobe-reader-9-x-msi-installer-for/</guid>
       <description>Extracting the Adobe Reader 9.x MSI installer for enterprise deployment
 In the Open text box, type:
-&amp;rdquo;%UserProfile%DesktopAdbeRdr9x_en_US.exe&amp;amp;# 148; -nos_ne.</description>
+&amp;ldquo;%UserProfile%DesktopAdbeRdr9x_en_US.exe&amp;amp;# 148; -nos_ne.</description>
     </item>
     
     <item>
@@ -2876,8 +2850,7 @@ GERMANY 1940 ISRAEL 2009</description>
       <pubDate>Tue, 09 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/star-trek-the-sexed-generation-via-acornfilms/</guid>
-      <description>Star Trek: The Sexed Generation (via acornfilms)
-(Source: [http://www.youtube.com/](http://www.youtube.com/)) </description>
+      <description>Star Trek: The Sexed Generation (via acornfilms)</description>
     </item>
     
     <item>
@@ -2886,9 +2859,7 @@ GERMANY 1940 ISRAEL 2009</description>
       <pubDate>Mon, 08 Feb 2010 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/and-this-is-why-going-to-bed-on-time-is-so/</guid>
-      <description>
-And this is why going to bed on time is so important. lol via upload.wikimedia.org
-(Source: [http://upload.wikimedia.org/wikipedia/commons/5/5f/Biological_clock_human.PNG](http://upload.wikimedia.org/wikipedia/commons/5/5f/Biological_clock_human.PNG)) </description>
+      <description>And this is why going to bed on time is so important. lol via upload.wikimedia.org</description>
     </item>
     
     <item>
@@ -2967,13 +2938,13 @@ OpenShot Video Editor</description>
       <guid>https://hsmalley.github.io/post/desitin/</guid>
       <description>I get a call at work this morning….
  Iruma: Your son just ate and an entire tube of desitin.
-Me: …..
-Iruma: hehe
-Me: Did you call poison control?
-Iruma: Yes (still laughing)
-Me: AND!?
-Iruma: He’ll be fine and might have an upset stomach. You need to fix the baby gate.
-Me: AGAIN!?
+  Me: …..
+  Iruma: hehe
+  Me: Did you call poison control?
+  Iruma: Yes (still laughing)
+  Me: AND!?
+  Iruma: He’ll be fine and might have an upset stomach. You need to fix the baby gate.
+  Me: AGAIN!?
  </description>
     </item>
     
@@ -3079,9 +3050,7 @@ I feel that it should not be the tax payers paying for this. That is simply not 
       <pubDate>Thu, 14 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/my-kids-favorite-show-but-with-people-rather-that/</guid>
-      <description>
-My kids favorite show but with people rather that odd crimes against nature sea creatures. Kind of puts things in perspective doesn&amp;amp;# 146;t it? via i.imgur.com
-(Source: [http://i.imgur.com/CRbUa.jpg](http://i.imgur.com/CRbUa.jpg)) </description>
+      <description>My kids favorite show but with people rather that odd crimes against nature sea creatures. Kind of puts things in perspective doesn&amp;amp;# 146;t it? via i.imgur.com</description>
     </item>
     
     <item>
@@ -3090,9 +3059,7 @@ My kids favorite show but with people rather that odd crimes against nature se
       <pubDate>Wed, 13 Jan 2010 00:00:00 +0000</pubDate>
       
       <guid>https://hsmalley.github.io/post/wtf-how-via-i-imgur-com/</guid>
-      <description>
-WTF!? HOW!? via i.imgur.com
-(Source: [http://i.imgur.com/DAONU.jpg](http://i.imgur.com/DAONU.jpg)) </description>
+      <description>WTF!? HOW!? via i.imgur.com</description>
     </item>
     
     <item>
@@ -3223,15 +3190,6 @@ ArtsyGirl: HAHA</description>
     </item>
     
     <item>
-      <title>WinPE 3.0 Boot Scripts</title>
-      <link>https://hsmalley.github.io/post/winpe-3-0-boot-environment-scripts/</link>
-      <pubDate>Mon, 04 Jan 2010 00:00:00 +0000</pubDate>
-      
-      <guid>https://hsmalley.github.io/post/winpe-3-0-boot-environment-scripts/</guid>
-      <description>WinPE 3.0 Boot Environment Scripts – Blog.BrianLeeJackson.com</description>
-    </item>
-    
-    <item>
       <title>Windows Product Key Update Tool</title>
       <link>https://hsmalley.github.io/post/genuine-microsoft-software/</link>
       <pubDate>Mon, 04 Jan 2010 00:00:00 +0000</pubDate>
@@ -3240,6 +3198,15 @@ ArtsyGirl: HAHA</description>
       <description>The Windows Product Key Update Tool will make changes to your Windows installation to update your product key.
 Genuine Microsoft Software
  </description>
+    </item>
+    
+    <item>
+      <title>WinPE 3.0 Boot Scripts</title>
+      <link>https://hsmalley.github.io/post/winpe-3-0-boot-environment-scripts/</link>
+      <pubDate>Mon, 04 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://hsmalley.github.io/post/winpe-3-0-boot-environment-scripts/</guid>
+      <description>WinPE 3.0 Boot Environment Scripts – Blog.BrianLeeJackson.com</description>
     </item>
     
     <item>
@@ -3259,7 +3226,7 @@ Genuine Microsoft Software
       <guid>https://hsmalley.github.io/post/this-is-gonna-cause-more-confusion-than-a-mouse-in-2/</guid>
       <description>This is gonna cause more confusion than a mouse in a burlesque show!
 Foghorn Leghorn
-http://en.wikiquote.org/wiki/The_Looney_Tunes_Show# Foghorn_Leghorn</description>
+[http://en.wikiquote.org/wiki/The_Looney_Tunes_Show# Foghorn_Leghorn](http://en.wikiquote.org/wiki/The_Looney_Tunes_Show# Foghorn_Leghorn)</description>
     </item>
     
     <item>
@@ -3288,15 +3255,6 @@ Web 2.0 Suicide Machine – Meet your Real Neighbours again! – Sign out foreve
       
       <guid>https://hsmalley.github.io/post/deploying-windows/</guid>
       <description>Windows 7! Its here! I’ve been working and playing with windows 7 for a while now. I’m in love with it! Granted I’ll always have my love of Linux. But windows 7 just does what I need it to, when I need it to. The deployment process of it is really interesting to me. I’ve been working with windows deployment and imaging for 2 years now. I dabbled with it before but now I would consider my self an expert at deploying windows xp.</description>
-    </item>
-    
-    <item>
-      <title>MediaWiki</title>
-      <link>https://hsmalley.github.io/post/mediawiki/</link>
-      <pubDate>Thu, 31 Dec 2009 00:00:00 +0000</pubDate>
-      
-      <guid>https://hsmalley.github.io/post/mediawiki/</guid>
-      <description>Well I got MediaWiki Setup to help get our documentation here at work up to snuff with the rest of the world. We are using ton of folders with a bunch of word docs, pdfs, txt, etc. to keep our information. I’ve been meaning to do this for a while but I haven’t been able to get it done. So I stat down and installed and and got LDAP authentications setup.</description>
     </item>
     
     <item>

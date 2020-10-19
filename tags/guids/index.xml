@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Guids on Have an average day :|</title>
+    <title>GUIDs on Have an average day :|</title>
     <link>https://hsmalley.github.io/tags/guids/</link>
-    <description>Recent content in Guids on Have an average day :|</description>
+    <description>Recent content in GUIDs on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Mar 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hsmalley.github.io/tags/guids/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 22 Mar 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://hsmalley.github.io/tags/guids/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Find GUIDs quickly</title>
       <link>https://hsmalley.github.io/post/find-guids-quickly/</link>

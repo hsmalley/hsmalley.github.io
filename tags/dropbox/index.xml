@@ -1,16 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dropbox on Have an average day :|</title>
+    <title>dropbox on Have an average day :|</title>
     <link>https://hsmalley.github.io/tags/dropbox/</link>
-    <description>Recent content in Dropbox on Have an average day :|</description>
+    <description>Recent content in dropbox on Have an average day :|</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 May 2014 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hsmalley.github.io/tags/dropbox/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 02 May 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://hsmalley.github.io/tags/dropbox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dropbox Detection and Removal</title>
       <link>https://hsmalley.github.io/post/dropbox-detection-and-removal/</link>
@@ -18,7 +14,6 @@
       
       <guid>https://hsmalley.github.io/post/dropbox-detection-and-removal/</guid>
       <description>If you’re having Dropbox problems I fee bad for you son. I got 99 problems but Dropbox ani’t one. Drop this into your login script and problem solved.
-.gist table { margin-bottom: 0; }
   </description>
     </item>
     
