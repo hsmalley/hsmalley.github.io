@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on // W4UGH // Adventures in Engineering //</title>
+    <link>http://blog.techcabbage.xyz/posts/</link>
+    <description>Recent content in Posts on // W4UGH // Adventures in Engineering //</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Mar 2021 09:41:02 -0500</lastBuildDate><atom:link href="http://blog.techcabbage.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First IPFS Blog Post</title>
+      <link>http://blog.techcabbage.xyz/posts/ipfs-first-post/</link>
+      <pubDate>Wed, 03 Mar 2021 09:41:02 -0500</pubDate>
+      
+      <guid>http://blog.techcabbage.xyz/posts/ipfs-first-post/</guid>
+      <description>This is my first post!!    Well first post to this block. I retired my old blog after letting it limp along for years. I&amp;rsquo;m ready for a new fresh start. So I figured why not use IPFS and Hugo? I&amp;rsquo;m pretty sure it should be easy to do. Though I&amp;rsquo;m seeing that Jekyll might be better. I&amp;rsquo;m not well versed in Ruby so I&amp;rsquo;m trying to avoid it.</description>
+    </item>
+    
+  </channel>
+</rss>
