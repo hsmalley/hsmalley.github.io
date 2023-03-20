@@ -3,6 +3,7 @@ mkdocs-minify-plugin
 mkdocs-redirects
 mkdocs-glightbox
 mkdocs-obsidian-support-plugin
+mkdocs-jupyter
 pillow
 cairosvg
 pymdown-extensions

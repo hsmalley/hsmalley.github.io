@@ -79,6 +79,8 @@ plugins:
   - offline
   - glightbox
   - obsidian-support
+#  - mkdocs-jupyter:
+#      theme: dark
   - redirects:
       redirect_maps:
         s/facebook.md: https://facebook.com/hsmalley

@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🌟 Hello there 👋 
 
 - 🔭 I’m currently working on HPC & Cloud
 - 🌱 I’m currently learning Rust
@@ -8,3 +8,4 @@
 - 📫 How to reach me: hsmalley@protonmail.com or 146.52 MHZ
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I solved a rubik's cube by accident once..
+- 📖 Quote: I don't claim to know anything. Though I might have a few good ideas now and again
