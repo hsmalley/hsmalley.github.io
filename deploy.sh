@@ -2,7 +2,7 @@
 
 # Set the vars
 date=$(date '+%F')
-repo=$(PWD)
+repo=$(pwd)
 
 # Do the git stuff if needed
 function git_stuff() {
