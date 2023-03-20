@@ -1,0 +1,8 @@
+mkdocs-material
+mkdocs-minify-plugin
+mkdocs-redirects
+mkdocs-glightbox
+pillow
+cairosvg
+pymdown-extensions
+Pygments

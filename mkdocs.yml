@@ -1,1 +1,108 @@
-site_name: My Docs
+site_name: Hugh Smalley
+site_url: https://w4ugh.radio
+site_author: Hugh Smalley
+site_description:
+
+repo_name: hsmalley/hsmalley
+repo_url: https://github.com/hsmalley/hsmalley
+
+copyright: Copyright &copy; 2023 Hugh Smalley
+
+theme:
+  name: material
+  include_search_page: false
+  search_index_only: true
+  language: en
+  features:
+    - content.code.copy
+    - content.code.annotate
+    - content.tabs.link
+    - toc.integrate
+    - navigation.instant
+    - navigation.footer
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - md_in_html
+  - nl2br
+  - tables
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
+plugins:
+  - search
+  - social
+  - tags
+  - offline
+  - glightbox
+  - redirects:
+      redirect_maps:
+        s/facebook.md: https://facebook.com/hsmalley
+        s/github.md: https://github.com/hsmalley
+        s/gitlab.md: https://gitlab.com/hsmalley
+        s/linkedin.md: https://linkedin.com/in/hsmalley
+  - minify:
+      minify_html: true
+
+extra:
+  version:
+    provider: mike
+  social:
+    - icon: fontawesome/brands/square-github
+      link: https://github.com/hsmalley
+    - icon: fontawesome/brands/square-gitlab
+      link: https://gitlab.com/hsmalley
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/hsmalley
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - About Me: index.md
+  - Blog:
+    - blog/index.md
