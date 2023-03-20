@@ -1,7 +1,9 @@
+---
 site_name: Hugh Smalley
 site_url: https://hsmalley.github.io
 site_author: Hugh Smalley
-site_description: I don't claim to know anything. Though I might have a few good ideas now and again
+site_description: |-
+  I don't claim to know anything. Though I might have a few good ideas now and again
 
 repo_name: hsmalley/hsmalley
 repo_url: https://github.com/hsmalley/hsmalley
@@ -17,14 +19,8 @@ theme:
     - content.code.copy
     - content.code.annotate
     - content.tabs.link
-    - toc.integrate
-    - navigation.instant
-    - navigation.footer
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
+    - tags:
+        insert: top
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -74,13 +70,11 @@ markdown_extensions:
 
 plugins:
   - search
-#  - social
+  #  - social
   - tags
   - offline
   - glightbox
   - obsidian-support
-#  - mkdocs-jupyter:
-#      theme: dark
   - redirects:
       redirect_maps:
         s/facebook.md: https://facebook.com/hsmalley
@@ -89,7 +83,17 @@ plugins:
         s/linkedin.md: https://linkedin.com/in/hsmalley
   - minify:
       minify_html: true
-
+  - blogging:
+      locale: en_US
+      theme: 
+        name: button
+        options:
+          plain_button: true
+          label: Read
+      dirs:
+        - blog
+        - how-to
+        - recipes
 extra:
   version:
     provider: mike
@@ -106,29 +110,20 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - About Me: README.md
+  - About Me: index.md
   - Recipes:
-      - recipes.md
       - recipes/Marry Me Chicken.md
-  - Blog:
-    - blog.md
-    - blog/ipfs-first-post.md
+  - Blog: blog.md
   - How To:
-    - how-to.md
-    - how-to/GIT.md
-    - how-to/SVN.md
-    - how-to/SSH.md
-    - how-to/SSH Key Signing.md
-    - how-to/VIM.md
-    - how-to/Ansible.md
-    - how-to/TAR.md
-    - how-to/FFMPEG.md
-    - how-to/JSON.md
-    - how-to/Linux Version Checking.md
-    - how-to/MD RAID.md
-    - how-to/MySQL.md
-    - how-to/Windows.md
-    - how-to/Write a Playbook.md
-    - how-to/Docker.md
-    - how-to/Create and Sync Repos.md
-    - how-to/Python Cert Errors.md
+      - how-to/GIT.md
+      - how-to/SVN.md
+      - how-to/SSH.md
+      - how-to/SSH Key Signing.md
+      - how-to/VIM.md
+      - how-to/Ansible.md
+      - how-to/TAR.md
+      - how-to/FFMPEG.md
+      - how-to/JSON.md
+      - how-to/MD RAID.md
+      - how-to/MySQL.md
+      - how-to/Docker.md

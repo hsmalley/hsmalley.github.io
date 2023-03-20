@@ -1,3 +1,6 @@
-# A Blog of sorts
+# Blog
 
-Collection of things that do not seem to fit in other places
+{{ blog_content }}
+
+
+{{ blog_content review }}

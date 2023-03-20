@@ -4,6 +4,7 @@ mkdocs-redirects
 mkdocs-glightbox
 mkdocs-obsidian-support-plugin
 mkdocs-jupyter
+mkdocs-blogging-plugin
 pillow
 cairosvg
 pymdown-extensions
