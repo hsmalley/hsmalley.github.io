@@ -2,6 +2,7 @@ mkdocs-material
 mkdocs-minify-plugin
 mkdocs-redirects
 mkdocs-glightbox
+mkdocs-obsidian-support-plugin
 pillow
 cairosvg
 pymdown-extensions

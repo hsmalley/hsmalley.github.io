@@ -1,7 +1,7 @@
 site_name: Hugh Smalley
 site_url: https://w4ugh.radio
 site_author: Hugh Smalley
-site_description:
+site_description: I don't claim to know anything. Though I might have a few good ideas now and again
 
 repo_name: hsmalley/hsmalley
 repo_url: https://github.com/hsmalley/hsmalley
@@ -78,6 +78,7 @@ plugins:
   - tags
   - offline
   - glightbox
+  - obsidian-support
   - redirects:
       redirect_maps:
         s/facebook.md: https://facebook.com/hsmalley
@@ -104,5 +105,28 @@ extra_javascript:
 
 nav:
   - About Me: index.md
+  - Recipes:
+      - recipes.md
+      - recipes/Marry Me Chicken.md
   - Blog:
-    - blog/index.md
+    - blog.md
+    - blog/ipfs-first-post.md
+  - How To:
+    - how-to.md
+    - how-to/GIT.md
+    - how-to/SVN.md
+    - how-to/SSH.md
+    - how-to/SSH Key Signing.md
+    - how-to/VIM.md
+    - how-to/Ansible.md
+    - how-to/TAR.md
+    - how-to/FFMPEG.md
+    - how-to/JSON.md
+    - how-to/Linux Version Checking.md
+    - how-to/MD RAID.md
+    - how-to/MySQL.md
+    - how-to/Windows.md
+    - how-to/Write a Playbook.md
+    - how-to/Docker.md
+    - how-to/Create and Sync Repos.md
+    - how-to/Python Cert Errors.md
