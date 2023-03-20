@@ -11,16 +11,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hsmalley.github.io/how-to.html</loc>
-         <lastmod>2023-03-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://hsmalley.github.io/recipes.html</loc>
-         <lastmod>2023-03-20</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://hsmalley.github.io/blog/ipfs-first-post.html</loc>
          <lastmod>2023-03-20</lastmod>
          <changefreq>daily</changefreq>
