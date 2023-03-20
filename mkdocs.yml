@@ -70,7 +70,7 @@ markdown_extensions:
 
 plugins:
   - search
-  #  - social
+  - social
   - tags
   - offline
   - glightbox
@@ -85,7 +85,7 @@ plugins:
       minify_html: true
   - blogging:
       locale: en_US
-      theme: 
+      theme:
         name: button
         options:
           plain_button: true

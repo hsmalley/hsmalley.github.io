@@ -1,9 +1,0 @@
-INHERIT: mkdocs.yml
-theme:
-  features:
-    - content.code.select
-    - content.tooltips
-plugins:
-  - optimize
-  - blog:
-      blog_toc: true
