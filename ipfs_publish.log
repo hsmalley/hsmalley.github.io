@@ -1,4 +1,4 @@
-added QmUxHkDvZPAcjDegrwwUt4v3Kx4m9HGVRnK4HtczwREdfK site/404.html
+added QmS3KwKNwaSsE4KMbbSjSJCnvPugVQos5wM2BQ3b4HqkTx site/404.html
 added QmQ7awEPK81b3XWxMPgwJDkDL4kjbQ8crgHPfqSaXmuYMu site/assets/images/favicon.png
 added QmSLgQ6du4KQyGNY72759k9yzS2wuoV9yPrEgUqPRjbZnX site/assets/images/social/blog/IPFS Second Post.png
 added QmQdhLatpw4KZtBKTLDeDqs9zAXLq1rLQYMgJ2izfNhZxe site/assets/images/social/blog/Markdown Metadata.png
@@ -6,6 +6,7 @@ added QmTSuAKLjQ2JBmMmuf3kxEwXd4upNo5MpUDsZPpgkrCMoq site/assets/images/social/b
 added QmYqUdpBZu73XtC6FX8YgXcj45EnrwwchZKjz6RP3xt2UT site/assets/images/social/blog/ipfs-first-post.png
 added QmR64bay6eRxp5FMeexCg745XKmSTuP2aWJjbKLFMeAViQ site/assets/images/social/how-to/Ansible - Playbooks.png
 added QmUpSoaiTTx7T43sdsntVT9Ry9tnXguoTfYAUtLoGsf9jD site/assets/images/social/how-to/Ansible.png
+added QmPSZfzXHtuQiJ5kp92vhDAgn3sBjB69mCS1Hb7XkCjhWY site/assets/images/social/how-to/Bash.png
 added QmY2jT9sAf3YUZz18CQjH3vAHjye8C1uZTYTuboaceqYJ8 site/assets/images/social/how-to/Docker.png
 added QmYk9Ks4fZQ5AAqUMpdjU4H44xT36EuzKKC5cXYjcuoZ5L site/assets/images/social/how-to/FFMPEG.png
 added Qmar11BqphRifFFaK31XkaoTqLzEvSgPhnv7sQh2hQqDBU site/assets/images/social/how-to/GIT.png
@@ -61,76 +62,78 @@ added QmNTvaZpU7QCCPAwNpq6CSrvqYpi9qAbfJHYT1viwqsy8C site/assets/stylesheets/mai
 added QmWKCXGpGGiaajPsL3MrRWbnLocpWeA5yzU486c8ogpv4M site/assets/stylesheets/main.c4a75a56.min.css.map
 added QmUnJyje7qNdW6fRqLWyimDHqkFB1sDszsn5tchMkMm9UN site/assets/stylesheets/palette.a0c5b2b5.min.css
 added QmXQVJgwwoVevhLV88C1m2dRcGBUN4eZfD3SFeec1JGgyV site/assets/stylesheets/palette.a0c5b2b5.min.css.map
-added QmQkNEyu1mY9Ng38cyWzxZz6QFZGbBeQTi3Uj9VP6xssQz site/blog/IPFS Second Post/index.html
-added QmQxA9rg1FbtoLVgkwqFX77r5RLW2weev6p3zvMqCY7cva site/blog/Markdown Metadata/index.html
-added QmUKDXMtvGNzzrnQ1Ai6p2L4sPxx6gdkqcQ1JTtaA6CtAi site/blog/index.html
-added QmcfkgW6vMyapmuc85bwwdtAiKAJxy1VAqmFFdGrRcDXPo site/blog/ipfs-first-post/index.html
-added QmUDrrmeuAunfmZbgGapjAJR88519yLfFinTUerM91tVei site/how-to/Ansible/index.html
-added QmZrvzua8LVhHcJ9ACSM6FSX9z6QNaJtjVx6McrsCaJNWE site/how-to/Ansible - Playbooks/index.html
-added Qmc5Hpi3LwFsY4NUwvKYeZR5mPmMrQZYuH6enLTqMHk32N site/how-to/Docker/index.html
-added QmY7XtNMiNUbSjditRsJp2CxXonE32SgXgASqmozC8Bed2 site/how-to/FFMPEG/index.html
-added Qmf9BDQSBUuxjGmiAkspxTgdFGvDDP5TD852AVJ1did4VQ site/how-to/GIT/index.html
-added QmeYfaEfKkJAPX5PoQVGBR85wtnnRySuyzvVxEHnes4fXC site/how-to/JSON/index.html
-added QmSCAtR3Qu1zHaZP5p3gMGMZU2VBPPyaoCwFT7CqQyAdFD site/how-to/LXC Image Creation/index.html
-added QmVY19J4zjB46nsho3qrfK4jJEuWRbQSsLevXKTN5ezkUx site/how-to/Linux/index.html
-added QmZtSJTi72XgJkFVZWqbBewZvEBfDwmQyayVVMKgeuXPdo site/how-to/MDRAID/index.html
-added QmYkPGqdYZDZCk3xwxDd4ybhyY1SZHwJKDCvsUZLDFBrQe site/how-to/MySQL/index.html
-added QmUsaD2B9WwRwri72dZ45KsvbVkEWrn7sCxBhJMN6dJ5Uf site/how-to/Python/index.html
-added QmSuWhjHb5zi1wJK5yMJ1d1ZwHtJhBr9wS6zXuZ39KmQX9 site/how-to/SSH/index.html
-added QmaZAnr6Xb3LZ47NZs9RCHqTZ36hKpaCk29xLCg9qiRCup site/how-to/SVN/index.html
-added QmRr9BWG7xx4Kt2tcsZ59NCnuqw93vXhZLhoYDYWtXEh7x site/how-to/TAR/index.html
-added QmQSnVofHyCMqAxiR6pTnpXLeYLYezxBQ2xps8g6rJJhCz site/how-to/VIM/index.html
-added QmbWd1jZmGKWigPSHJv55dGR2rRsyA9DYXpL6TKG2GXPXg site/how-to/Windows/index.html
-added QmZ523DwUXVB1Z1GJhqidhL2Ew3mufrD9DMQsgv4dzP5bM site/index.html
-added QmVGZwSuE91prYdeaoFS5sAcG42XXASD2XM8JNMn41UrxF site/recipes/Marry Me Chicken/index.html
+added QmRzUdFkGj86kAyiTfYv1F9n4tvNMw6fyVCknmbV6ENGvD site/blog/IPFS Second Post/index.html
+added QmaUNDKcgwHHDr5AmFvGskGiBNAb5xAtLowAm13Qio82Wy site/blog/Markdown Metadata/index.html
+added QmZTwHzahGjtAu1DhFNoiL9kjnoEcpgJyroZM6EPwAFDxz site/blog/index.html
+added QmaNJqWoy5DbPz5uDge2FFgLCAv4D4fjzQMihLbz2eg2sd site/blog/ipfs-first-post/index.html
+added QmPvJDuVW1vg1XX67YKrLg77yPRhY89GvHhtkWZqyJmJSh site/how-to/Ansible/index.html
+added QmNuiHJs3JVkoJbqp4YUaqR2SVvR8A4pxU7bU1ZWE6GJN3 site/how-to/Ansible - Playbooks/index.html
+added QmYBbwEiRtp89nJX8AiKo8kwqYRMPhjk7nTmgaa3e9UXii site/how-to/Bash/index.html
+added QmdjgSwB5tRJAjprkrxVRsg5EZdWFG8xZH7wURWqTZvgjj site/how-to/Docker/index.html
+added QmTPvEEAVZqgRMehxWzC7hKsWuVa3BBvRNbjoihhAVZdyJ site/how-to/FFMPEG/index.html
+added QmTiC1RK78eQho57qFxV2a7frYdHnbxjSsnp3MGjgbfcdp site/how-to/GIT/index.html
+added QmTmB65GAG6zdTKy5sbUBRR9FSrkdETiXxxGuuPBx3GbvT site/how-to/JSON/index.html
+added QmW5MKVagmqMAZS2xLovHNAqfuVJVZFGGAzs3Ywec5Tnrv site/how-to/LXC Image Creation/index.html
+added QmaBHDF8o7UcWLmvjKC25odxtoKeCz9MjdaRPNsk3gFrmk site/how-to/Linux/index.html
+added QmQAmkvjyLmu2Nnx1NGKuP3nca47fuVY1B7ATprDRBnb8P site/how-to/MDRAID/index.html
+added QmRPZru6aRHvSy3L3dZwKyBeXFFFmgEWWgi2UDMHTEA3m6 site/how-to/MySQL/index.html
+added QmSDTcnsPgPBBwNjDWMJizu1HjrbVya6ntp4gKD1thcVUV site/how-to/Python/index.html
+added QmX5Bf5H2ErUgZVRL8a719t5AjQ3aR1Nu29j6647DUFGK5 site/how-to/SSH/index.html
+added QmWNHSkZ95mASpXQwfrdC5ctG6qC3PDmC5r9aPQN7bhmuj site/how-to/SVN/index.html
+added QmfVSFXNG5fmUqjQqcWNnjxVhr2ZrEF2gnHx1xdgCweFe9 site/how-to/TAR/index.html
+added QmXgVQAkK1BUHe3U4T5XmAZ35tZdUhqZCkw7GkRYJPpcyR site/how-to/VIM/index.html
+added QmRwvvAnUiLxbrXMgH6bjqrCLEbrEBZjpLbFPpLD7gN4L5 site/how-to/Windows/index.html
+added QmY2kfxLbiHyZHqxCwNJB49AkES7wkNjmWiGFAbRnG1TRq site/index.html
+added QmR6Np2SZpxLjb1XnRDCBWjxrL7T2gir6w1huC9vJkkpmm site/recipes/Marry Me Chicken/index.html
 added QmV7oCuAyAFPNkJ7dC7CxsG3VNshwZC6McSNitZwBs9gKC site/s/facebook/index.html
 added QmekPJcLncHPcKG67Ase3jJjvFKUaLTTiRfDMGJDWvb8hs site/s/github/index.html
 added QmWoFVC76MYS592T3G1LLR8TmV2v8RMP3D7K3Uw8FjrM2h site/s/gitlab/index.html
 added QmWcJCvHeXcd3qPKzefg6HUDZakbLLkLym34aEnEVRNMen site/s/linkedin/index.html
-added QmaLTmV7tCzaDxcYZR6RemPczVKPLvz7ZPTRQXek8XFefp site/search/search_index.json
-added QmZmfoyFkz8Ho9Zwd2JRpoQeLQ8S7b9NxPvaaSmovU3dvK site/sitemap.xml
-added QmSZ9E5kfGSJS1kRaqvjGw9USf8FaRsK3gfGFoDzSjy83w site/sitemap.xml.gz
-added QmcBCUmFs4ws1bLbCAUYWB3jX7d8YyPwYy6A8VFH86eVVE site/tags/index.html
+added QmVtqKYQNrpZzMgaTB6jzAdZSVHYmok6JWTfF8nd1nns1C site/search/search_index.json
+added QmYnTVLKHt1vU5heXgcCDcj83wbDcnrmxfyo2FRoBpF5eQ site/sitemap.xml
+added QmWUYAkk55bxstkLXHX4iasnu72ZCyr6U6PXDE8N32X5dy site/sitemap.xml.gz
+added QmPVDwKLF7tZ1zLp9SSdxTeG6ct65QqhsjjnzqZgvYBg51 site/tags/index.html
 added QmRUcqscVZP5QcPJof5fGSSFeR5yt8dHEkt3WTkLWyECmg site/assets/images/social/blog
-added QmUnXy1rGbg4n1Q95vmq8bxKMQP6iGvXL7ZcZtK75GvRaU site/assets/images/social/how-to
+added QmfPYHYNosmpUm1jcWhcdNGZ3VQywWQk5bvKtVKfQkjGaR site/assets/images/social/how-to
 added QmfYzXQoehWiSxuU55xAexgM4MkyE7bDhJQzw5AmRCDNqE site/assets/images/social/recipes
-added QmaoDcq4Tp2UtwLEpt1jPLEcE8xZvXNQY5ggeXtirLf5TW site/assets/images/social
-added QmNb8aiww29dkAzQdQk3JTGHmvuphVUU49FC1xYy1ZruFZ site/assets/images
+added QmTRph4R69eusq7NcKukYUE5Sx6qVwyQREMj6kEfL68EF3 site/assets/images/social
+added QmeV5UpRRPE5RDhcmsRu3saTMR8aN3TGztMzWzm9ofmPgd site/assets/images
 added QmdnbLiqixr7eGibPpbzowYtuUST439RdNc5NZ5HnHN2Qj site/assets/javascripts/lunr/min
 added QmddXrpBKYgaNCZosFnpGwKEK1zYDyevPsKKpmBgCuiyxk site/assets/javascripts/lunr
 added QmYGi6tL6pBCoXuNbgRr2fsZZiRc2whaunhKrNvEsP7bkF site/assets/javascripts/workers
 added QmYYdhtPEh5FCiY23wdAGUwKtmR6Y6Lyc3PXXTKC7T45er site/assets/javascripts
 added QmZWYHEgmwcqAMAehFfHLQs4T3jmgLBCZU6yT1LLrNXC1q site/assets/stylesheets
-added Qme892XYii9gFxYAHggRUog2K1BH3fdodDaHbXu5GogAfP site/assets
-added QmUPFokEDiQeArx3YHiqfRxCBEwrNc9GTDKFsyxiBppXN8 site/blog/IPFS Second Post
-added QmWQoVKoAXCyVDvcSYh3K2hjt1HTd1674YWK8piCthncyi site/blog/Markdown Metadata
-added QmR5naFkCHCnomo54u2focG5UoNqV8XsAJzDbTjpEDJSVh site/blog/ipfs-first-post
-added QmVQgDm66kngpuqFQExF7GLyy7w8zEx2ETfXx5iKEvBvXz site/blog
-added QmXHyAZnFyZyaEHRc7uiLmj2tQfgRh9tbBujqH38P2qQvf site/how-to/Ansible
-added QmbjNMBArjSKHpLBnCoXfnvFwMJz3Us471ePyHbXJxRfK1 site/how-to/Ansible - Playbooks
-added QmVL4Rw4th8ZcyFy3wSi9ExkLHiWkWEvo5FhgUEmiaSYG6 site/how-to/Docker
-added QmQXAKS6GW7rUYdSj5RjEHkE6SpfKJDJB9VpCvtzD6nVg1 site/how-to/FFMPEG
-added QmQqCs3PUD3ymJ3W1UGqCQNKeN6jRB8iFJYkV2boCLg3ji site/how-to/GIT
-added QmXEzt5q1q1TjwVCWXfmjC6ZNKBN8Q94QErxZS9W8Jyx8z site/how-to/JSON
-added QmPnsHiT1x851kVsFqUAJLa9V7uhLDWVt7NPXqrJG5YvHY site/how-to/LXC Image Creation
-added QmWUhzc7zctFyFACNC6VeZT3ZntBwX3k4hD8RTtWEE5cMP site/how-to/Linux
-added QmPamMcdbbq2ez1atHPLPsxcJFVmotMqiFVt2NJHhZHt3r site/how-to/MDRAID
-added QmWLKHERRjFjmKhy3RDQ9jdZk7psWjZQK4XWtjUay6hZNa site/how-to/MySQL
-added QmZfktoJEih4wNfX8FJmRLvJnJuHVTvtth7ECrxC6rMBNV site/how-to/Python
-added QmdnoufFLAiScZLmfPssDFqz1njBE1tBYZRaLpk2T3pXAo site/how-to/SSH
-added QmQy5QQghQcstwPLw73hZbwLEVTkrUTj4mKj8EHqndUVfj site/how-to/SVN
-added QmXMRnQ4xncf9TSVpe7B43L9BPJj8UpvRfwq9Uk44DzGxd site/how-to/TAR
-added Qmaaf64fjhCHp5rChL7xxbLvXoZMu7Yt54ikJa42rYUuYK site/how-to/VIM
-added QmcK1rSaanVfsy2A6fzwjpgg2YXRcVCSLdjpc6VwyK7ck1 site/how-to/Windows
-added QmbBDFsQb6mJEoEHLnb53bGvhV4NA2Z1E5oBZcM7vu1ZT5 site/how-to
-added QmXm1UQHhVWRwGzEfz4Kry7BQDPqYBQNu5SUiqmYADRLQv site/recipes/Marry Me Chicken
-added QmPzQnzDvQbNxR6EAtx5EcJFshC7iYRD6GwT7Y6vabqDs7 site/recipes
+added QmU4KcN7orWtEp72Zmvsb7Ekmd6NALbDVbpUNNQscNdw8k site/assets
+added QmX2MmAdtvT4JW2hvsD2eqoMDq8aWPQdvYbatsSD37uY85 site/blog/IPFS Second Post
+added QmaRG5gQvj8EhgHSBBvbui8j51MHgcarZ5guFPXApNH8jP site/blog/Markdown Metadata
+added QmcBMPrMBxkxGgGGoHkJyXn1KGT3wZHD8p5k3Cieoweeqy site/blog/ipfs-first-post
+added QmQgcXtMhmRhd8AMCmxUhtGfZYRz9GHS4UXog7Je3EbFHK site/blog
+added QmXBY9iborGJjFp6PYRqz4dqpKCrGReeo78ZGxBLeC65h2 site/how-to/Ansible
+added QmdmX3Bm1DJUtdZAEWbkzK5zh6FAbeo5LhtBTfEu2K38Q5 site/how-to/Ansible - Playbooks
+added QmUmY7YpJdfL4aTTwKv58perawgrM728Qq81Xyv6Ugakzy site/how-to/Bash
+added QmSZ8APpqBcNipZ8pXNgtV8gD78iw3L9v5tMbR6pp5PWBo site/how-to/Docker
+added QmWFbWxiHtobWEF9qjgjuDFjHqxyEew4cYa8MjqxMJrGNW site/how-to/FFMPEG
+added QmSvdC6jeC1CBN4RJ6TB75FZ5Jgpjrcz4DiARQVBp3jexs site/how-to/GIT
+added QmdLn7sL1ChYuEbNPhiSKc6YK22A8jgRipkgaoGnCQEdBg site/how-to/JSON
+added QmSQfSTiaUzypJPp9VQAsNkh5kjU3ctQ1Zn7mD1mCAN3tU site/how-to/LXC Image Creation
+added QmS3iNkb5tiusCjPf3m3ZpVEFjFNeSFKrTMsbEXujTrTZj site/how-to/Linux
+added QmSbbFJv6fa7PYZGqgXGcCiCtufH8pmyCg6qx5QuZPJbnE site/how-to/MDRAID
+added QmXXCYMS7EQBvmVk9e74vVbULhFdppK3Rv428rB6AQDHSM site/how-to/MySQL
+added QmRRmzkWExQ1nGNxLNGqeC1uTv9an3eDey54iZyqbELqcD site/how-to/Python
+added QmTZvVVANkLkh8oz9BqyZZ7651KdcQ73TrMdmVNW9ByMf6 site/how-to/SSH
+added QmYNbWzYwHm6smqGzDwrLTGqE1MWEiiL9jCyuEHpVLEkPx site/how-to/SVN
+added QmTmHmwKdQ6qtbEk6vk5obRLC4LfmKogsH5cbSsLurnAGj site/how-to/TAR
+added QmYvUrfJo1JSwSYXAfZHre71pday78k2NPCgifkjME4soF site/how-to/VIM
+added QmZHhEN1Vh4p4RSNukpXQRqfKc5rz9dLMMBE7GUAQATyeW site/how-to/Windows
+added QmfLayRi2UFZrj1AVHgAgcp6fRL3Y97YUgx6AfsHDguQVF site/how-to
+added QmVwTTSdaNREMaSmhSd9DtUVWNfCw41whezPwJXUTuFuMJ site/recipes/Marry Me Chicken
+added QmedkwfVTEwTsMKcNf7z9ZdSaimLmCS59j1BBdRyy4fSLh site/recipes
 added QmUBRvQbwdi9M3PJSBk8unE8gvG2MBLbrGBFYvTQny3JTV site/s/facebook
 added QmPCfu5sakGSK8axFk7Bc1MtuYhXo8AkGBY9E3JtKYCJL4 site/s/github
 added QmPoJ1fm6rmjcSjSCnmmcrnf8DraL7EReAvqy4NadSJU3Z site/s/gitlab
 added QmeU5rYRzdTVB8GKQ7LP1JqmfhuEuQxkzizPhaQYjWFc2D site/s/linkedin
 added QmeCEpa15wVvfs9kR2c6Smwg2vmNN5WAakvBHYGZZPmQLo site/s
-added QmU2gGEorEzJVjd31MZokfytMhhKyPMxRfdUJiaDmhNvr7 site/search
-added QmaS5wRNgoVBMtFuzSGx9pyjUEzB5NeU2MJSJAtHjmXfEu site/tags
-added QmUvxbNZ7Z88rc7cKAfr1perVstJ3oP2MSBr3WxZjGhwcm site
-Published to k51qzi5uqu5djjziu1k5ty1a4xo13pn4bs4at2hk0u6f9bdllv5k47bqvv0yz9: /ipfs/QmUvxbNZ7Z88rc7cKAfr1perVstJ3oP2MSBr3WxZjGhwcm
+added QmbFkV4jd1wU2MyfDtP7sotzczRiAb57BfcgnkBGicX9qn site/search
+added QmWBkbNct9Wy5JAV7LL9jcytVW2uJV2h9Zbgb6U5ZszPVG site/tags
+added QmSpA8AxyaHuNRHTh1bqsPrsUsNmqTj28NEtpmXWpJwBqf site
+Published to k51qzi5uqu5djjziu1k5ty1a4xo13pn4bs4at2hk0u6f9bdllv5k47bqvv0yz9: /ipfs/QmSpA8AxyaHuNRHTh1bqsPrsUsNmqTj28NEtpmXWpJwBqf
