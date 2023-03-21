@@ -2,4 +2,4 @@
 
 {{ blog_content }}
 
-Have an average day :| :fontawesome-solid-dice-d20:
+Have an average day :|
