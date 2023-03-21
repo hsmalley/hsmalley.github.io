@@ -3,7 +3,9 @@ mkdocs-glightbox
 mkdocs-redirects
 mkdocs-minify-plugin
 mkdocs-blogging-plugin
+mkdocs-awesome-pages-plugin
 mkdocs-obsidian-support-plugin
+mkdocs-meta-descriptions-plugin
 cairosvg
 pillow
 Pygments

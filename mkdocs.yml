@@ -69,12 +69,17 @@ markdown_extensions:
       pygments_lang_class: true
 
 plugins:
+  - awesome-pages
+  - obsidian-support
+  - glightbox
   - search
   - social
   - tags
-  - offline
-  - glightbox
-  - obsidian-support
+  - meta-descriptions:
+      quiet: true
+      enable_checks: true
+      min_length: 50
+      max_length: 160
   - redirects:
       redirect_maps:
         s/facebook.md: https://facebook.com/hsmalley
@@ -110,20 +115,5 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - About Me: index.md
-  - Recipes:
-      - recipes/Marry Me Chicken.md
-  - Blog: blog.md
-  - How To:
-      - how-to/GIT.md
-      - how-to/SVN.md
-      - how-to/SSH.md
-      - how-to/SSH Key Signing.md
-      - how-to/VIM.md
-      - how-to/Ansible.md
-      - how-to/TAR.md
-      - how-to/FFMPEG.md
-      - how-to/JSON.md
-      - how-to/MD RAID.md
-      - how-to/MySQL.md
-      - how-to/Docker.md
+  - About Me: blog/README.md
+  - ...
