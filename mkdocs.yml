@@ -1,17 +1,19 @@
 ---
-site_name: Hugh Smalley
+site_name: 🤓 🐐‍💨‍🎂
 site_url: https://hsmalley.github.io
 site_author: Hugh Smalley
 site_description: |-
   I don't claim to know anything. Though I might have a few good ideas now and again
 
-repo_name: hsmalley/hsmalley
+repo_name: hsmalley.github.io
 repo_url: https://github.com/hsmalley/hsmalley
 
 copyright: Copyright &copy; 2023 Hugh Smalley
 
 theme:
   name: material
+  icon:
+    logo: fontawesome/solid/dice-d20
   include_search_page: false
   search_index_only: true
   language: en
@@ -19,16 +21,18 @@ theme:
     - content.code.copy
     - content.code.annotate
     - content.tabs.link
-    - tags:
-        insert: bottom
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: deep orange
+      accent: deep orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: deep orange
+      accent: deep orange
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -74,7 +78,8 @@ plugins:
   - glightbox
   - search
   - social
-  - tags
+  - tags:
+      tags_file: tags.md
   - meta-descriptions:
       quiet: true
       enable_checks: true
@@ -115,5 +120,6 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
-  - About Me: blog/README.md
   - ...
+  - About Me: blog/README.md
+  - Tags: tags.md
