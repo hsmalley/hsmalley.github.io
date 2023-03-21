@@ -61,6 +61,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://hsmalley.github.io/how-to/LXC%20Image%20Creation/</loc>
+         <lastmod>2023-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://hsmalley.github.io/how-to/Linux/</loc>
          <lastmod>2023-03-21</lastmod>
          <changefreq>daily</changefreq>
