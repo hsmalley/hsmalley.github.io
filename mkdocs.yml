@@ -122,4 +122,5 @@ extra_javascript:
 nav:
   - ...
   - About Me: blog/README.md
+  - Resume: resume.md
   - Tags: tags.md
