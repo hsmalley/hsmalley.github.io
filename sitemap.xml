@@ -16,17 +16,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://hsmalley.github.io/blog/Markdown%20Metadata/</loc>
+         <lastmod>2023-03-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://hsmalley.github.io/blog/ipfs-first-post/</loc>
          <lastmod>2023-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hsmalley.github.io/how-to/Ansible/</loc>
+         <loc>https://hsmalley.github.io/how-to/Ansible%20-%20Playbooks/</loc>
          <lastmod>2023-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hsmalley.github.io/how-to/Create%20and%20Sync%20Repos/</loc>
+         <loc>https://hsmalley.github.io/how-to/Ansible/</loc>
          <lastmod>2023-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -51,12 +56,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hsmalley.github.io/how-to/Linux%20Version%20Checking/</loc>
+         <loc>https://hsmalley.github.io/how-to/Linux/</loc>
          <lastmod>2023-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hsmalley.github.io/how-to/MD%20RAID/</loc>
+         <loc>https://hsmalley.github.io/how-to/MDRAID/</loc>
          <lastmod>2023-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -66,12 +71,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://hsmalley.github.io/how-to/Python%20Cert%20Errors/</loc>
-         <lastmod>2023-03-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://hsmalley.github.io/how-to/SSH%20Key%20Signing/</loc>
+         <loc>https://hsmalley.github.io/how-to/Python/</loc>
          <lastmod>2023-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -97,11 +97,6 @@
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/Windows/</loc>
-         <lastmod>2023-03-21</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://hsmalley.github.io/how-to/Write%20a%20Playbook/</loc>
          <lastmod>2023-03-21</lastmod>
          <changefreq>daily</changefreq>
     </url>
