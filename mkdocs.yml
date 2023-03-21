@@ -20,7 +20,7 @@ theme:
     - content.code.annotate
     - content.tabs.link
     - tags:
-        insert: top
+        insert: bottom
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
