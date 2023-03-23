@@ -104,7 +104,6 @@ plugins:
         - blog
         - how-to
         - recipes
-  - offline
 extra:
   version:
     provider: mike
