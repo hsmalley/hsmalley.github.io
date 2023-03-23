@@ -9,7 +9,7 @@ copyright: CC-BY-SA
 
 System Engineer based in South Florida 🇺🇸 🏴󠁵󠁳󠁦󠁬󠁿
 
-[Email](hsmalley@duck.com) / [Website](https://hsmalley.github.io) / [LinkedIn](https://linkedin/in/hsmalley) / [Github](https://github.com/hsmalley)
+[Email](mailto:hsmalley@duck.com) / [Website](https://hsmalley.github.io) / [LinkedIn](https://linkedin/in/hsmalley) / [Github](https://github.com/hsmalley)
 
 ---
 
