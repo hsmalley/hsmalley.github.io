@@ -2,142 +2,147 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hsmalley.github.io/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/resume/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/tags/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/blog/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/blog/IPFS%20Second%20Post/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/blog/Markdown%20Metadata/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/blog/ipfs-first-post/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/Ansible%20-%20Playbooks/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/Ansible/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/Bash/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/FFMPEG/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/GIT/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/JSON/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/LXC%20Image%20Creation/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/Linux/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/MDRAID/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hsmalley.github.io/how-to/MTR/</loc>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/MySQL/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/Podman/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/Python/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/SSH/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/SVN/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/TAR/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/TMUX/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/Taskfile/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/VIM/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/how-to/Windows/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/recipes/Marry%20Me%20Chicken/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hsmalley.github.io/tags/</loc>
-         <lastmod>2023-03-23</lastmod>
+         <lastmod>2023-03-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
