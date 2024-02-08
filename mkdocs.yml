@@ -8,7 +8,7 @@ site_description: |-
 repo_name: hsmalley.github.io
 repo_url: https://github.com/hsmalley/hsmalley
 
-copyright: Copyright &copy; 2023 Hugh Smalley
+copyright: Copyright &copy; 2024 Hugh Smalley
 
 theme:
   name: material
